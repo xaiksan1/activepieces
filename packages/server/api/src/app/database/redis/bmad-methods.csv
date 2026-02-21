@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-3BE8C829,createDefaultRedisConnection,No description,CODE_JAVASCRIPT,default-redis.ts,8,FUNCTION
+MTH-3114712D,createRedisConnectionUsingUrl,No description,CODE_JAVASCRIPT,default-redis.ts,20,FUNCTION
+MTH-06A5B1F9,createStandaloneRedisConnection,No description,CODE_JAVASCRIPT,default-redis.ts,26,FUNCTION
+MTH-97731157,readCAFile,No description,CODE_JAVASCRIPT,default-redis.ts,61,FUNCTION
+MTH-90263DDC,createMemoryRedisConnection,No description,CODE_JAVASCRIPT,memory-redis.ts,7,FUNCTION
+MTH-362880A9,getOrCreateRedisMemoryServer,No description,CODE_JAVASCRIPT,memory-redis.ts,19,FUNCTION
+MTH-78B674BD,createSentinelRedisConnection,No description,CODE_JAVASCRIPT,sentinel-redis.ts,7,FUNCTION
+MTH-4DB41E48,getTlsOptionsForSentinel,No description,CODE_JAVASCRIPT,sentinel-redis.ts,38,FUNCTION
+MTH-7546CA95,readCAFile,No description,CODE_JAVASCRIPT,sentinel-redis.ts,54,FUNCTION

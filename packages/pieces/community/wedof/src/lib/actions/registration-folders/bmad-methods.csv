@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8E2C51A0,response,No description,CODE_JAVASCRIPT,cancel-registration-folder.ts,31,FUNCTION
+MTH-CA0A4549,response,No description,CODE_JAVASCRIPT,declare-registration-folder-servicedone.ts,48,FUNCTION
+MTH-A655E1C5,response,No description,CODE_JAVASCRIPT,declare-registration-folder-terminated.ts,39,FUNCTION
+MTH-7F82938E,response,No description,CODE_JAVASCRIPT,refuse-registration-folder.ts,31,FUNCTION
+MTH-D8B82A5C,selectedFields,No description,CODE_JAVASCRIPT,update-registration-folder.ts,76,FUNCTION
+MTH-D8B82A5C,selectedFields,No description,CODE_JAVASCRIPT,update-registration-folder.ts,171,FUNCTION

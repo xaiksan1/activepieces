@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6046D372,fetchBroadcasts,No description,CODE_JAVASCRIPT,service.ts,27,FUNCTION
+MTH-26C7525F,fetchCustomFields,No description,CODE_JAVASCRIPT,service.ts,57,FUNCTION
+MTH-E4FC5371,fetchForms,No description,CODE_JAVASCRIPT,service.ts,90,FUNCTION
+MTH-06ADE782,fetchPurchases,No description,CODE_JAVASCRIPT,service.ts,119,FUNCTION
+MTH-095B7C97,fetchSequences,No description,CODE_JAVASCRIPT,service.ts,151,FUNCTION
+MTH-04315A8F,fetchSubscriperById,No description,CODE_JAVASCRIPT,service.ts,179,FUNCTION
+MTH-988C7B05,fetchSubscriberByEmail,No description,CODE_JAVASCRIPT,service.ts,213,FUNCTION
+MTH-3CE8C3C6,fetchSubscribedTags,No description,CODE_JAVASCRIPT,service.ts,250,FUNCTION
+MTH-FB5BDF65,fetchTags,No description,CODE_JAVASCRIPT,service.ts,282,FUNCTION
+MTH-DF50506B,createWebhook,No description,CODE_JAVASCRIPT,service.ts,309,FUNCTION
+MTH-407B0E22,removeWebhook,No description,CODE_JAVASCRIPT,service.ts,337,FUNCTION

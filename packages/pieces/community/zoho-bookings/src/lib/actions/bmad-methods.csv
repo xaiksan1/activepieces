@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8F44D8C4,location,No description,CODE_JAVASCRIPT,book-appointment.ts,27,FUNCTION
+MTH-8F44D8C4,location,No description,CODE_JAVASCRIPT,book-appointment.ts,63,FUNCTION
+MTH-8F44D8C4,location,No description,CODE_JAVASCRIPT,book-appointment.ts,101,FUNCTION
+MTH-8F44D8C4,location,No description,CODE_JAVASCRIPT,book-appointment.ts,138,FUNCTION
+MTH-B0DAC00C,location,No description,CODE_JAVASCRIPT,fetch-availability.ts,27,FUNCTION
+MTH-B0DAC00C,location,No description,CODE_JAVASCRIPT,fetch-availability.ts,63,FUNCTION
+MTH-B0DAC00C,location,No description,CODE_JAVASCRIPT,fetch-availability.ts,100,FUNCTION
+MTH-B0DAC00C,location,No description,CODE_JAVASCRIPT,fetch-availability.ts,142,FUNCTION
+MTH-B5FD464A,formatDate,Format date to YYYY-MM-DD format,CODE_JAVASCRIPT,fetch-availability.ts,183,FUNCTION
+MTH-5DA4774B,month,No description,CODE_JAVASCRIPT,fetch-availability.ts,186,FUNCTION
+MTH-B663BE85,location,No description,CODE_JAVASCRIPT,reschedule-appointment.ts,47,FUNCTION
+MTH-B663BE85,location,No description,CODE_JAVASCRIPT,reschedule-appointment.ts,84,FUNCTION

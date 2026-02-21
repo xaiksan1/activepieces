@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-29219D8D,batchUpdate,No description,CODE_JAVASCRIPT,common.ts,57,FUNCTION
+MTH-FE02A70F,getSlide,No description,CODE_JAVASCRIPT,common.ts,75,FUNCTION
+MTH-AE09AE16,createSlide,No description,CODE_JAVASCRIPT,common.ts,94,FUNCTION

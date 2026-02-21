@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-532904E9,makeClient,No description,CODE_JAVASCRIPT,client.ts,4,FUNCTION
+MTH-178D562C,getLinkHelperText,No description,CODE_JAVASCRIPT,utils.ts,4,FUNCTION

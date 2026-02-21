@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-82E9CAA2,getTableRows,Helper function to get all rows from a specific table,CODE_JAVASCRIPT,new-row-in-table.ts,25,FUNCTION
+MTH-8262651D,getWorksheets,No description,CODE_JAVASCRIPT,new-worksheet.ts,24,FUNCTION
+MTH-9C055FF4,createRowHash,No description,CODE_JAVASCRIPT,updated-row.ts,18,FUNCTION
+MTH-14E8DBF2,getWorksheetRows,Helper function to get all worksheet rows with error handling,CODE_JAVASCRIPT,updated-row.ts,24,FUNCTION
+MTH-71D543AD,headers,No description,CODE_JAVASCRIPT,updated-row.ts,52,FUNCTION
+MTH-0308CEB4,dataRows,No description,CODE_JAVASCRIPT,updated-row.ts,53,FUNCTION

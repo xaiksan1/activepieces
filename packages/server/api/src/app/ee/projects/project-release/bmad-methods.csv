@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A30B876A,findDiffStates,No description,CODE_JAVASCRIPT,project-release.service.ts,100,FUNCTION
+MTH-AFD44786,toResponse,No description,CODE_JAVASCRIPT,project-release.service.ts,110,FUNCTION
+MTH-B57B190B,getStateFromCreateRequest,No description,CODE_JAVASCRIPT,project-release.service.ts,153,FUNCTION

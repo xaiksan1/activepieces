@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1156283D,ApplyTags,No description,CODE_JAVASCRIPT,apply-tags.tsx,31,FUNCTION
+MTH-96C677A2,CreateTagDialog,No description,CODE_JAVASCRIPT,create-tag-dialog.tsx,27,FUNCTION
+MTH-B8503CDC,handleSubmit,No description,CODE_JAVASCRIPT,create-tag-dialog.tsx,47,FUNCTION
+MTH-1B68F1F6,PlatformPiecesPage,No description,CODE_JAVASCRIPT,index.tsx,37,FUNCTION
+MTH-57CDDF90,PieceActions,No description,CODE_JAVASCRIPT,piece-actions.tsx,20,FUNCTION
+MTH-63DBB7C3,SyncPiecesButton,No description,CODE_JAVASCRIPT,sync-pieces.tsx,11,FUNCTION

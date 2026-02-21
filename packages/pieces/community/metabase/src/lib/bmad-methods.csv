@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F846D1D9,queryMetabaseApi,No description,CODE_JAVASCRIPT,common.ts,13,FUNCTION

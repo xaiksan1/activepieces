@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2F3B6291,CreateFolderDialog,No description,CODE_JAVASCRIPT,create-folder-dialog.tsx,55,FUNCTION
+MTH-1EF1FB3A,FolderActions,No description,CODE_JAVASCRIPT,folder-actions.tsx,28,FUNCTION
+MTH-A7FADA60,FolderBadge,No description,CODE_JAVASCRIPT,folder-badge.tsx,11,FUNCTION
+MTH-93570A20,FolderIcon,No description,CODE_JAVASCRIPT,folder-filter-list.tsx,31,FUNCTION
+MTH-024865AA,FolderItem,No description,CODE_JAVASCRIPT,folder-filter-list.tsx,42,FUNCTION
+MTH-520A630F,FolderFilterList,No description,CODE_JAVASCRIPT,folder-filter-list.tsx,83,FUNCTION
+MTH-AAE741C8,updateSearchParams,No description,CODE_JAVASCRIPT,folder-filter-list.tsx,94,FUNCTION
+MTH-EBA78276,RenameFolderDialog,No description,CODE_JAVASCRIPT,rename-folder-dialog.tsx,33,FUNCTION

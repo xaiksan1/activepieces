@@ -1,0 +1,24 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5EFD82BA,cachePath,No description,CODE_JAVASCRIPT,cache-state.ts,9,FUNCTION
+MTH-2518E4DB,getCache,No description,CODE_JAVASCRIPT,cache-state.ts,12,FUNCTION
+MTH-10FF1ABC,cache,No description,CODE_JAVASCRIPT,cache-state.ts,21,FUNCTION
+MTH-18883B75,cacheState,No description,CODE_JAVASCRIPT,cache-state.ts,25,FUNCTION
+MTH-FD0C3085,saveToCache,No description,CODE_JAVASCRIPT,cache-state.ts,46,FUNCTION
+MTH-2C8478A2,readCache,No description,CODE_JAVASCRIPT,cache-state.ts,52,FUNCTION
+MTH-FA299AE7,codeBuilder,No description,CODE_JAVASCRIPT,code-builder.ts,42,FUNCTION
+MTH-0D841CC4,installDependencies,No description,CODE_JAVASCRIPT,code-builder.ts,107,FUNCTION
+MTH-DE45ACA6,compileCode,No description,CODE_JAVASCRIPT,code-builder.ts,135,FUNCTION
+MTH-F5E5EF9B,handleCompilationError,No description,CODE_JAVASCRIPT,code-builder.ts,149,FUNCTION
+MTH-400CC82D,engineInstaller,No description,CODE_JAVASCRIPT,engine-installer.ts,16,FUNCTION
+MTH-A8CEBC6D,atomicCopy,No description,CODE_JAVASCRIPT,engine-installer.ts,35,FUNCTION
+MTH-379C7574,executionFiles,No description,CODE_JAVASCRIPT,execution-files.ts,12,FUNCTION
+MTH-DFC51AF5,getFlowFromCache,No description,CODE_JAVASCRIPT,flow-worker-cache.ts,43,FUNCTION
+MTH-022E95B4,cacheFolderForFlow,No description,CODE_JAVASCRIPT,flow-worker-cache.ts,61,FUNCTION
+MTH-E6C7C443,runCommand,No description,CODE_JAVASCRIPT,package-manager.ts,33,FUNCTION
+MTH-F745320B,packageManager,No description,CODE_JAVASCRIPT,package-manager.ts,61,FUNCTION
+MTH-887EAF14,replaceRelativeSystemLinkWithAbsolute,No description,CODE_JAVASCRIPT,package-manager.ts,121,FUNCTION
+MTH-9654F0F8,getPieceFromCache,No description,CODE_JAVASCRIPT,piece-worker-cache.ts,30,FUNCTION
+MTH-98E9A204,skipCache,No description,CODE_JAVASCRIPT,piece-worker-cache.ts,48,FUNCTION
+MTH-BE98EFDF,getCacheKey,No description,CODE_JAVASCRIPT,piece-worker-cache.ts,60,FUNCTION
+MTH-F8705EA7,getCacheForPiece,No description,CODE_JAVASCRIPT,piece-worker-cache.ts,76,FUNCTION
+MTH-06C073DD,workerCache,No description,CODE_JAVASCRIPT,worker-cache.ts,20,FUNCTION

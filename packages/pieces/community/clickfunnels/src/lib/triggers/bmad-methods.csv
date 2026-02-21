@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-25CBC8A6,cachedData,No description,CODE_JAVASCRIPT,contact-completed-course.ts,51,FUNCTION
+MTH-6BBD76A1,cachedData,No description,CODE_JAVASCRIPT,contact-identified.ts,51,FUNCTION
+MTH-440A51B9,cachedData,No description,CODE_JAVASCRIPT,contact-submitted-form.ts,51,FUNCTION
+MTH-A2DFDC5C,cachedData,No description,CODE_JAVASCRIPT,contact-suspended-from-course.ts,51,FUNCTION
+MTH-C1C0203C,cachedData,No description,CODE_JAVASCRIPT,course-enrollment-created-for-contact.ts,51,FUNCTION
+MTH-028F603F,cachedData,No description,CODE_JAVASCRIPT,one-time-order-paid.ts,51,FUNCTION
+MTH-2457EBC3,cachedData,No description,CODE_JAVASCRIPT,scheduled-appointment-event-created.ts,51,FUNCTION
+MTH-56DF3A99,cachedData,No description,CODE_JAVASCRIPT,subscription-invoice-paid.ts,51,FUNCTION

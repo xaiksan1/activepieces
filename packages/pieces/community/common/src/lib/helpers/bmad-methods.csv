@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5DCB013C,getAccessTokenOrThrow,No description,CODE_JAVASCRIPT,index.ts,23,FUNCTION
+MTH-4BA6C8F7,joinBaseUrlWithRelativePath,No description,CODE_JAVASCRIPT,index.ts,34,FUNCTION
+MTH-DCB6F501,getBaseUrlForDescription,No description,CODE_JAVASCRIPT,index.ts,48,FUNCTION
+MTH-405F1532,createCustomApiCallAction,No description,CODE_JAVASCRIPT,index.ts,66,FUNCTION
+MTH-C1D34ADE,is_chromium_installed,No description,CODE_JAVASCRIPT,index.ts,246,FUNCTION
+MTH-D47F3D44,handleBinaryResponse,No description,CODE_JAVASCRIPT,index.ts,251,FUNCTION
+MTH-787C25F7,isBinaryBody,No description,CODE_JAVASCRIPT,index.ts,277,FUNCTION

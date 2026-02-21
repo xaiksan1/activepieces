@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BAFA8D62,emptyValueFilter,No description,CODE_JAVASCRIPT,client.ts,20,FUNCTION
+MTH-0E5E5EDC,prepareQuery,No description,CODE_JAVASCRIPT,client.ts,33,FUNCTION
+MTH-9697CB60,makeClient,No description,CODE_JAVASCRIPT,index.ts,8,FUNCTION
+MTH-89423C2F,mapSocialMediaProfile,No description,CODE_JAVASCRIPT,index.ts,162,FUNCTION

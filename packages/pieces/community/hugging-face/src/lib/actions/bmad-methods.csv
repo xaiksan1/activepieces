@@ -1,0 +1,37 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E95053A7,getModelsByUseCase,Define model options based on use case,CODE_JAVASCRIPT,chat-completion.ts,48,FUNCTION
+MTH-8FA5DCF6,getSystemPrompt,No description,CODE_JAVASCRIPT,chat-completion.ts,518,FUNCTION
+MTH-FDA615FE,getUseCaseDescription,No description,CODE_JAVASCRIPT,chat-completion.ts,556,FUNCTION
+MTH-6C1D42BE,getQualityTips,No description,CODE_JAVASCRIPT,chat-completion.ts,571,FUNCTION
+MTH-05FC70C6,getNextSteps,No description,CODE_JAVASCRIPT,chat-completion.ts,611,FUNCTION
+MTH-A44AC63E,calculateEstimatedCost,No description,CODE_JAVASCRIPT,chat-completion.ts,635,FUNCTION
+MTH-B967F1D2,estimatedCost,No description,CODE_JAVASCRIPT,chat-completion.ts,644,FUNCTION
+MTH-96050299,getModelsByUseCase,No description,CODE_JAVASCRIPT,create-image.ts,47,FUNCTION
+MTH-B69E67D0,generationTime,No description,CODE_JAVASCRIPT,create-image.ts,346,FUNCTION
+MTH-0EFCE6E2,getUseCaseDescription,No description,CODE_JAVASCRIPT,create-image.ts,407,FUNCTION
+MTH-21B8DE5C,getQualityTips,No description,CODE_JAVASCRIPT,create-image.ts,423,FUNCTION
+MTH-768B70AB,getNextSteps,No description,CODE_JAVASCRIPT,create-image.ts,471,FUNCTION
+MTH-695C5811,calculateEstimatedCost,No description,CODE_JAVASCRIPT,create-image.ts,498,FUNCTION
+MTH-9C9417C8,getMimeType,No description,CODE_JAVASCRIPT,document-question-answering.ts,110,FUNCTION
+MTH-47226EAB,getModelsByUseCase,No description,CODE_JAVASCRIPT,image-classification.ts,79,FUNCTION
+MTH-A58EA4ED,getMimeType,No description,CODE_JAVASCRIPT,image-classification.ts,375,FUNCTION
+MTH-BC7447AF,processingTime,No description,CODE_JAVASCRIPT,image-classification.ts,466,FUNCTION
+MTH-AE24D734,calculateStandardDeviation,No description,CODE_JAVASCRIPT,image-classification.ts,603,FUNCTION
+MTH-BE71B7BA,getRecommendedAction,No description,CODE_JAVASCRIPT,image-classification.ts,612,FUNCTION
+MTH-95BA9181,getUseCaseDescription,No description,CODE_JAVASCRIPT,image-classification.ts,632,FUNCTION
+MTH-A3FB7B51,getClassificationTips,No description,CODE_JAVASCRIPT,image-classification.ts,650,FUNCTION
+MTH-18FFEF88,getNextSteps,No description,CODE_JAVASCRIPT,image-classification.ts,714,FUNCTION
+MTH-F51B558C,calculateEstimatedCost,No description,CODE_JAVASCRIPT,image-classification.ts,750,FUNCTION
+MTH-313412CC,getModelsByUseCase,Define model options based on use case,CODE_JAVASCRIPT,object-detection.ts,55,FUNCTION
+MTH-5C201DBC,getMimeType,Get image MIME type,CODE_JAVASCRIPT,object-detection.ts,264,FUNCTION
+MTH-E871F440,detectionTime,Calculate detection metrics,CODE_JAVASCRIPT,object-detection.ts,309,FUNCTION
+MTH-B8612054,calculateStandardDeviation,Helper function to calculate standard deviation,CODE_JAVASCRIPT,object-detection.ts,458,FUNCTION
+MTH-76AF03D7,getUseCaseDescription,Helper function to get use case descriptions,CODE_JAVASCRIPT,object-detection.ts,467,FUNCTION
+MTH-6345BE6A,getDetectionTips,Helper function to provide detection tips,CODE_JAVASCRIPT,object-detection.ts,486,FUNCTION
+MTH-1F0DD70F,getNextSteps,Helper function to suggest next steps,CODE_JAVASCRIPT,object-detection.ts,533,FUNCTION
+MTH-EE89D548,calculateEstimatedCost,Helper function to estimate costs (rough approximation),CODE_JAVASCRIPT,object-detection.ts,570,FUNCTION
+MTH-B6BB4343,labels,Handle zero-shot classification,CODE_JAVASCRIPT,text-classification.ts,298,FUNCTION
+MTH-DAFE31BE,getModelsByType,Define model options based on content type,CODE_JAVASCRIPT,text-summarization.ts,59,FUNCTION
+MTH-C3950EF6,compressionRatio,No description,CODE_JAVASCRIPT,text-summarization.ts,414,FUNCTION
+MTH-19733771,getSuggestedUseCase,Helper function to suggest business use cases,CODE_JAVASCRIPT,text-summarization.ts,446,FUNCTION
+MTH-71D0A9C7,getQualityTips,Helper function to provide quality tips,CODE_JAVASCRIPT,text-summarization.ts,465,FUNCTION

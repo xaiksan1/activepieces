@@ -1,0 +1,15 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-30C0E8B2,continueIfFailureHandler,No description,CODE_JAVASCRIPT,error-handling.ts,29,FUNCTION
+MTH-23E069D6,handleExecutionError,No description,CODE_JAVASCRIPT,error-handling.ts,49,FUNCTION
+MTH-AF2BDAEA,isEngineError,No description,CODE_JAVASCRIPT,error-handling.ts,50,FUNCTION
+MTH-AB52BB48,executionFailedWithRetryableError,No description,CODE_JAVASCRIPT,error-handling.ts,61,FUNCTION
+MTH-49B69C86,formatMessage,No description,CODE_JAVASCRIPT,execution-errors.ts,18,FUNCTION
+MTH-0FE9A40D,removeLeavesInTopologicalOrder,No description,CODE_JAVASCRIPT,logging-utils.ts,24,FUNCTION
+MTH-8773D489,traverseJsonAndConvertToNodes,No description,CODE_JAVASCRIPT,logging-utils.ts,55,FUNCTION
+MTH-9653ED49,findChildren,No description,CODE_JAVASCRIPT,logging-utils.ts,87,FUNCTION
+MTH-45BDFD8E,jsonExceedMaxSize,No description,CODE_JAVASCRIPT,logging-utils.ts,102,FUNCTION
+MTH-D5978686,prop,No description,CODE_JAVASCRIPT,piece-loader.ts,95,FUNCTION
+MTH-9F1FF552,loadPieceFromDistFolder,No description,CODE_JAVASCRIPT,piece-loader.ts,148,FUNCTION
+MTH-A1449ABC,entries,No description,CODE_JAVASCRIPT,piece-loader.ts,150,FUNCTION
+MTH-314467D4,traverseAllParentFoldersToFindPiece,No description,CODE_JAVASCRIPT,piece-loader.ts,167,FUNCTION
+MTH-223FDA06,prepareTriggerExecution,No description,CODE_JAVASCRIPT,trigger-helper.ts,256,FUNCTION

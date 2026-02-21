@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9C5469CD,getClient,No description,CODE_JAVASCRIPT,index.ts,23,FUNCTION
+MTH-0F23CF6E,amount,No description,CODE_JAVASCRIPT,index.ts,102,FUNCTION
+MTH-0F23CF6E,amount,No description,CODE_JAVASCRIPT,index.ts,365,FUNCTION
+MTH-0F23CF6E,amount,No description,CODE_JAVASCRIPT,index.ts,426,FUNCTION

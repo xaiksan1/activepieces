@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B7FD7E21,ConfigureProviderDialog,No description,CODE_JAVASCRIPT,configure-provider-dialog.tsx,29,FUNCTION
+MTH-C0D6E402,handleProviderChange,No description,CODE_JAVASCRIPT,configure-provider-dialog.tsx,50,FUNCTION
+MTH-045B392B,handleSubmit,No description,CODE_JAVASCRIPT,configure-provider-dialog.tsx,76,FUNCTION
+MTH-6F8DD325,CopilotSetup,No description,CODE_JAVASCRIPT,index.tsx,15,FUNCTION
+MTH-51059FC9,getConfiguredProvider,No description,CODE_JAVASCRIPT,index.tsx,39,FUNCTION
+MTH-F173AE7F,handleConfigure,No description,CODE_JAVASCRIPT,index.tsx,63,FUNCTION

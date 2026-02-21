@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A611B262,projectMemberService,No description,CODE_JAVASCRIPT,project-member.service.ts,36,FUNCTION
+MTH-ABCF3AE9,enrichProjectMemberWithUser,No description,CODE_JAVASCRIPT,project-member.service.ts,228,FUNCTION

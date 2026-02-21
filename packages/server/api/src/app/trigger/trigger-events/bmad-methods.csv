@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0DB147C1,triggerEventService,No description,CODE_JAVASCRIPT,trigger-event.service.ts,34,FUNCTION
+MTH-792A191E,getSourceName,No description,CODE_JAVASCRIPT,trigger-event.service.ts,158,FUNCTION

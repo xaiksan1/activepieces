@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-32BB6458,createPineconeClient,No description,CODE_JAVASCRIPT,pinecone-client.ts,8,FUNCTION
+MTH-4D8DC3BB,validateApiKey,No description,CODE_JAVASCRIPT,pinecone-client.ts,21,FUNCTION
+MTH-2832A6F7,createPineconeClientFromAuth,No description,CODE_JAVASCRIPT,pinecone-client.ts,32,FUNCTION

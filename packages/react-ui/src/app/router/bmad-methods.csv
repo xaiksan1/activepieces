@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5E128CF1,AfterImportFlowRedirect,No description,CODE_JAVASCRIPT,after-import-flow-redirect.tsx,4,FUNCTION
+MTH-B400BCB7,DefaultRoute,No description,CODE_JAVASCRIPT,default-route.tsx,7,FUNCTION
+MTH-5B39E58C,FlagRouteGuard,No description,CODE_JAVASCRIPT,flag-route-guard.tsx,7,FUNCTION
+MTH-E16507C0,SettingsRerouter,No description,CODE_JAVASCRIPT,index.tsx,79,FUNCTION
+MTH-083A154A,ApRouter,No description,CODE_JAVASCRIPT,index.tsx,671,FUNCTION
+MTH-1ACE2395,RoutePermissionGuard,No description,CODE_JAVASCRIPT,permission-guard.tsx,7,FUNCTION
+MTH-AE86F164,ProjectRouterWrapper,No description,CODE_JAVASCRIPT,project-route-wrapper.tsx,95,FUNCTION

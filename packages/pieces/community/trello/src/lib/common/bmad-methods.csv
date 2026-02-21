@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D1215305,getAuthorisedUser,No description,CODE_JAVASCRIPT,index.ts,181,FUNCTION
+MTH-B9A7216F,listBoards,No description,CODE_JAVASCRIPT,index.ts,201,FUNCTION
+MTH-6FFF9C0A,listBoardLists,No description,CODE_JAVASCRIPT,index.ts,221,FUNCTION
+MTH-25B2D2B9,listBoardLabels,No description,CODE_JAVASCRIPT,index.ts,241,FUNCTION
+MTH-C687E2D9,getCardDetail,No description,CODE_JAVASCRIPT,index.ts,256,FUNCTION
+MTH-8F6DE7C9,getCardsInBoard,No description,CODE_JAVASCRIPT,index.ts,269,FUNCTION
+MTH-84727967,getCardsInList,No description,CODE_JAVASCRIPT,index.ts,282,FUNCTION

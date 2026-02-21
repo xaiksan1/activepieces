@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F874AF0A,generateTogglWebhookInstructions,No description,CODE_JAVASCRIPT,webhook-instructions.ts,1,FUNCTION

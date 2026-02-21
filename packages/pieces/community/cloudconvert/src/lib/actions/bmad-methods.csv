@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F19D92FB,archiveFileProps,No description,CODE_JAVASCRIPT,archive-file.ts,6,FUNCTION
+MTH-E01E6CAE,captureWebsiteProps,No description,CODE_JAVASCRIPT,capture-website.ts,6,FUNCTION
+MTH-52189DEF,downloadFileProps,No description,CODE_JAVASCRIPT,download-file.ts,6,FUNCTION
+MTH-9903A232,mergePdfProps,No description,CODE_JAVASCRIPT,merge-pdf.ts,6,FUNCTION
+MTH-75670FCB,optimizeFileProps,No description,CODE_JAVASCRIPT,optimize-file.ts,6,FUNCTION

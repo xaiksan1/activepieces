@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BC9C5A58,santizeText,No description,CODE_JAVASCRIPT,index.ts,10,FUNCTION
+MTH-BEBAE494,companies,No description,CODE_JAVASCRIPT,index.ts,96,FUNCTION
+MTH-82A855E7,uploadData,No description,CODE_JAVASCRIPT,index.ts,180,FUNCTION

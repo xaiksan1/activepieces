@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CE72FE2C,currentEnvIsNotDev,No description,CODE_JAVASCRIPT,dev-seeds.ts,12,FUNCTION
+MTH-13C41F1A,devDataAlreadySeeded,No description,CODE_JAVASCRIPT,dev-seeds.ts,18,FUNCTION
+MTH-77C1F6C9,setDevDataSeededFlag,No description,CODE_JAVASCRIPT,dev-seeds.ts,24,FUNCTION
+MTH-8AB5442D,seedDevUser,No description,CODE_JAVASCRIPT,dev-seeds.ts,33,FUNCTION
+MTH-501B81D5,seedDevData,No description,CODE_JAVASCRIPT,dev-seeds.ts,51,FUNCTION

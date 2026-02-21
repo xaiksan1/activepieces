@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-407430F3,response,No description,CODE_JAVASCRIPT,create-contact.ts,39,FUNCTION
+MTH-23014CD1,response,No description,CODE_JAVASCRIPT,create-list.ts,21,FUNCTION
+MTH-FDBC84B5,response,No description,CODE_JAVASCRIPT,unsubscribe-contact.ts,21,FUNCTION

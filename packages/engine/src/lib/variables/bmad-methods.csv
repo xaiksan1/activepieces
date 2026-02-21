@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BFED059D,validateProperty,No description,CODE_JAVASCRIPT,props-processor.ts,111,FUNCTION
+MTH-FF5202F4,createPropsResolver,No description,CODE_JAVASCRIPT,props-resolver.ts,17,FUNCTION
+MTH-F57D1E64,mergeFlattenedKeysArraysIntoOneArray,No description,CODE_JAVASCRIPT,props-resolver.ts,56,FUNCTION
+MTH-E95C35EE,valueToUse,No description,CODE_JAVASCRIPT,props-resolver.ts,72,FUNCTION
+MTH-28E7FD27,resolveInputAsync,No description,CODE_JAVASCRIPT,props-resolver.ts,85,FUNCTION
+MTH-944ACF28,resolveSingleToken,No description,CODE_JAVASCRIPT,props-resolver.ts,119,FUNCTION
+MTH-368024EC,handleConnection,No description,CODE_JAVASCRIPT,props-resolver.ts,128,FUNCTION
+MTH-91D8A4A9,parsePathAfterConnectionName,No description,CODE_JAVASCRIPT,props-resolver.ts,145,FUNCTION
+MTH-995BEDEE,parseConnectionNameOnly,No description,CODE_JAVASCRIPT,props-resolver.ts,156,FUNCTION
+MTH-CC2E0374,parseSquareBracketConnectionPath,No description,CODE_JAVASCRIPT,props-resolver.ts,166,FUNCTION
+MTH-EB156533,evalInScope,eslint-disable-next-line @typescript-eslint/ban-types,CODE_JAVASCRIPT,props-resolver.ts,179,FUNCTION
+MTH-151FD5DF,flattenNestedKeys,No description,CODE_JAVASCRIPT,props-resolver.ts,196,FUNCTION

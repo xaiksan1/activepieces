@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5BBE1EA5,getDailyUsageRedisKey,No description,CODE_JAVASCRIPT,platform-usage-service.ts,29,FUNCTION
+MTH-3AAF7FD8,platformUsageService,No description,CODE_JAVASCRIPT,platform-usage-service.ts,38,FUNCTION
+MTH-ECED3408,calculateCredits,No description,CODE_JAVASCRIPT,platform-usage-service.ts,226,FUNCTION
+MTH-E410078D,getUsage,No description,CODE_JAVASCRIPT,platform-usage-service.ts,230,FUNCTION
+MTH-1703C52E,getActiveFlows,No description,CODE_JAVASCRIPT,platform-usage-service.ts,266,FUNCTION
+MTH-E20E9B0A,getTables,No description,CODE_JAVASCRIPT,platform-usage-service.ts,277,FUNCTION
+MTH-5109A87E,getProjectsCount,No description,CODE_JAVASCRIPT,platform-usage-service.ts,287,FUNCTION
+MTH-6672B19A,getMCPsCount,No description,CODE_JAVASCRIPT,platform-usage-service.ts,292,FUNCTION
+MTH-19EB6D3F,getAgentsCount,No description,CODE_JAVASCRIPT,platform-usage-service.ts,303,FUNCTION
+MTH-D27BE938,getActiveUsers,No description,CODE_JAVASCRIPT,platform-usage-service.ts,313,FUNCTION
+MTH-4F79E150,roundToDecimals,No description,CODE_JAVASCRIPT,platform-usage-service.ts,323,FUNCTION

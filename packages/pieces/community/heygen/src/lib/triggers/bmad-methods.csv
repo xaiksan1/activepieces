@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FA3D40CB,webhook,No description,CODE_JAVASCRIPT,video-generation-completed.ts,27,FUNCTION
+MTH-A1AAA91A,webhook,No description,CODE_JAVASCRIPT,video-generation-failed.ts,26,FUNCTION

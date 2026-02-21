@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A36F25DE,BranchConditionToolbar,No description,CODE_JAVASCRIPT,branch-condition-toolbar.tsx,13,FUNCTION
+MTH-F05CA9A9,BranchSingleCondition,No description,CODE_JAVASCRIPT,branch-single-condition.tsx,68,FUNCTION
+MTH-9D5CAD25,handleDelete,No description,CODE_JAVASCRIPT,index.tsx,21,FUNCTION
+MTH-B140768E,handleAnd,No description,CODE_JAVASCRIPT,index.tsx,39,FUNCTION
+MTH-F9A59FB0,handleOr,No description,CODE_JAVASCRIPT,index.tsx,47,FUNCTION

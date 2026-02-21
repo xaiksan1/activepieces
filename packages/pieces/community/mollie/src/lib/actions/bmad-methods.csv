@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-46AEB9DC,lines,No description,CODE_JAVASCRIPT,create-order.ts,430,FUNCTION
+MTH-EA396602,lines,No description,CODE_JAVASCRIPT,create-payment-link.ts,428,FUNCTION
+MTH-45B256BE,reversals,No description,CODE_JAVASCRIPT,create-payment-refund.ts,203,FUNCTION
+MTH-D5537AC1,lines,No description,CODE_JAVASCRIPT,create-payment.ts,452,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1B62AB51,stopWatchEvent,No description,CODE_JAVASCRIPT,helper.ts,20,FUNCTION
+MTH-A393EE0B,watchEvent,No description,CODE_JAVASCRIPT,helper.ts,39,FUNCTION
+MTH-5748826A,getCalendars,No description,CODE_JAVASCRIPT,helper.ts,63,FUNCTION
+MTH-5171B35F,getColors,No description,CODE_JAVASCRIPT,helper.ts,87,FUNCTION
+MTH-F2DF2495,getEvents,No description,CODE_JAVASCRIPT,helper.ts,102,FUNCTION
+MTH-6DAD5DC9,getLatestEvent,No description,CODE_JAVASCRIPT,helper.ts,147,FUNCTION
+MTH-1B9681A4,getEventsForDropdown,No description,CODE_JAVASCRIPT,helper.ts,156,FUNCTION

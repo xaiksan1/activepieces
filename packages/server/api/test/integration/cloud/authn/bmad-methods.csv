@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DCA99622,createMockPlatformAndDomain,No description,CODE_JAVASCRIPT,cloud-authn.test.ts,728,FUNCTION

@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CEA7C90C,setupApp,No description,CODE_JAVASCRIPT,app.ts,96,FUNCTION
+MTH-E6544E55,getAdapter,No description,CODE_JAVASCRIPT,app.ts,347,FUNCTION
+MTH-1FF7F9E5,appPostBoot,No description,CODE_JAVASCRIPT,app.ts,357,FUNCTION
+MTH-597464BF,setupServer,No description,CODE_JAVASCRIPT,server.ts,19,FUNCTION
+MTH-4277DE19,setupBaseApp,No description,CODE_JAVASCRIPT,server.ts,31,FUNCTION
+MTH-75256A1C,setupWorker,No description,CODE_JAVASCRIPT,worker.ts,8,FUNCTION
+MTH-013105F4,workerPostBoot,No description,CODE_JAVASCRIPT,worker.ts,19,FUNCTION
+MTH-9210ADC3,generateWorkerToken,No description,CODE_JAVASCRIPT,worker.ts,26,FUNCTION

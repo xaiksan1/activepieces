@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-641B4A00,executeFromSocket,No description,CODE_JAVASCRIPT,main.ts,24,FUNCTION
+MTH-47A78800,setupSocket,No description,CODE_JAVASCRIPT,main.ts,33,FUNCTION
+MTH-69BF811E,sendToErrorSocket,No description,CODE_JAVASCRIPT,main.ts,100,FUNCTION

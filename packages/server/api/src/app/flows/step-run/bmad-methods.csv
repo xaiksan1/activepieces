@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BD23C2A1,sampleDataService,No description,CODE_JAVASCRIPT,sample-data.service.ts,23,FUNCTION
+MTH-BF40C5E7,saveSampleData,No description,CODE_JAVASCRIPT,sample-data.service.ts,96,FUNCTION
+MTH-A75E143E,useExistingOrCreateNewSampleId,No description,CODE_JAVASCRIPT,sample-data.service.ts,125,FUNCTION

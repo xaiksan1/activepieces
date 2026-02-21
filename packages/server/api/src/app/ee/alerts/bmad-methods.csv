@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C21F20EC,alertsHandler,No description,CODE_JAVASCRIPT,alerts-handler.ts,17,FUNCTION
+MTH-557A4668,scheduleSendingReminder,No description,CODE_JAVASCRIPT,alerts-handler.ts,23,FUNCTION
+MTH-13FD0DFA,sendAlertOnNewIssue,No description,CODE_JAVASCRIPT,alerts-handler.ts,56,FUNCTION
+MTH-C13B1D26,sendAlertOnFlowRun,No description,CODE_JAVASCRIPT,alerts-handler.ts,77,FUNCTION
+MTH-103B49AB,incrementAndExpire,No description,CODE_JAVASCRIPT,alerts-handler.ts,104,FUNCTION
+MTH-4F43147E,alertsService,No description,CODE_JAVASCRIPT,alerts-service.ts,16,FUNCTION

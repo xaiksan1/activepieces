@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E5C83130,AcceptInvitation,No description,CODE_JAVASCRIPT,accept-invitation.tsx,13,FUNCTION
+MTH-83A8C2CE,EditRoleDialog,No description,CODE_JAVASCRIPT,edit-role-dialog.tsx,34,FUNCTION
+MTH-A153F4B1,handleRoleChange,No description,CODE_JAVASCRIPT,edit-role-dialog.tsx,69,FUNCTION
+MTH-CB8CEE37,handleSave,No description,CODE_JAVASCRIPT,edit-role-dialog.tsx,73,FUNCTION
+MTH-5299E1CF,InvitationCard,No description,CODE_JAVASCRIPT,invitation-card.tsx,14,FUNCTION
+MTH-7F903B96,deleteInvitation,No description,CODE_JAVASCRIPT,invitation-card.tsx,20,FUNCTION
+MTH-B5C7884F,InviteUserDialog,No description,CODE_JAVASCRIPT,invite-user-dialog.tsx,79,FUNCTION
+MTH-D4AA9C1B,onSubmit,No description,CODE_JAVASCRIPT,invite-user-dialog.tsx,155,FUNCTION
+MTH-F505651B,copyInvitationLink,No description,CODE_JAVASCRIPT,invite-user-dialog.tsx,166,FUNCTION
+MTH-D89E523E,PlatformRoleSelect,No description,CODE_JAVASCRIPT,platform-role-select.tsx,20,FUNCTION
+MTH-3E69F176,ProjectMemberCard,No description,CODE_JAVASCRIPT,project-member-card.tsx,23,FUNCTION
+MTH-D0815577,deleteMember,No description,CODE_JAVASCRIPT,project-member-card.tsx,33,FUNCTION
+MTH-DBA98AB1,ProjectRoleSelect,No description,CODE_JAVASCRIPT,project-role-select.tsx,29,FUNCTION

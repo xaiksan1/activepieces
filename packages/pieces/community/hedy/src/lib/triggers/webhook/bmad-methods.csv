@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7F08CF0B,createHedyWebhookTrigger,No description,CODE_JAVASCRIPT,factory.ts,16,FUNCTION
+MTH-80F54046,webhookId,No description,CODE_JAVASCRIPT,factory.ts,65,FUNCTION
+MTH-00439B4B,payload,No description,CODE_JAVASCRIPT,factory.ts,86,FUNCTION
+MTH-9702A6D0,getSignatureHeader,No description,CODE_JAVASCRIPT,factory.ts,123,FUNCTION
+MTH-82ECF19A,extractRawBody,No description,CODE_JAVASCRIPT,factory.ts,136,FUNCTION
+MTH-0F221121,secureCompare,No description,CODE_JAVASCRIPT,factory.ts,148,FUNCTION

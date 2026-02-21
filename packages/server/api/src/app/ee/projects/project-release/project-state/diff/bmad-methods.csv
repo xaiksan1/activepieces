@@ -1,0 +1,16 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-63A95C42,isAgentChanged,No description,CODE_JAVASCRIPT,agent-diff.service.ts,12,FUNCTION
+MTH-4A9DEE24,findAgentsToUpdate,No description,CODE_JAVASCRIPT,agent-diff.service.ts,16,FUNCTION
+MTH-EE01A7B8,findAgentsToCreate,No description,CODE_JAVASCRIPT,agent-diff.service.ts,31,FUNCTION
+MTH-46EDD769,findAgentsToDelete,No description,CODE_JAVASCRIPT,agent-diff.service.ts,45,FUNCTION
+MTH-DAA1285B,findFlowsToCreate,No description,CODE_JAVASCRIPT,flow-diff.service.ts,14,FUNCTION
+MTH-AE88EC7A,findFlowsToDelete,No description,CODE_JAVASCRIPT,flow-diff.service.ts,24,FUNCTION
+MTH-2CBCEF58,findFlowsToUpdate,No description,CODE_JAVASCRIPT,flow-diff.service.ts,34,FUNCTION
+MTH-6003E782,searchInFlowForFlowByIdOrExternalId,No description,CODE_JAVASCRIPT,flow-diff.service.ts,57,FUNCTION
+MTH-E4A29E89,isSameVersion,No description,CODE_JAVASCRIPT,flow-diff.service.ts,61,FUNCTION
+MTH-734E3286,isFlowChanged,No description,CODE_JAVASCRIPT,flow-diff.service.ts,81,FUNCTION
+MTH-2A87AED1,normalize,No description,CODE_JAVASCRIPT,flow-diff.service.ts,111,FUNCTION
+MTH-2FE3E72E,isTableChanged,No description,CODE_JAVASCRIPT,table-diff.service.ts,12,FUNCTION
+MTH-78680586,findTablesToUpdate,No description,CODE_JAVASCRIPT,table-diff.service.ts,19,FUNCTION
+MTH-CB8BC573,findTablesToCreate,No description,CODE_JAVASCRIPT,table-diff.service.ts,35,FUNCTION
+MTH-644C2485,findTablesToDelete,No description,CODE_JAVASCRIPT,table-diff.service.ts,50,FUNCTION

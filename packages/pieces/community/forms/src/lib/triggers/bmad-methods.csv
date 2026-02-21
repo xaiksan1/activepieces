@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-38D34DCD,parseBoolean,No description,CODE_JAVASCRIPT,form-trigger.ts,37,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A314633A,isVerificationCall,No description,CODE_JAVASCRIPT,issue-event.ts,161,FUNCTION

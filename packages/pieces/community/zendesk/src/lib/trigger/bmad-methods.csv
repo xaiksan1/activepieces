@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-179F38A4,getTickets,No description,CODE_JAVASCRIPT,new-ticket-in-view.ts,156,FUNCTION
+MTH-6FE1AF9C,ticketOrganizationId,No description,CODE_JAVASCRIPT,new-ticket.ts,201,FUNCTION

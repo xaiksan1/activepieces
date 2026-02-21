@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A84CFF3E,models,Filter out audio models,CODE_JAVASCRIPT,ask-groq.ts,35,FUNCTION
+MTH-186931BE,models,Filter for whisper models only,CODE_JAVASCRIPT,transcribe-audio.ts,41,FUNCTION
+MTH-B88E2ACF,models,Filter for whisper models only,CODE_JAVASCRIPT,translate-audio.ts,41,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-917C0071,sendSurvey,No description,CODE_JAVASCRIPT,create-survey.ts,5,FUNCTION

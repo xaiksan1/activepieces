@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9125C431,createClient,No description,CODE_JAVASCRIPT,common.ts,15,FUNCTION
+MTH-1205ACCA,getConversationContent,No description,CODE_JAVASCRIPT,common.ts,77,FUNCTION
+MTH-256B43EE,getConversation,No description,CODE_JAVASCRIPT,common.ts,82,FUNCTION
+MTH-A743A9FA,getConversationStatus,No description,CODE_JAVASCRIPT,common.ts,128,FUNCTION
+MTH-D8987001,getConversationError,No description,CODE_JAVASCRIPT,common.ts,132,FUNCTION

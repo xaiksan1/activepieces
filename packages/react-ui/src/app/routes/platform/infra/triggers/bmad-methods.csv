@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-419B1E7F,percentageForLastXDays,No description,CODE_JAVASCRIPT,index.tsx,46,FUNCTION
+MTH-168BEFC5,generateLastXDays,No description,CODE_JAVASCRIPT,index.tsx,64,FUNCTION
+MTH-8B924EC5,TriggerHealthPage,No description,CODE_JAVASCRIPT,index.tsx,70,FUNCTION
+MTH-8A84B743,getStatusIcon,No description,CODE_JAVASCRIPT,index.tsx,109,FUNCTION
+MTH-CEDCABE0,getStatusColor,No description,CODE_JAVASCRIPT,index.tsx,122,FUNCTION
+MTH-40700941,getStatusTooltip,No description,CODE_JAVASCRIPT,index.tsx,135,FUNCTION
+MTH-AB45A133,StatusProgressBar,No description,CODE_JAVASCRIPT,status-progress-bar.tsx,20,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A99273DC,formBricksRegisterTrigger,No description,CODE_JAVASCRIPT,register.ts,14,FUNCTION

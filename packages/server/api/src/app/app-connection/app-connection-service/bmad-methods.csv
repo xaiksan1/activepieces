@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1A2E24FB,appConnectionService,No description,CODE_JAVASCRIPT,app-connection-service.ts,59,FUNCTION
+MTH-FFF8DFDD,platformAdmins,No description,CODE_JAVASCRIPT,app-connection-service.ts,354,FUNCTION
+MTH-87B144DD,assertProjectIds,No description,CODE_JAVASCRIPT,app-connection-service.ts,379,FUNCTION
+MTH-E90A7FF0,validateConnectionValue,No description,CODE_JAVASCRIPT,app-connection-service.ts,393,FUNCTION
+MTH-C0177EA4,engineValidateAuth,No description,CODE_JAVASCRIPT,app-connection-service.ts,494,FUNCTION
+MTH-4DEABB84,appConnectionHandler,No description,CODE_JAVASCRIPT,app-connection.handler.ts,16,FUNCTION
+MTH-35B15AD9,handleLockedVersion,No description,CODE_JAVASCRIPT,app-connection.handler.ts,146,FUNCTION
+MTH-E004353F,handleDraftVersion,No description,CODE_JAVASCRIPT,app-connection.handler.ts,179,FUNCTION
+MTH-CA2F56AA,replaceConnectionInFlowVersion,No description,CODE_JAVASCRIPT,app-connection.handler.ts,197,FUNCTION
+MTH-4190EE0F,replaceConnectionIdInAuth,No description,CODE_JAVASCRIPT,app-connection.handler.ts,215,FUNCTION

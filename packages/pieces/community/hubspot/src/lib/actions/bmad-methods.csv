@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6241A79A,parsedResponse,No description,CODE_JAVASCRIPT,remove-contact-from-list.ts,43,FUNCTION

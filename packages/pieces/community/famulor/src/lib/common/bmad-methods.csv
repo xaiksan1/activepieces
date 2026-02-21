@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-3D59F6ED,campaignDropdown,Dynamic Properties,CODE_JAVASCRIPT,properties.ts,5,FUNCTION
+MTH-87ED1A59,phoneNumberProperty,No description,CODE_JAVASCRIPT,properties.ts,47,FUNCTION
+MTH-564EE3AE,variablesProperty,No description,CODE_JAVASCRIPT,properties.ts,54,FUNCTION
+MTH-A50AD124,addLead,Action Properties,CODE_JAVASCRIPT,properties.ts,65,FUNCTION
+MTH-A3244AF1,phoneNumberDropdown,No description,CODE_JAVASCRIPT,properties.ts,108,FUNCTION
+MTH-C5B38C6E,sendSms,No description,CODE_JAVASCRIPT,properties.ts,150,FUNCTION
+MTH-FDA59E09,assistantDropdown,No description,CODE_JAVASCRIPT,properties.ts,160,FUNCTION
+MTH-42778C28,makePhoneCall,No description,CODE_JAVASCRIPT,properties.ts,202,FUNCTION
+MTH-C39D61D7,campaignControl,No description,CODE_JAVASCRIPT,properties.ts,216,FUNCTION
+MTH-23C9F884,leadDropdown,No description,CODE_JAVASCRIPT,properties.ts,231,FUNCTION
+MTH-88DD235D,deleteLead,No description,CODE_JAVASCRIPT,properties.ts,273,FUNCTION

@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-320B8F91,extractActionParametersFromUserInstructions,No description,CODE_JAVASCRIPT,tool-execution.ts,68,FUNCTION
+MTH-0F085387,propertySchemas,No description,CODE_JAVASCRIPT,tool-execution.ts,91,FUNCTION
+MTH-48FCE9F5,buildParameterExtractionPrompt,No description,CODE_JAVASCRIPT,tool-utils.ts,30,FUNCTION
+MTH-2C8B3477,buildFinalExtractionPrompt,No description,CODE_JAVASCRIPT,tool-utils.ts,39,FUNCTION
+MTH-385C3675,sortPropertiesByDependencies,No description,CODE_JAVASCRIPT,tool-utils.ts,53,FUNCTION
+MTH-755B1835,buildZodSchemaForPieceProperty,No description,CODE_JAVASCRIPT,tool-utils.ts,106,FUNCTION

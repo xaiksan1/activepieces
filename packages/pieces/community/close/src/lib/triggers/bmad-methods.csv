@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C78A4B78,verifySignature,No description,CODE_JAVASCRIPT,helpers.ts,3,FUNCTION

@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4B72FC27,ProjectsPage,No description,CODE_JAVASCRIPT,index.tsx,141,FUNCTION
+MTH-83669E75,errorToastMessage,No description,CODE_JAVASCRIPT,index.tsx,341,FUNCTION
+MTH-078505A4,NewProjectDialog,No description,CODE_JAVASCRIPT,new-project-dialog.tsx,28,FUNCTION

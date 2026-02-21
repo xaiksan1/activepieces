@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-88E5510B,projectId,No description,CODE_JAVASCRIPT,props.ts,11,FUNCTION
+MTH-B89612A5,taskId,No description,CODE_JAVASCRIPT,props.ts,47,FUNCTION

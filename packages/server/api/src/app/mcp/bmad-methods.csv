@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-49AF79C4,mcpService,No description,CODE_JAVASCRIPT,mcp-service.ts,30,FUNCTION
+MTH-22A51CA8,enrichTool,No description,CODE_JAVASCRIPT,mcp-service.ts,165,FUNCTION
+MTH-1D971A8A,findToolId,No description,CODE_JAVASCRIPT,mcp-service.ts,202,FUNCTION
+MTH-4E431E64,mcpPropertyToZod,No description,CODE_JAVASCRIPT,mcp-utils.ts,5,FUNCTION
+MTH-584723D9,piecePropertyToZod,No description,CODE_JAVASCRIPT,mcp-utils.ts,36,FUNCTION

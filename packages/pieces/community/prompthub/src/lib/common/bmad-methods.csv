@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-49C1F7D3,sanitizeVariables,No description,CODE_JAVASCRIPT,props.ts,143,FUNCTION

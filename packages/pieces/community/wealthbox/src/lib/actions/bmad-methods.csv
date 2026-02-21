@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FBD97B35,inviteesArray,No description,CODE_JAVASCRIPT,create-event.ts,370,FUNCTION
+MTH-C93DA8DE,customFieldsArray,No description,CODE_JAVASCRIPT,create-event.ts,399,FUNCTION
+MTH-7FD6FAFB,tagsArray,No description,CODE_JAVASCRIPT,create-household.ts,302,FUNCTION
+MTH-E1AE4EC9,tagsArray,No description,CODE_JAVASCRIPT,create-note.ts,166,FUNCTION
+MTH-2E3D25CA,customFieldsArray,No description,CODE_JAVASCRIPT,create-opportunity.ts,306,FUNCTION
+MTH-B06F0FFD,customFieldsArray,No description,CODE_JAVASCRIPT,create-project.ts,177,FUNCTION
+MTH-0FB4B908,linkedRecord,No description,CODE_JAVASCRIPT,create-task.ts,347,FUNCTION
+MTH-A3744183,customFieldsArray,No description,CODE_JAVASCRIPT,create-task.ts,387,FUNCTION
+MTH-099A4887,resourceRecord,No description,CODE_JAVASCRIPT,find-task.ts,277,FUNCTION
+MTH-94E39462,linkedRecord,No description,CODE_JAVASCRIPT,start-workflow.ts,279,FUNCTION
+MTH-F69FCD6E,milestonesArray,No description,CODE_JAVASCRIPT,start-workflow.ts,341,FUNCTION

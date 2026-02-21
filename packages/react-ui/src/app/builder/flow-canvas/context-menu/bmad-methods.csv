@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-29C846AD,ShortcutWrapper,No description,CODE_JAVASCRIPT,canvas-context-menu-content.tsx,44,FUNCTION
+MTH-95310BD0,CanvasContextMenuContent,No description,CODE_JAVASCRIPT,canvas-context-menu-content.tsx,59,FUNCTION
+MTH-C64EBE1A,duplicateStep,No description,CODE_JAVASCRIPT,canvas-context-menu-content.tsx,131,FUNCTION
+MTH-5E99CA0C,CanvasContextMenu,No description,CODE_JAVASCRIPT,canvas-context-menu.tsx,45,FUNCTION

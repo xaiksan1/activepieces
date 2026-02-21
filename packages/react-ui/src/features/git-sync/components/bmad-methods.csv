@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8D84D80C,ConnectGitDialog,No description,CODE_JAVASCRIPT,connect-git-dialog.tsx,47,FUNCTION
+MTH-AB92B3F5,PushToGitDialog,No description,CODE_JAVASCRIPT,push-to-git-dialog.tsx,55,FUNCTION

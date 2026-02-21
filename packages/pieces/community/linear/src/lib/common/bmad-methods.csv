@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C1DD9A2A,makeClient,No description,CODE_JAVASCRIPT,client.ts,70,FUNCTION

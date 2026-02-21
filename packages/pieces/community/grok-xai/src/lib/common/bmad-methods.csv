@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2F743926,createModelProperty,No description,CODE_JAVASCRIPT,utils.ts,98,FUNCTION
+MTH-58F8E19D,createTemperatureProperty,No description,CODE_JAVASCRIPT,utils.ts,204,FUNCTION
+MTH-54D53E5F,createTokenProperty,No description,CODE_JAVASCRIPT,utils.ts,212,FUNCTION
+MTH-9EA1AB93,createSearchProperties,No description,CODE_JAVASCRIPT,utils.ts,220,FUNCTION
+MTH-C5735090,createAdvancedProperties,No description,CODE_JAVASCRIPT,utils.ts,235,FUNCTION
+MTH-FF2AFB0B,handleXaiError,No description,CODE_JAVASCRIPT,utils.ts,256,FUNCTION
+MTH-F38120B0,makeXaiRequest,No description,CODE_JAVASCRIPT,utils.ts,290,FUNCTION
+MTH-37A91768,validateResponse,No description,CODE_JAVASCRIPT,utils.ts,319,FUNCTION
+MTH-2322EB3A,parseJsonResponse,No description,CODE_JAVASCRIPT,utils.ts,330,FUNCTION

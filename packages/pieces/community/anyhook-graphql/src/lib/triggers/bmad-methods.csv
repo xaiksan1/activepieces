@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-776E845B,createGraphQLSubscription,No description,CODE_JAVASCRIPT,helpers.ts,4,FUNCTION
+MTH-EB520416,deleteGraphQLSubscription,No description,CODE_JAVASCRIPT,helpers.ts,25,FUNCTION

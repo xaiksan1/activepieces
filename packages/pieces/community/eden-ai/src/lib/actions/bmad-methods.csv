@@ -1,0 +1,19 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-84475342,normalizeLanguageDetectionResponse,No description,CODE_JAVASCRIPT,detect-language.ts,17,FUNCTION
+MTH-34F5968C,languages,No description,CODE_JAVASCRIPT,detect-language.ts,23,FUNCTION
+MTH-4BB31733,normalizeNerResponse,No description,CODE_JAVASCRIPT,extract-entities.ts,48,FUNCTION
+MTH-0FA9F76D,entities,No description,CODE_JAVASCRIPT,extract-entities.ts,54,FUNCTION
+MTH-F25ACAC7,normalizeKeywordResponse,No description,CODE_JAVASCRIPT,extract-keywords.ts,58,FUNCTION
+MTH-F1DB6A94,keywords,No description,CODE_JAVASCRIPT,extract-keywords.ts,64,FUNCTION
+MTH-23699E5D,normalizeChatResponse,No description,CODE_JAVASCRIPT,generate-text.ts,27,FUNCTION
+MTH-879877E0,normalizeImageGenerationResponse,No description,CODE_JAVASCRIPT,image-generation.ts,53,FUNCTION
+MTH-DD2CE7D6,normalizeFinancialParserResponse,No description,CODE_JAVASCRIPT,invoice-parser.ts,156,FUNCTION
+MTH-0050D625,normalizeModerationResponse,No description,CODE_JAVASCRIPT,moderate-text.ts,120,FUNCTION
+MTH-0BECB67C,items,No description,CODE_JAVASCRIPT,moderate-text.ts,126,FUNCTION
+MTH-A8800337,normalizeOcrResponse,No description,CODE_JAVASCRIPT,ocr-image.ts,235,FUNCTION
+MTH-8E01E529,normalizeDataExtractionResponse,No description,CODE_JAVASCRIPT,receipt-parser.ts,12,FUNCTION
+MTH-4B7529FC,normalizeSpellCheckResponse,No description,CODE_JAVASCRIPT,spell-check.ts,137,FUNCTION
+MTH-0F648758,items,No description,CODE_JAVASCRIPT,spell-check.ts,143,FUNCTION
+MTH-801B8FB9,normalizeSummarizeResponse,No description,CODE_JAVASCRIPT,summarize-text.ts,51,FUNCTION
+MTH-A744C377,normalizeTextToSpeechResponse,No description,CODE_JAVASCRIPT,text-to-speech.ts,273,FUNCTION
+MTH-D3C3D0ED,normalizeTranslationResponse,No description,CODE_JAVASCRIPT,translate-text.ts,172,FUNCTION

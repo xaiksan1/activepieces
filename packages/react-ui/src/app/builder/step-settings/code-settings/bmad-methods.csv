@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CA8057D9,AddNpmDialog,No description,CODE_JAVASCRIPT,add-npm-dialog.tsx,48,FUNCTION
+MTH-CC5ED855,CodeEditor,No description,CODE_JAVASCRIPT,code-editor.tsx,33,FUNCTION
+MTH-B201391F,handlePackageClick,No description,CODE_JAVASCRIPT,code-editor.tsx,76,FUNCTION
+MTH-2B7F3553,handleCodeClick,No description,CODE_JAVASCRIPT,code-editor.tsx,81,FUNCTION
+MTH-7D537B32,handleAddPackages,No description,CODE_JAVASCRIPT,code-editor.tsx,86,FUNCTION

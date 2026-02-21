@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-73DED5B6,FlowEndWidget,No description,CODE_JAVASCRIPT,flow-end-widget.tsx,3,FUNCTION
+MTH-CA168DAF,filterValidOrSkippedSteps,No description,CODE_JAVASCRIPT,incomplete-settings-widget.tsx,20,FUNCTION
+MTH-39FB7F90,onClick,No description,CODE_JAVASCRIPT,incomplete-settings-widget.tsx,37,FUNCTION
+MTH-9E9D82F1,showChevronNextToSelection,No description,CODE_JAVASCRIPT,selection-chevron-button.tsx,10,FUNCTION
+MTH-388A4EFE,useShowChevronNextToSelection,No description,CODE_JAVASCRIPT,selection-chevron-button.tsx,38,FUNCTION
+MTH-87079423,ViewOnlyWidget,No description,CODE_JAVASCRIPT,view-only-widget.tsx,3,FUNCTION

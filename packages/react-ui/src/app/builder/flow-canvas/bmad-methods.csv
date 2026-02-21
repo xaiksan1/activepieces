@@ -1,0 +1,20 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-921D5A7E,copySelectedNodes,No description,CODE_JAVASCRIPT,bulk-actions.ts,21,FUNCTION
+MTH-E00DC1A5,deleteSelectedNodes,No description,CODE_JAVASCRIPT,bulk-actions.ts,36,FUNCTION
+MTH-69B257B2,getActionsInClipboard,No description,CODE_JAVASCRIPT,bulk-actions.ts,56,FUNCTION
+MTH-7A6F98A7,pasteNodes,No description,CODE_JAVASCRIPT,bulk-actions.ts,71,FUNCTION
+MTH-90ABB10A,getLastLocationAsPasteLocation,No description,CODE_JAVASCRIPT,bulk-actions.ts,95,FUNCTION
+MTH-35FA4C4A,toggleSkipSelectedNodes,No description,CODE_JAVASCRIPT,bulk-actions.ts,109,FUNCTION
+MTH-65ACB46A,calculateNodePositionInCanvas,Calculate the node's position in relation to the canvas,CODE_JAVASCRIPT,canvas-controls.tsx,29,FUNCTION
+MTH-4A83C14A,isNodeOutOfView,Check if the node is out of view,CODE_JAVASCRIPT,canvas-controls.tsx,45,FUNCTION
+MTH-61BB6F4E,calculateViewportDelta,No description,CODE_JAVASCRIPT,canvas-controls.tsx,53,FUNCTION
+MTH-BE6A8F5E,PanningModeIndicator,No description,CODE_JAVASCRIPT,canvas-controls.tsx,72,FUNCTION
+MTH-86320249,CanvasControls,No description,CODE_JAVASCRIPT,canvas-controls.tsx,85,FUNCTION
+MTH-6ED53746,adjustViewportForSelectedStep,Helper function to adjust the viewport for the selected step,CODE_JAVASCRIPT,canvas-controls.tsx,161,FUNCTION
+MTH-3A6BF263,FlowDragLayer,No description,CODE_JAVASCRIPT,flow-drag-layer.tsx,28,FUNCTION
+MTH-7D97DD8D,handleDragStart,No description,CODE_JAVASCRIPT,flow-drag-layer.tsx,82,FUNCTION
+MTH-3F2AC5AC,handleDragCancel,No description,CODE_JAVASCRIPT,flow-drag-layer.tsx,87,FUNCTION
+MTH-19D834B1,handleDragEnd,No description,CODE_JAVASCRIPT,flow-drag-layer.tsx,91,FUNCTION
+MTH-6497746F,getChildrenKey,No description,CODE_JAVASCRIPT,index.tsx,46,FUNCTION
+MTH-FB56D22B,createGraphKey,No description,CODE_JAVASCRIPT,index.tsx,68,FUNCTION
+MTH-567BEDC9,StepDragOverlay,No description,CODE_JAVASCRIPT,step-drag-overlay.tsx,13,FUNCTION

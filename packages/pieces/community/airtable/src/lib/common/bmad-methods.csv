@@ -1,0 +1,16 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BD34CCBF,fetchAllBases,No description,CODE_JAVASCRIPT,index.ts,47,FUNCTION
+MTH-FC4339B9,fetchBase,No description,CODE_JAVASCRIPT,index.ts,81,FUNCTION
+MTH-4C712234,listRecords,No description,CODE_JAVASCRIPT,index.ts,100,FUNCTION
+MTH-31239B85,fetchTableList,No description,CODE_JAVASCRIPT,index.ts,128,FUNCTION
+MTH-1DAB23F3,fetchTable,No description,CODE_JAVASCRIPT,index.ts,151,FUNCTION
+MTH-7845AF07,fetchViews,No description,CODE_JAVASCRIPT,index.ts,164,FUNCTION
+MTH-5D7594B4,createRecord,No description,CODE_JAVASCRIPT,index.ts,180,FUNCTION
+MTH-97463F44,findRecord,No description,CODE_JAVASCRIPT,index.ts,208,FUNCTION
+MTH-5F20611E,updateRecord,No description,CODE_JAVASCRIPT,index.ts,239,FUNCTION
+MTH-7C81ABF8,deleteRecord,No description,CODE_JAVASCRIPT,index.ts,267,FUNCTION
+MTH-93C1E55B,getRecordById,No description,CODE_JAVASCRIPT,index.ts,291,FUNCTION
+MTH-900B49FC,addCommentToRecord,No description,CODE_JAVASCRIPT,index.ts,315,FUNCTION
+MTH-6D3FE1E2,createBase,No description,CODE_JAVASCRIPT,index.ts,348,FUNCTION
+MTH-D3CE4617,createTable,No description,CODE_JAVASCRIPT,index.ts,382,FUNCTION
+MTH-BDF7AB0B,currentTableSnapshot,No description,CODE_JAVASCRIPT,index.ts,791,FUNCTION

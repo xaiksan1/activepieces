@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EA5FD256,engineProcessFactory,No description,CODE_JAVASCRIPT,index.ts,15,FUNCTION
+MTH-AC7401BF,getIsolateExecutableName,No description,CODE_JAVASCRIPT,isolate-sandbox-process.ts,11,FUNCTION
+MTH-6D2971D1,isolateSandboxProcess,No description,CODE_JAVASCRIPT,isolate-sandbox-process.ts,25,FUNCTION
+MTH-D8FE949B,getEnvironmentVariables,No description,CODE_JAVASCRIPT,isolate-sandbox-process.ts,62,FUNCTION
+MTH-C071583F,getDirsToBindArgs,No description,CODE_JAVASCRIPT,isolate-sandbox-process.ts,71,FUNCTION
+MTH-59EAA16B,noSandboxProcess,No description,CODE_JAVASCRIPT,no-sandbox-process.ts,6,FUNCTION

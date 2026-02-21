@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1E2C759B,formatDate,No description,CODE_JAVASCRIPT,create-project.ts,175,FUNCTION
+MTH-7C6C5B80,formatDate,No description,CODE_JAVASCRIPT,create-task.ts,214,FUNCTION
+MTH-773C97D0,getAllTasks,"Helper to fetch all tasks, handling pagination",CODE_JAVASCRIPT,update-task.ts,11,FUNCTION
+MTH-27EDBD7F,formatDate,No description,CODE_JAVASCRIPT,update-task.ts,160,FUNCTION

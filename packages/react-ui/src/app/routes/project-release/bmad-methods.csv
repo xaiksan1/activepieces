@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DD435E74,ApplyButton,No description,CODE_JAVASCRIPT,apply-plan.tsx,25,FUNCTION
+MTH-8972B514,ProjectReleasesPage,No description,CODE_JAVASCRIPT,index.tsx,44,FUNCTION
+MTH-ABB778D1,SelectionButton,No description,CODE_JAVASCRIPT,selection-dialog.tsx,15,FUNCTION
+MTH-A5A81ACD,getReleaseSummaryType,No description,CODE_JAVASCRIPT,view-release.tsx,25,FUNCTION
+MTH-0D093683,ViewRelease,No description,CODE_JAVASCRIPT,view-release.tsx,48,FUNCTION

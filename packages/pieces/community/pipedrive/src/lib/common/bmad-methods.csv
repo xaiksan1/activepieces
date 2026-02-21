@@ -1,0 +1,27 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-18308E78,formatDateIfValid,No description,CODE_JAVASCRIPT,index.ts,210,FUNCTION
+MTH-06002194,pipedriveParseCustomFields,No description,CODE_JAVASCRIPT,index.ts,214,FUNCTION
+MTH-EA907907,pipedriveTransformCustomFields,No description,CODE_JAVASCRIPT,index.ts,263,FUNCTION
+MTH-29E8768B,pipedriveTransformV1CustomFields,No description,CODE_JAVASCRIPT,index.ts,308,FUNCTION
+MTH-F7AC2E87,fetchFiltersOptions,No description,CODE_JAVASCRIPT,props.ts,20,FUNCTION
+MTH-51DE5F62,fetchActivityTypesOptions,No description,CODE_JAVASCRIPT,props.ts,50,FUNCTION
+MTH-D3455E39,fetchPipelinesOptions,No description,CODE_JAVASCRIPT,props.ts,78,FUNCTION
+MTH-4C8FB5CC,fetchPersonsOptions,No description,CODE_JAVASCRIPT,props.ts,103,FUNCTION
+MTH-345C78D5,fetchOwnersOptions,No description,CODE_JAVASCRIPT,props.ts,133,FUNCTION
+MTH-2ADDF1C7,createPropertyDefinition,No description,CODE_JAVASCRIPT,props.ts,159,FUNCTION
+MTH-5B79B49C,retrieveObjectCustomProperties,No description,CODE_JAVASCRIPT,props.ts,243,FUNCTION
+MTH-85EEFE25,searchFieldProp,No description,CODE_JAVASCRIPT,props.ts,290,FUNCTION
+MTH-EE05AB77,searchFieldValueProp,No description,CODE_JAVASCRIPT,props.ts,353,FUNCTION
+MTH-E46E005D,ownerIdProp,No description,CODE_JAVASCRIPT,props.ts,420,FUNCTION
+MTH-30ABEAA4,filterIdProp,No description,CODE_JAVASCRIPT,props.ts,443,FUNCTION
+MTH-9C4477DA,organizationIdProp,No description,CODE_JAVASCRIPT,props.ts,466,FUNCTION
+MTH-D8862148,dealPipelineIdProp,No description,CODE_JAVASCRIPT,props.ts,473,FUNCTION
+MTH-C88495F4,dealStageIdProp,No description,CODE_JAVASCRIPT,props.ts,496,FUNCTION
+MTH-AE8C1515,personIdProp,No description,CODE_JAVASCRIPT,props.ts,535,FUNCTION
+MTH-858F22AD,labelIdsProp,No description,CODE_JAVASCRIPT,props.ts,542,FUNCTION
+MTH-2FD3B618,leadLabelIdsProp,No description,CODE_JAVASCRIPT,props.ts,598,FUNCTION
+MTH-6469F6AE,productIdProp,No description,CODE_JAVASCRIPT,props.ts,637,FUNCTION
+MTH-C19F0B19,leadIdProp,No description,CODE_JAVASCRIPT,props.ts,665,FUNCTION
+MTH-87F3A524,activityTypeIdProp,No description,CODE_JAVASCRIPT,props.ts,671,FUNCTION
+MTH-E54FD360,dealIdProp,No description,CODE_JAVASCRIPT,props.ts,694,FUNCTION
+MTH-87C75B87,customFieldsProp,Helper function for custom fields property definition,CODE_JAVASCRIPT,props.ts,941,FUNCTION

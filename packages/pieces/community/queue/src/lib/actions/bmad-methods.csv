@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A728AC49,poll,No description,CODE_JAVASCRIPT,pull-from-queue.ts,40,FUNCTION
+MTH-39B00F30,name,No description,CODE_JAVASCRIPT,pull-from-queue.ts,47,FUNCTION
+MTH-11180B3B,push,No description,CODE_JAVASCRIPT,push-to-queue.ts,38,FUNCTION
+MTH-4C0D1330,name,No description,CODE_JAVASCRIPT,push-to-queue.ts,45,FUNCTION

@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7E513695,filePiecesUtils,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,15,FUNCTION
+MTH-B35815AC,findAllPiecesFolder,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,16,FUNCTION
+MTH-982D6C94,getPackageNameFromFolderPath,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,37,FUNCTION
+MTH-D86DD8DB,getProjectJsonFromFolderPath,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,42,FUNCTION
+MTH-BE0F4288,findDirectoryByPackageName,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,46,FUNCTION
+MTH-382EE6A6,findAllPiecesDirectoryInSource,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,65,FUNCTION
+MTH-90D4F923,findPieceDirectoryByFolderName,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,71,FUNCTION
+MTH-2147E534,findAllPieces,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,77,FUNCTION
+MTH-C4BE634E,loadPiecesFromFolder,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,82,FUNCTION
+MTH-30335882,paths,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,84,FUNCTION
+MTH-D4C369D8,loadPieceFromFolder,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,95,FUNCTION
+MTH-453E94BC,clearPieceCache,No description,CODE_JAVASCRIPT,file-pieces-utils.ts,150,FUNCTION

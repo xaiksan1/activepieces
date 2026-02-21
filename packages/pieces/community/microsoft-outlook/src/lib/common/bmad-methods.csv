@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E2A14876,messageIdDropdown,No description,CODE_JAVASCRIPT,props.ts,11,FUNCTION
+MTH-F7CE13D8,draftMessageIdDropdown,No description,CODE_JAVASCRIPT,props.ts,56,FUNCTION
+MTH-229EAF3E,mailFolderIdDropdown,No description,CODE_JAVASCRIPT,props.ts,101,FUNCTION

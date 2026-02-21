@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-87CDD6BB,getPageWithContent,No description,CODE_JAVASCRIPT,get-page-content.ts,18,FUNCTION
+MTH-723FDC38,getChildPages,No description,CODE_JAVASCRIPT,get-page-content.ts,42,FUNCTION

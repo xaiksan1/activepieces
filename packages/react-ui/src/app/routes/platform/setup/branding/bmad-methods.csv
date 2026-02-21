@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BD903FF4,AppearanceSection,No description,CODE_JAVASCRIPT,appearance-section.tsx,32,FUNCTION
+MTH-7E8D4F1A,CustomDomainsCard,No description,CODE_JAVASCRIPT,custom-domain-section.tsx,19,FUNCTION
+MTH-472EB747,BrandingPage,No description,CODE_JAVASCRIPT,index.tsx,10,FUNCTION
+MTH-8B6D10CE,SmtpSection,No description,CODE_JAVASCRIPT,smtp-section.tsx,72,FUNCTION

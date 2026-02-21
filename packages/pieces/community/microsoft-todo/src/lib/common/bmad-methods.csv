@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7ADD967C,getTaskListsDropdown,No description,CODE_JAVASCRIPT,index.ts,5,FUNCTION
+MTH-9184B56E,getTasksInListDropdown,No description,CODE_JAVASCRIPT,index.ts,52,FUNCTION
+MTH-268F6676,getIncompleteTasksInListDropdown,No description,CODE_JAVASCRIPT,index.ts,96,FUNCTION

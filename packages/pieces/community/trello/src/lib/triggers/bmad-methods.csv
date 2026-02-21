@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5269A88E,webhook_id,No description,CODE_JAVASCRIPT,cardMoved.ts,35,FUNCTION
+MTH-BDE3695F,webhook_id,No description,CODE_JAVASCRIPT,newCard.ts,35,FUNCTION

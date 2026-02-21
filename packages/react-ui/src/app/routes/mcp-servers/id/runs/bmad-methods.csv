@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-21D12B6E,McpRunDetails,No description,CODE_JAVASCRIPT,mcp-run-details.tsx,32,FUNCTION
+MTH-8CCBB7EC,getToolIcon,No description,CODE_JAVASCRIPT,mcp-run-utils.tsx,16,FUNCTION
+MTH-D02F1C61,getToolDisplayName,No description,CODE_JAVASCRIPT,mcp-run-utils.tsx,49,FUNCTION
+MTH-2A952C28,getActionName,No description,CODE_JAVASCRIPT,mcp-run-utils.tsx,56,FUNCTION
+MTH-5405FECA,getTooltipContent,No description,CODE_JAVASCRIPT,mcp-run-utils.tsx,66,FUNCTION
+MTH-55BB7C7E,mcpRunColumns,No description,CODE_JAVASCRIPT,mcp-run-utils.tsx,84,FUNCTION
+MTH-FD5730DC,mcpRunFilters,No description,CODE_JAVASCRIPT,mcp-run-utils.tsx,146,FUNCTION
+MTH-819FB65A,McpHistoryPage,No description,CODE_JAVASCRIPT,mcp-runs.tsx,15,FUNCTION

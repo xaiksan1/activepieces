@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-807C7ECA,externalTokenExtractor,No description,CODE_JAVASCRIPT,external-token-extractor.ts,11,FUNCTION
+MTH-E02750DA,getSigningKey,No description,CODE_JAVASCRIPT,external-token-extractor.ts,72,FUNCTION
+MTH-DF795777,extractPieces,No description,CODE_JAVASCRIPT,external-token-extractor.ts,91,FUNCTION
+MTH-DE52D876,extractAiCredits,No description,CODE_JAVASCRIPT,external-token-extractor.ts,110,FUNCTION
+MTH-33EF257D,getProjectRole,No description,CODE_JAVASCRIPT,external-token-extractor.ts,117,FUNCTION
+MTH-A71C64B5,externalTokenPayload,No description,CODE_JAVASCRIPT,external-token-extractor.ts,130,FUNCTION

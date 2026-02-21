@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-52DDEB01,githubRegisterTrigger,No description,CODE_JAVASCRIPT,register-trigger.ts,6,FUNCTION
+MTH-FF96201B,isVerificationCall,No description,CODE_JAVASCRIPT,register-trigger.ts,74,FUNCTION

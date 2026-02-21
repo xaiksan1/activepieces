@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-13F12EA4,frameRegisterTrigger,No description,CODE_JAVASCRIPT,register-trigger.ts,14,FUNCTION

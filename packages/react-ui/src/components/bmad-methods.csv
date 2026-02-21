@@ -1,0 +1,26 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-41C9CACC,formatValue,No description,CODE_JAVASCRIPT,data-list.tsx,8,FUNCTION
+MTH-3758A18F,ConfirmationDeleteDialog,No description,CODE_JAVASCRIPT,delete-dialog.tsx,33,FUNCTION
+MTH-35972976,handleClose,No description,CODE_JAVASCRIPT,delete-dialog.tsx,64,FUNCTION
+MTH-89ED4394,useEmbedding,No description,CODE_JAVASCRIPT,embed-provider.tsx,49,FUNCTION
+MTH-BA537B47,EmbeddingProvider,No description,CODE_JAVASCRIPT,embed-provider.tsx,55,FUNCTION
+MTH-B200E178,FileButton,No description,CODE_JAVASCRIPT,json-viewer.tsx,30,FUNCTION
+MTH-CC746B94,removeDoubleQuotes,No description,CODE_JAVASCRIPT,json-viewer.tsx,52,FUNCTION
+MTH-BC6FD416,removeUndefined,No description,CODE_JAVASCRIPT,json-viewer.tsx,55,FUNCTION
+MTH-826B47C2,handleCopy,No description,CODE_JAVASCRIPT,json-viewer.tsx,76,FUNCTION
+MTH-8B79747D,handleDownload,No description,CODE_JAVASCRIPT,json-viewer.tsx,84,FUNCTION
+MTH-21FE9945,handleDownloadFile,No description,CODE_JAVASCRIPT,json-viewer.tsx,92,FUNCTION
+MTH-0F2FC69A,ShowPoweredBy,No description,CODE_JAVASCRIPT,show-powered-by.tsx,7,FUNCTION
+MTH-1B787DA2,handleCopy,No description,CODE_JAVASCRIPT,simple-json-viewer.tsx,29,FUNCTION
+MTH-250B2AD4,SocketProvider,No description,CODE_JAVASCRIPT,socket-provider.tsx,16,FUNCTION
+MTH-B368595A,useSocket,No description,CODE_JAVASCRIPT,socket-provider.tsx,34,FUNCTION
+MTH-2F85575B,TelemetryProvider,No description,CODE_JAVASCRIPT,telemetry-provider.tsx,19,FUNCTION
+MTH-34BCA94C,handleStorageChange,No description,CODE_JAVASCRIPT,telemetry-provider.tsx,38,FUNCTION
+MTH-41A5C58B,initTelemetry,No description,CODE_JAVASCRIPT,telemetry-provider.tsx,59,FUNCTION
+MTH-5C316B0E,reset,No description,CODE_JAVASCRIPT,telemetry-provider.tsx,109,FUNCTION
+MTH-0E922950,capture,No description,CODE_JAVASCRIPT,telemetry-provider.tsx,118,FUNCTION
+MTH-D6BC3061,useTelemetry,No description,CODE_JAVASCRIPT,telemetry-provider.tsx,141,FUNCTION
+MTH-BBAC2BFD,setFavicon,No description,CODE_JAVASCRIPT,theme-provider.tsx,27,FUNCTION
+MTH-5BD07884,ThemeProvider,No description,CODE_JAVASCRIPT,theme-provider.tsx,38,FUNCTION
+MTH-832F7557,useTheme,No description,CODE_JAVASCRIPT,theme-provider.tsx,109,FUNCTION
+MTH-94C18CB4,useApRipple,No description,CODE_JAVASCRIPT,theme-provider.tsx,118,FUNCTION

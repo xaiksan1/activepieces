@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DB7A7283,isPdftoppmInstalled,No description,CODE_JAVASCRIPT,convert-to-image.ts,15,FUNCTION
+MTH-DBD29748,convertPdfToImages,No description,CODE_JAVASCRIPT,convert-to-image.ts,19,FUNCTION
+MTH-FA3C6D3E,concatImagesVertically,No description,CODE_JAVASCRIPT,convert-to-image.ts,49,FUNCTION
+MTH-82352382,pageRangeToIndexes,No description,CODE_JAVASCRIPT,extract-pdf-pages.ts,5,FUNCTION
+MTH-DB43F240,getImageOrientation,https://stackoverflow.com/questions/7584794/accessing-jpeg-exif-rotation-data-in-javascript-on-the-client-side/32490603#32490603,CODE_JAVASCRIPT,image-to-pdf.ts,145,FUNCTION
+MTH-F9146ED5,getOrientationCorrection,No description,CODE_JAVASCRIPT,image-to-pdf.ts,191,FUNCTION

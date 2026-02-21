@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C8C2A7DA,flowTriggerSideEffect,No description,CODE_JAVASCRIPT,flow-trigger-side-effect.ts,37,FUNCTION
+MTH-3FC26ABE,handleAppWebhookTrigger,No description,CODE_JAVASCRIPT,flow-trigger-side-effect.ts,124,FUNCTION
+MTH-3B75CD1E,handleWebhookTrigger,No description,CODE_JAVASCRIPT,flow-trigger-side-effect.ts,139,FUNCTION
+MTH-95A35421,handlePollingTrigger,No description,CODE_JAVASCRIPT,flow-trigger-side-effect.ts,171,FUNCTION
+MTH-EB53E680,assertEngineResponseIsOk,No description,CODE_JAVASCRIPT,flow-trigger-side-effect.ts,201,FUNCTION
+MTH-50D86132,triggerSourceService,No description,CODE_JAVASCRIPT,trigger-source-service.ts,11,FUNCTION
+MTH-CFCE746D,triggerUtils,No description,CODE_JAVASCRIPT,trigger-utils.ts,14,FUNCTION

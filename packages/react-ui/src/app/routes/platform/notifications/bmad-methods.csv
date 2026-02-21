@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F6A2D6D6,PlatformDialog,No description,CODE_JAVASCRIPT,platform-dialog.tsx,24,FUNCTION
+MTH-A619FCCB,PlatformMessages,No description,CODE_JAVASCRIPT,platform-messages.tsx,9,FUNCTION

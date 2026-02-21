@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B693B41A,todoSideEfffects,No description,CODE_JAVASCRIPT,todo-side-effects.ts,6,FUNCTION
+MTH-C431A526,todoService,No description,CODE_JAVASCRIPT,todo.service.ts,16,FUNCTION
+MTH-458E41CE,sendResolveRequest,No description,CODE_JAVASCRIPT,todo.service.ts,155,FUNCTION
+MTH-888E6862,enrichTodoWithAssignee,No description,CODE_JAVASCRIPT,todo.service.ts,163,FUNCTION

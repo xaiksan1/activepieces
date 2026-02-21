@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C097F07C,listResponse,No description,CODE_JAVASCRIPT,index.ts,27,FUNCTION
+MTH-FF734ADA,campaignResponse,No description,CODE_JAVASCRIPT,index.ts,73,FUNCTION
+MTH-D889400F,storeResponse,No description,CODE_JAVASCRIPT,index.ts,120,FUNCTION

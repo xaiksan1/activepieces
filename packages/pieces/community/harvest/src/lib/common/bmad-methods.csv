@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7A994534,filterDynamicFields,Remove null/undefined values and create an array to be used for queryparams,CODE_JAVASCRIPT,index.ts,32,FUNCTION

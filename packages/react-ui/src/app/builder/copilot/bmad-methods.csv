@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E3528528,ChatBox,No description,CODE_JAVASCRIPT,chat-message.tsx,31,FUNCTION
+MTH-69F30B1E,getCodeResponse,No description,CODE_JAVASCRIPT,index.tsx,45,FUNCTION
+MTH-97C0A3BC,CopilotSidebar,No description,CODE_JAVASCRIPT,index.tsx,68,FUNCTION
+MTH-2015B4EA,scrollToLastMessage,No description,CODE_JAVASCRIPT,index.tsx,94,FUNCTION
+MTH-44B3E636,handleSendMessage,No description,CODE_JAVASCRIPT,index.tsx,130,FUNCTION
+MTH-E29010B9,applyCodeToCurrentStep,No description,CODE_JAVASCRIPT,index.tsx,155,FUNCTION
+MTH-956F42A5,LoadingMessage,No description,CODE_JAVASCRIPT,loading-message.tsx,6,FUNCTION
+MTH-2A0FC329,FeatureItem,No description,CODE_JAVASCRIPT,welcome-message.tsx,18,FUNCTION
+MTH-C7CFD0E2,WelcomeMessage,No description,CODE_JAVASCRIPT,welcome-message.tsx,32,FUNCTION

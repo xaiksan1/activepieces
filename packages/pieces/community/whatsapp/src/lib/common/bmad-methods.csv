@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-79475AFD,capitalizeFirstLetter,No description,CODE_JAVASCRIPT,utils.ts,16,FUNCTION
+MTH-351605F4,mediaTypeSupportsCaption,No description,CODE_JAVASCRIPT,utils.ts,17,FUNCTION

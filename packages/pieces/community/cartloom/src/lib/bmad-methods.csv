@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9F61D3DD,cartloomAPI,No description,CODE_JAVASCRIPT,api.ts,10,FUNCTION
+MTH-D69CEF54,getProducts,No description,CODE_JAVASCRIPT,api.ts,44,FUNCTION
+MTH-808EBA4E,getAllDiscounts,No description,CODE_JAVASCRIPT,api.ts,48,FUNCTION
+MTH-FA84597D,getDiscount,No description,CODE_JAVASCRIPT,api.ts,52,FUNCTION
+MTH-7DBF8325,getOrder,No description,CODE_JAVASCRIPT,api.ts,56,FUNCTION
+MTH-0426F57F,getOrdersByDate,No description,CODE_JAVASCRIPT,api.ts,60,FUNCTION
+MTH-F9B233AD,createDiscount,No description,CODE_JAVASCRIPT,api.ts,67,FUNCTION
+MTH-F2B02CC2,validateAuth,No description,CODE_JAVASCRIPT,auth.ts,40,FUNCTION
+MTH-56F9A936,buildProductsDropdown,No description,CODE_JAVASCRIPT,props.ts,4,FUNCTION

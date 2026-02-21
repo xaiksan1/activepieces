@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-00F1C052,makeClient,No description,CODE_JAVASCRIPT,index.ts,8,FUNCTION
+MTH-1522CFC0,emptyToNull,No description,CODE_JAVASCRIPT,index.ts,234,FUNCTION
+MTH-BF8A94C4,currentYear,No description,CODE_JAVASCRIPT,index.ts,238,FUNCTION
+MTH-9520CEB7,reformatDateTime,No description,CODE_JAVASCRIPT,index.ts,243,FUNCTION
+MTH-10367616,reformatDate,No description,CODE_JAVASCRIPT,index.ts,248,FUNCTION

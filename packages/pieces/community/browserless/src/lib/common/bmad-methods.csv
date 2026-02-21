@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CA5A21AB,convertBinaryToBase64,No description,CODE_JAVASCRIPT,client.ts,9,FUNCTION
+MTH-D8B13D1F,isBinaryResponse,No description,CODE_JAVASCRIPT,client.ts,21,FUNCTION

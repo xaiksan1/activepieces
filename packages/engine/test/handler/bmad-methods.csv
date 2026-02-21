@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-19B4D5BB,executeBranchActionWithOneCondition,No description,CODE_JAVASCRIPT,flow-branching.test.ts,6,FUNCTION
+MTH-034FD7B5,executeRouterActionWithOneCondition,No description,CODE_JAVASCRIPT,router-branching.test.ts,6,FUNCTION
+MTH-D9F60C5D,generateMockEngineConstants,No description,CODE_JAVASCRIPT,test-helper.ts,5,FUNCTION
+MTH-BC43F930,buildSimpleLoopAction,No description,CODE_JAVASCRIPT,test-helper.ts,36,FUNCTION
+MTH-C14A5669,buildRouterWithOneCondition,No description,CODE_JAVASCRIPT,test-helper.ts,60,FUNCTION
+MTH-6ACB1661,buildCodeAction,No description,CODE_JAVASCRIPT,test-helper.ts,87,FUNCTION
+MTH-601AF169,buildPieceAction,No description,CODE_JAVASCRIPT,test-helper.ts,106,FUNCTION

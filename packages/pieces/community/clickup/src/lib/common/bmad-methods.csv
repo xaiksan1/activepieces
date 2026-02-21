@@ -1,0 +1,17 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2A69F0AD,response,No description,CODE_JAVASCRIPT,index.ts,28,FUNCTION
+MTH-639235C2,listWorkspaces,No description,CODE_JAVASCRIPT,index.ts,423,FUNCTION
+MTH-C646429C,getWorkspace,No description,CODE_JAVASCRIPT,index.ts,434,FUNCTION
+MTH-29A0B759,listWorkspaceMembers,No description,CODE_JAVASCRIPT,index.ts,440,FUNCTION
+MTH-18448979,listWorkspaceTemplates,No description,CODE_JAVASCRIPT,index.ts,445,FUNCTION
+MTH-6676E787,listSpaces,No description,CODE_JAVASCRIPT,index.ts,464,FUNCTION
+MTH-721891A8,listAllLists,No description,CODE_JAVASCRIPT,index.ts,475,FUNCTION
+MTH-8977AFBB,listLists,No description,CODE_JAVASCRIPT,index.ts,493,FUNCTION
+MTH-603BA566,getStatuses,No description,CODE_JAVASCRIPT,index.ts,503,FUNCTION
+MTH-A6B1F6E4,listFolders,No description,CODE_JAVASCRIPT,index.ts,514,FUNCTION
+MTH-FDA23D85,listAccessibleCustomFields,No description,CODE_JAVASCRIPT,index.ts,525,FUNCTION
+MTH-1FEF462E,listFolderlessList,No description,CODE_JAVASCRIPT,index.ts,543,FUNCTION
+MTH-E4E7C16F,listTags,No description,CODE_JAVASCRIPT,index.ts,554,FUNCTION
+MTH-54C13CA6,listTasks,No description,CODE_JAVASCRIPT,index.ts,565,FUNCTION
+MTH-DF970E03,retrieveChannels,No description,CODE_JAVASCRIPT,index.ts,576,FUNCTION
+MTH-351338FF,callClickupGetTask,No description,CODE_JAVASCRIPT,index.ts,595,FUNCTION

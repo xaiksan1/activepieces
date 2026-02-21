@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4DA1D2F7,piecesAnalyticsService,No description,CODE_JAVASCRIPT,pieces-analytics.service.ts,14,FUNCTION
+MTH-05ED8A8C,platformAnalyticsReportService,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,17,FUNCTION
+MTH-F07E3774,refreshReport,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,43,FUNCTION
+MTH-34F3A101,generateReport,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,56,FUNCTION
+MTH-3D48F071,analyzeProjects,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,85,FUNCTION
+MTH-54C4F09F,numberOfFlowsWithAI,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,110,FUNCTION
+MTH-82D6CA96,analyzePieces,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,125,FUNCTION
+MTH-22AD141A,countProjects,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,159,FUNCTION
+MTH-4BFE9CDE,analyzeUsers,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,166,FUNCTION
+MTH-CDE1C882,tasksReport,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,193,FUNCTION
+MTH-A0B35238,listAllFlows,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,204,FUNCTION
+MTH-738C454D,countFlows,No description,CODE_JAVASCRIPT,platform-analytics-report.service.ts,271,FUNCTION

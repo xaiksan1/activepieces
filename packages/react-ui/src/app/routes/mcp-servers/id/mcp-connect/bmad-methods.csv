@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8788CD73,ConfigDisplay,No description,CODE_JAVASCRIPT,config-display.tsx,13,FUNCTION
+MTH-593641E3,toggleTokenVisibility,No description,CODE_JAVASCRIPT,config-display.tsx,31,FUNCTION
+MTH-E2710A51,handleCopyConfig,No description,CODE_JAVASCRIPT,config-display.tsx,36,FUNCTION
+MTH-BF09D009,ExposeMcpNote,No description,CODE_JAVASCRIPT,expose-mcp-note.tsx,10,FUNCTION
+MTH-C08DF301,McpConnectPage,No description,CODE_JAVASCRIPT,index.tsx,23,FUNCTION
+MTH-E49ED471,handleRotateToken,No description,CODE_JAVASCRIPT,index.tsx,60,FUNCTION
+MTH-5DB3F0DD,maskToken,No description,CODE_JAVASCRIPT,mcp-connect-utils.tsx,3,FUNCTION
+MTH-970D1738,replaceIpWithLocalhost,No description,CODE_JAVASCRIPT,mcp-connect-utils.tsx,7,FUNCTION
+MTH-4A4E6AD7,constructConfig,No description,CODE_JAVASCRIPT,mcp-connect-utils.tsx,19,FUNCTION
+MTH-4B507244,McpServerUrlBox,No description,CODE_JAVASCRIPT,mcp-server-url-box.tsx,19,FUNCTION
+MTH-0BC35729,toggleTokenVisibility,No description,CODE_JAVASCRIPT,mcp-server-url-box.tsx,28,FUNCTION
+MTH-A43D7D01,SecurityNote,No description,CODE_JAVASCRIPT,security-note.tsx,10,FUNCTION
+MTH-B612E2A5,StepCard,No description,CODE_JAVASCRIPT,step-card.tsx,1,FUNCTION

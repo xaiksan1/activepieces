@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9948475E,isConnectionNameUnique,No description,CODE_JAVASCRIPT,utils.ts,189,FUNCTION

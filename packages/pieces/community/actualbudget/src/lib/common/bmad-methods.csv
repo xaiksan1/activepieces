@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E615A497,initializeAndDownloadBudget,No description,CODE_JAVASCRIPT,common.ts,4,FUNCTION
+MTH-B999B5A9,getYears,No description,CODE_JAVASCRIPT,common.ts,15,FUNCTION
+MTH-A2BD98AC,getMonths,No description,CODE_JAVASCRIPT,common.ts,29,FUNCTION

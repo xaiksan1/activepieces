@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D9F1DE01,sendWithRetry,No description,CODE_JAVASCRIPT,send-email.ts,118,FUNCTION
+MTH-ED25A53B,getFrom,No description,CODE_JAVASCRIPT,send-email.ts,137,FUNCTION

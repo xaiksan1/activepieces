@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C1221B90,createTemplateDropdown,No description,CODE_JAVASCRIPT,props.ts,4,FUNCTION
+MTH-73875043,templateLayersProperty,No description,CODE_JAVASCRIPT,props.ts,110,FUNCTION

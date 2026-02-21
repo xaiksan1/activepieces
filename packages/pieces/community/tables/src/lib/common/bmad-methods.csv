@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-784F2178,getFieldTypeText,No description,CODE_JAVASCRIPT,index.ts,18,FUNCTION
+MTH-BF5FD2CD,table,No description,CODE_JAVASCRIPT,index.ts,281,FUNCTION
+MTH-5C5DCBB7,fetchAllTables,No description,CODE_JAVASCRIPT,index.ts,287,FUNCTION

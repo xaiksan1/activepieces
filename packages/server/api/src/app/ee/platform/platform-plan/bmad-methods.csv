@@ -1,0 +1,22 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-64FCDA73,getPriceIdFor,No description,CODE_JAVASCRIPT,platform-plan-helper.ts,220,FUNCTION
+MTH-0582AA5C,handleProjects,No description,CODE_JAVASCRIPT,platform-plan-helper.ts,236,FUNCTION
+MTH-52A458C3,handleActiveFlows,No description,CODE_JAVASCRIPT,platform-plan-helper.ts,250,FUNCTION
+MTH-B34E0705,enabledFlows,No description,CODE_JAVASCRIPT,platform-plan-helper.ts,269,FUNCTION
+MTH-91B6B3A2,handleUserSeats,No description,CODE_JAVASCRIPT,platform-plan-helper.ts,283,FUNCTION
+MTH-0D069C28,handleEmailReminder,No description,CODE_JAVASCRIPT,platform-plan.module.ts,66,FUNCTION
+MTH-DB55773D,platformPlanService,No description,CODE_JAVASCRIPT,platform-plan.service.ts,23,FUNCTION
+MTH-8FD5ABD5,createInitialBilling,No description,CODE_JAVASCRIPT,platform-plan.service.ts,120,FUNCTION
+MTH-A6CBDDC0,getInitialPlanByEdition,No description,CODE_JAVASCRIPT,platform-plan.service.ts,142,FUNCTION
+MTH-C3673745,createInitialCustomer,No description,CODE_JAVASCRIPT,platform-plan.service.ts,152,FUNCTION
+MTH-4BEDB525,sendTrialRelatedEmails,No description,CODE_JAVASCRIPT,stripe-billing.controller.ts,185,FUNCTION
+MTH-F760BCD9,haveActiveSubs,No description,CODE_JAVASCRIPT,stripe-billing.controller.ts,210,FUNCTION
+MTH-B294C150,cancelTrialSubscription,No description,CODE_JAVASCRIPT,stripe-billing.controller.ts,215,FUNCTION
+MTH-AA856981,addThresholdOnAiCreditsItem,No description,CODE_JAVASCRIPT,stripe-billing.controller.ts,220,FUNCTION
+MTH-10F3B0B2,stripeHelper,No description,CODE_JAVASCRIPT,stripe-helper.ts,18,FUNCTION
+MTH-8CFB8978,updateSubscription,No description,CODE_JAVASCRIPT,stripe-helper.ts,275,FUNCTION
+MTH-C71ABA35,findItem,No description,CODE_JAVASCRIPT,stripe-helper.ts,283,FUNCTION
+MTH-1936F7F5,handleOptionalItem,No description,CODE_JAVASCRIPT,stripe-helper.ts,309,FUNCTION
+MTH-610F8A17,updateSubscriptionSchedule,No description,CODE_JAVASCRIPT,stripe-helper.ts,340,FUNCTION
+MTH-26C2AE20,buildPhaseItems,No description,CODE_JAVASCRIPT,stripe-helper.ts,346,FUNCTION
+MTH-C953F979,createSubscriptionSchedule,No description,CODE_JAVASCRIPT,stripe-helper.ts,427,FUNCTION

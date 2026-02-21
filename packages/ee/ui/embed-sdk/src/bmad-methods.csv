@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-87AF0DAA,ActivepiecesEmbedded,Javascript Class/Contract,STRUCT_JAVASCRIPT,index.ts,158,CLASS
+MTH-7FED4F98,initialMessageHandler,No description,CODE_JAVASCRIPT,index.ts,240,FUNCTION
+MTH-006C2795,configurationFinishedHandler,No description,CODE_JAVASCRIPT,index.ts,294,FUNCTION
+MTH-E6055020,authenticationFailedHandler,No description,CODE_JAVASCRIPT,index.ts,306,FUNCTION
+MTH-0EF5B77A,authenticationSuccessHandler,No description,CODE_JAVASCRIPT,index.ts,315,FUNCTION
+MTH-0E950F14,connectionRelatedMessageHandler,No description,CODE_JAVASCRIPT,index.ts,462,FUNCTION

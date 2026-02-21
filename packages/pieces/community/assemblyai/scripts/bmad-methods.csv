@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2B495727,createPropsFromSchema,No description,CODE_JAVASCRIPT,generateFromSpec.ts,63,FUNCTION
+MTH-539B3FDE,createField,No description,CODE_JAVASCRIPT,generateFromSpec.ts,179,FUNCTION
+MTH-48CB8FA3,mapType,No description,CODE_JAVASCRIPT,generateFromSpec.ts,234,FUNCTION
+MTH-8BF29390,createTs,No description,CODE_JAVASCRIPT,generateFromSpec.ts,246,FUNCTION
+MTH-C549BA0F,createTsProps,No description,CODE_JAVASCRIPT,generateFromSpec.ts,255,FUNCTION

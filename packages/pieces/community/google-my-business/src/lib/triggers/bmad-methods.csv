@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6CA918EA,getResponse,No description,CODE_JAVASCRIPT,new-review.ts,68,FUNCTION

@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DD57B1AA,needle,No description,CODE_JAVASCRIPT,find-campaign.ts,32,FUNCTION
+MTH-2755EB27,needle,No description,CODE_JAVASCRIPT,find-contact.ts,33,FUNCTION

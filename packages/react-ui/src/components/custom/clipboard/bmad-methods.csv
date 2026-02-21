@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-716D3E31,CopyButton,No description,CODE_JAVASCRIPT,copy-button.tsx,21,FUNCTION
+MTH-254BE76C,CopyTextTooltip,No description,CODE_JAVASCRIPT,copy-text-tooltip.tsx,5,FUNCTION
+MTH-18BE9121,CopyToClipboardInput,No description,CODE_JAVASCRIPT,copy-to-clipboard.tsx,17,FUNCTION

@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D0C93B51,engineRunnerSocket,No description,CODE_JAVASCRIPT,engine-runner-socket.ts,10,FUNCTION
+MTH-ADAE01CF,messageHandler,No description,CODE_JAVASCRIPT,engine-runner-socket.ts,132,FUNCTION
+MTH-057F492A,engineRunnerUtils,No description,CODE_JAVASCRIPT,engine-runner-types.ts,67,FUNCTION
+MTH-B4902116,tryParseJson,No description,CODE_JAVASCRIPT,engine-runner-types.ts,112,FUNCTION
+MTH-CDBC89E9,engineRunner,No description,CODE_JAVASCRIPT,index.ts,14,FUNCTION
+MTH-C29957E0,prepareFlowSandbox,No description,CODE_JAVASCRIPT,index.ts,149,FUNCTION

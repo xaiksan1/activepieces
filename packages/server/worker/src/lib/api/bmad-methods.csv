@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B62E8AF1,removeTrailingSlash,No description,CODE_JAVASCRIPT,server-api.service.ts,9,FUNCTION
+MTH-1B2F1A14,workerApiService,No description,CODE_JAVASCRIPT,server-api.service.ts,13,FUNCTION
+MTH-A3537381,splitPayloadsIntoOneMegabyteBatches,No description,CODE_JAVASCRIPT,server-api.service.ts,53,FUNCTION
+MTH-93602FC9,engineApiService,No description,CODE_JAVASCRIPT,server-api.service.ts,74,FUNCTION
+MTH-D152070F,agentsApiService,No description,CODE_JAVASCRIPT,server-api.service.ts,106,FUNCTION

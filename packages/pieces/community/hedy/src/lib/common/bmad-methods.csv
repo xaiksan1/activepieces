@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-84150D0F,maybeData,No description,CODE_JAVASCRIPT,client.ts,183,FUNCTION
+MTH-FFD6765B,data,No description,CODE_JAVASCRIPT,client.ts,196,FUNCTION
+MTH-282D6BE6,deriveCode,No description,CODE_JAVASCRIPT,errors.ts,5,FUNCTION
+MTH-106848FA,toTopicArray,No description,CODE_JAVASCRIPT,load-options.ts,6,FUNCTION
+MTH-6BC47B49,data,No description,CODE_JAVASCRIPT,load-options.ts,12,FUNCTION
+MTH-F926E494,assertLimit,No description,CODE_JAVASCRIPT,validation.ts,1,FUNCTION

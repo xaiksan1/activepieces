@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D3EBE12A,stepFileMigration,TODO: remove in 2025,CODE_JAVASCRIPT,step-file-migration.ts,17,FUNCTION
+MTH-33AFCA14,getFileByToken,No description,CODE_JAVASCRIPT,step-file.controller.ts,68,FUNCTION
+MTH-E620D383,stepFileService,No description,CODE_JAVASCRIPT,step-file.service.ts,19,FUNCTION
+MTH-ED821E95,constructUploadUrl,No description,CODE_JAVASCRIPT,step-file.service.ts,40,FUNCTION
+MTH-6E3AA82D,constructDownloadUrl,No description,CODE_JAVASCRIPT,step-file.service.ts,49,FUNCTION

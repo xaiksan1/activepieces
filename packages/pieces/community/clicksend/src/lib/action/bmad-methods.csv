@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E3F403AA,isValidPhone,No description,CODE_JAVASCRIPT,create-contact.ts,6,FUNCTION
+MTH-0CB394FB,isValidEmail,No description,CODE_JAVASCRIPT,create-contact.ts,9,FUNCTION
+MTH-7A10FBD2,isValidEmail,No description,CODE_JAVASCRIPT,search-contact-by-email.ts,6,FUNCTION
+MTH-B63D24C0,isValidPhone,No description,CODE_JAVASCRIPT,search-contact-by-phone.ts,6,FUNCTION
+MTH-E3BD6A6C,messages,No description,CODE_JAVASCRIPT,send-sms.ts,57,FUNCTION
+MTH-03B379CA,isValidPhone,No description,CODE_JAVASCRIPT,update-contact.ts,6,FUNCTION
+MTH-6D891CCB,isValidEmail,No description,CODE_JAVASCRIPT,update-contact.ts,9,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B7DF00B4,rbacMiddleware,No description,CODE_JAVASCRIPT,rbac-middleware.ts,20,FUNCTION
+MTH-CAA5FF90,assertUserHasPermissionToFlow,No description,CODE_JAVASCRIPT,rbac-middleware.ts,27,FUNCTION
+MTH-2A62CFB7,assertRoleHasPermission,No description,CODE_JAVASCRIPT,rbac-middleware.ts,68,FUNCTION
+MTH-C55D9A13,ignoreRequest,No description,CODE_JAVASCRIPT,rbac-middleware.ts,83,FUNCTION
+MTH-FC987DEA,getPrincipalRoleOrThrow,No description,CODE_JAVASCRIPT,rbac-middleware.ts,100,FUNCTION
+MTH-DD218376,grantAccess,No description,CODE_JAVASCRIPT,rbac-middleware.ts,123,FUNCTION
+MTH-6A45547C,throwPermissionDenied,No description,CODE_JAVASCRIPT,rbac-middleware.ts,139,FUNCTION

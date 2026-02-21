@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5BC148BD,sampleCount,No description,CODE_JAVASCRIPT,google.ts,124,FUNCTION
+MTH-230F5648,quality,No description,CODE_JAVASCRIPT,openai.ts,39,FUNCTION
+MTH-9F6F65ED,getProviderConfig,No description,CODE_JAVASCRIPT,utils.ts,3,FUNCTION
+MTH-C56115FC,calculateTokensCost,No description,CODE_JAVASCRIPT,utils.ts,7,FUNCTION
+MTH-59EA27A1,calculateWebSearchCost,No description,CODE_JAVASCRIPT,utils.ts,14,FUNCTION

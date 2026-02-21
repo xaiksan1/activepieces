@@ -1,0 +1,21 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4368EF88,createBuilderStore,No description,CODE_JAVASCRIPT,builder-hooks.ts,198,FUNCTION
+MTH-708A3260,updateRequest,No description,CODE_JAVASCRIPT,builder-hooks.ts,480,FUNCTION
+MTH-A39F2406,getPanningModeFromLocalStorage,No description,CODE_JAVASCRIPT,builder-hooks.ts,765,FUNCTION
+MTH-4CE16642,shortcutHandler,No description,CODE_JAVASCRIPT,builder-hooks.ts,772,FUNCTION
+MTH-A7F79789,doesSelectionRectangleExist,No description,CODE_JAVASCRIPT,builder-hooks.ts,798,FUNCTION
+MTH-6A36D6CD,useHandleKeyPressOnCanvas,No description,CODE_JAVASCRIPT,builder-hooks.ts,801,FUNCTION
+MTH-04285F04,useSwitchToDraft,No description,CODE_JAVASCRIPT,builder-hooks.ts,903,FUNCTION
+MTH-13B4F7DD,useIsFocusInsideListMapperModeInput,No description,CODE_JAVASCRIPT,builder-hooks.ts,932,FUNCTION
+MTH-DCFC57AB,focusInListener,No description,CODE_JAVASCRIPT,builder-hooks.ts,944,FUNCTION
+MTH-E847ABE0,useFocusOnStep,No description,CODE_JAVASCRIPT,builder-hooks.ts,964,FUNCTION
+MTH-83C8C859,useResizeCanvas,No description,CODE_JAVASCRIPT,builder-hooks.ts,989,FUNCTION
+MTH-E17AD33D,getStepNameFromOperationType,No description,CODE_JAVASCRIPT,builder-hooks.ts,1023,FUNCTION
+MTH-38B06A05,determineInitiallySelectedStep,No description,CODE_JAVASCRIPT,builder-hooks.ts,1036,FUNCTION
+MTH-34D60848,useShowBuilderIsSavingWarningBeforeLeaving,No description,CODE_JAVASCRIPT,builder-hooks.ts,1054,FUNCTION
+MTH-3D2F1D3A,handleBeforeUnload,No description,CODE_JAVASCRIPT,builder-hooks.ts,1066,FUNCTION
+MTH-043113AF,BuilderStateProvider,No description,CODE_JAVASCRIPT,builder-state-provider.tsx,15,FUNCTION
+MTH-58D8E5CB,useAnimateSidebar,No description,CODE_JAVASCRIPT,index.tsx,55,FUNCTION
+MTH-3A6FCCE0,constructContainerKey,No description,CODE_JAVASCRIPT,index.tsx,73,FUNCTION
+MTH-4BC9A40B,BuilderPage,No description,CODE_JAVASCRIPT,index.tsx,91,FUNCTION
+MTH-812959E3,SidebarHeader,No description,CODE_JAVASCRIPT,sidebar-header.tsx,10,FUNCTION

@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-85772128,result,No description,CODE_JAVASCRIPT,classify-content.ts,87,FUNCTION
+MTH-109ACBBB,result,No description,CODE_JAVASCRIPT,deepsearch-query.ts,189,FUNCTION

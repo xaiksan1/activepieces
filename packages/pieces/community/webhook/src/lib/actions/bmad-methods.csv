@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E7283CDF,praseToJson,No description,CODE_JAVASCRIPT,return-response-and-wait-for-next-webhook.ts,150,FUNCTION
+MTH-E8DA7805,ensureProtocol,No description,CODE_JAVASCRIPT,return-response-and-wait-for-next-webhook.ts,157,FUNCTION
+MTH-31C01C33,praseToJson,No description,CODE_JAVASCRIPT,return-response.ts,157,FUNCTION
+MTH-2BBFE1C2,ensureProtocol,No description,CODE_JAVASCRIPT,return-response.ts,164,FUNCTION

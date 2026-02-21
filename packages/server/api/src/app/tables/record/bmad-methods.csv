@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6A7C7094,recordSideEffects,No description,CODE_JAVASCRIPT,record-side-effects.ts,37,FUNCTION
+MTH-1FB77CB3,prepareRecordInsertions,No description,CODE_JAVASCRIPT,record.service.ts,383,FUNCTION
+MTH-389598D9,prepareCellInsertions,No description,CODE_JAVASCRIPT,record.service.ts,400,FUNCTION
+MTH-B33F5D31,formatRecordsAndFetchField,No description,CODE_JAVASCRIPT,record.service.ts,418,FUNCTION
+MTH-C8ED7713,formatRecords,No description,CODE_JAVASCRIPT,record.service.ts,426,FUNCTION
+MTH-44385AE7,doesCellValueMatchFilters,No description,CODE_JAVASCRIPT,record.service.ts,447,FUNCTION
+MTH-B459E75F,numberFilterValidator,No description,CODE_JAVASCRIPT,record.service.ts,489,FUNCTION

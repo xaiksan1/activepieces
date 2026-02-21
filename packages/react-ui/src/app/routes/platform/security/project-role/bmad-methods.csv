@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-47ADEB0B,ProjectRolePage,No description,CODE_JAVASCRIPT,index.tsx,19,FUNCTION
+MTH-3992D5D8,ProjectRoleDialog,No description,CODE_JAVASCRIPT,project-role-dialog.tsx,116,FUNCTION
+MTH-D0BDF028,handlePermissionChange,No description,CODE_JAVASCRIPT,project-role-dialog.tsx,167,FUNCTION
+MTH-1570BF12,getButtonVariant,No description,CODE_JAVASCRIPT,project-role-dialog.tsx,196,FUNCTION
+MTH-65120182,handleSubmit,No description,CODE_JAVASCRIPT,project-role-dialog.tsx,226,FUNCTION
+MTH-CD61DC71,ProjectRoleUsersTable,No description,CODE_JAVASCRIPT,project-role-users-table.tsx,24,FUNCTION
+MTH-FF101C8A,ProjectRolesTable,No description,CODE_JAVASCRIPT,project-roles-table.tsx,30,FUNCTION

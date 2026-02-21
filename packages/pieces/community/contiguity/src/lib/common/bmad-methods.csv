@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9F6E6D42,contiguityHeaders,No description,CODE_JAVASCRIPT,http-client.ts,12,FUNCTION
+MTH-8DA89E96,contiguityRequest,No description,CODE_JAVASCRIPT,http-client.ts,19,FUNCTION
+MTH-97EAEAE0,_fetch,No description,CODE_JAVASCRIPT,http-client.ts,28,FUNCTION
+MTH-3F5E6594,contiguityHeaders,No description,CODE_JAVASCRIPT,request.ts,12,FUNCTION
+MTH-3CEC9A39,contiguityRequest,No description,CODE_JAVASCRIPT,request.ts,19,FUNCTION
+MTH-308DE51D,_fetch,No description,CODE_JAVASCRIPT,request.ts,28,FUNCTION

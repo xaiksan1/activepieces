@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B58CB607,handleThirdPartyLogin,No description,CODE_JAVASCRIPT,redirect.tsx,34,FUNCTION
+MTH-C538C9C2,tryParseState,No description,CODE_JAVASCRIPT,redirect.tsx,86,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E1C9CEB5,teamProperty,Base reusable properties,CODE_JAVASCRIPT,properties.ts,5,FUNCTION
+MTH-37DB9DB3,botProperty,No description,CODE_JAVASCRIPT,properties.ts,35,FUNCTION
+MTH-D2719B1F,askQuestion,No description,CODE_JAVASCRIPT,properties.ts,50,FUNCTION
+MTH-6C9D6024,createSource,No description,CODE_JAVASCRIPT,properties.ts,140,FUNCTION
+MTH-58102337,uploadSourceFile,No description,CODE_JAVASCRIPT,properties.ts,234,FUNCTION
+MTH-47586939,createBot,No description,CODE_JAVASCRIPT,properties.ts,244,FUNCTION
+MTH-47183934,findBot,No description,CODE_JAVASCRIPT,properties.ts,315,FUNCTION

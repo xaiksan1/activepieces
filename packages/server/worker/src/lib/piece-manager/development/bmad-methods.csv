@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-117434B1,checkBuildTarget,No description,CODE_JAVASCRIPT,pieces-builder.ts,15,FUNCTION
+MTH-AEA78ECC,handleFileChange,No description,CODE_JAVASCRIPT,pieces-builder.ts,28,FUNCTION
+MTH-0BC0EE7D,buildTime,No description,CODE_JAVASCRIPT,pieces-builder.ts,51,FUNCTION
+MTH-01E56FE8,runCommandWithLiveOutput,No description,CODE_JAVASCRIPT,pieces-builder.ts,81,FUNCTION
+MTH-F1AE0E48,piecesBuilder,No description,CODE_JAVASCRIPT,pieces-builder.ts,99,FUNCTION

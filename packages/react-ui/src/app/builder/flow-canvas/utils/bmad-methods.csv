@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-527DCCEF,offsetGraph,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,159,FUNCTION
+MTH-C6F39860,mergeGraph,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,175,FUNCTION
+MTH-2C7DC3B8,createFocusStepInGraphParams,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,182,FUNCTION
+MTH-439C6EF2,calculateGraphBoundingBox,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,191,FUNCTION
+MTH-7759B29A,buildRouterChildGraph,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,309,FUNCTION
+MTH-FE64592E,offsetRouterChildSteps,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,397,FUNCTION
+MTH-38AF6352,createAddOperationFromAddButtonData,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,427,FUNCTION
+MTH-F3FE9058,isSkipped,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,450,FUNCTION
+MTH-DAF5252E,getStepStatus,No description,CODE_JAVASCRIPT,flow-canvas-utils.ts,474,FUNCTION

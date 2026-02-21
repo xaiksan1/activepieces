@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BF612A6C,handshakeHandler,No description,CODE_JAVASCRIPT,handshake-handler.ts,9,FUNCTION
+MTH-839385A5,isHandshakeRequest,No description,CODE_JAVASCRIPT,handshake-handler.ts,56,FUNCTION
+MTH-823BAB39,convertRequest,No description,CODE_JAVASCRIPT,webhook-controller.ts,141,FUNCTION
+MTH-870190D1,convertBody,No description,CODE_JAVASCRIPT,webhook-controller.ts,157,FUNCTION
+MTH-01C26A4F,extractHeaderFromRequest,No description,CODE_JAVASCRIPT,webhook-controller.ts,193,FUNCTION
+MTH-0AED891D,savePayload,No description,CODE_JAVASCRIPT,webhook-handler.ts,120,FUNCTION

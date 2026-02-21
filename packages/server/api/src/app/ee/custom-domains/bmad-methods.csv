@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-AFC8FF5D,cleanLeadingSlash,No description,CODE_JAVASCRIPT,domain-helper.ts,35,FUNCTION

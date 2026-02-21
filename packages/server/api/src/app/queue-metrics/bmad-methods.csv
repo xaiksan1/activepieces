@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2B6AA59B,queueMetricService,No description,CODE_JAVASCRIPT,queue-metrics.service.ts,7,FUNCTION
+MTH-86960A17,getStat,No description,CODE_JAVASCRIPT,queue-metrics.service.ts,36,FUNCTION

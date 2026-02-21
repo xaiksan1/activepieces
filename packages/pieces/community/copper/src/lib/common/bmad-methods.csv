@@ -1,0 +1,23 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-18CA2911,isNonEmptyStr,No description,CODE_JAVASCRIPT,constants.ts,53,FUNCTION
+MTH-8B0C4187,toUnix,No description,CODE_JAVASCRIPT,constants.ts,55,FUNCTION
+MTH-BC9FE2E0,peopleDropdown,No description,CODE_JAVASCRIPT,props.ts,5,FUNCTION
+MTH-E7D07D37,leadDropdown,No description,CODE_JAVASCRIPT,props.ts,39,FUNCTION
+MTH-63F1A6ED,companyDropdown,No description,CODE_JAVASCRIPT,props.ts,73,FUNCTION
+MTH-DD47F573,multiCompanyDropdown,No description,CODE_JAVASCRIPT,props.ts,113,FUNCTION
+MTH-BF96003A,primaryContactsDropdown,No description,CODE_JAVASCRIPT,props.ts,153,FUNCTION
+MTH-CED530D0,multiPrimaryContactsDropdown,No description,CODE_JAVASCRIPT,props.ts,193,FUNCTION
+MTH-153D3920,usersDropdown,No description,CODE_JAVASCRIPT,props.ts,233,FUNCTION
+MTH-FEC08A8D,multiUsersDropdown,No description,CODE_JAVASCRIPT,props.ts,273,FUNCTION
+MTH-18643763,opportunityDropdown,No description,CODE_JAVASCRIPT,props.ts,313,FUNCTION
+MTH-78C7E376,multiOpportunityDropdown,No description,CODE_JAVASCRIPT,props.ts,353,FUNCTION
+MTH-EFFD9534,pipelinesDropdown,No description,CODE_JAVASCRIPT,props.ts,393,FUNCTION
+MTH-B1F354E3,multiPipelinesDropdown,No description,CODE_JAVASCRIPT,props.ts,433,FUNCTION
+MTH-03E576D1,projectsDropdown,No description,CODE_JAVASCRIPT,props.ts,473,FUNCTION
+MTH-1A4D2D7E,ActivityTypesDropdown,No description,CODE_JAVASCRIPT,props.ts,513,FUNCTION
+MTH-714FB9B5,MultiActivityTypesDropdown,No description,CODE_JAVASCRIPT,props.ts,553,FUNCTION
+MTH-BFCCD87F,MultiContactTypesDropdown,No description,CODE_JAVASCRIPT,props.ts,599,FUNCTION
+MTH-F8CC1AD0,MultiLeadStatusDropdown,No description,CODE_JAVASCRIPT,props.ts,638,FUNCTION
+MTH-31F6F744,MultiCustomerSourceDropdown,No description,CODE_JAVASCRIPT,props.ts,677,FUNCTION
+MTH-5E231084,MultiLossReasonsDropdown,No description,CODE_JAVASCRIPT,props.ts,716,FUNCTION
+MTH-263D429F,fireHttpRequest,No description,CODE_JAVASCRIPT,requests.ts,4,FUNCTION

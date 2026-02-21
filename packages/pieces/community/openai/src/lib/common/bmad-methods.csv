@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B99049E9,sleep,No description,CODE_JAVASCRIPT,common.ts,74,FUNCTION
+MTH-E4C7A930,streamToBuffer,No description,CODE_JAVASCRIPT,common.ts,78,FUNCTION
+MTH-396AEC09,calculateTokensFromString,No description,CODE_JAVASCRIPT,common.ts,87,FUNCTION
+MTH-3FFC179F,calculateMessagesTokenSize,No description,CODE_JAVASCRIPT,common.ts,100,FUNCTION
+MTH-47D03843,reduceContextSize,No description,CODE_JAVASCRIPT,common.ts,117,FUNCTION
+MTH-E4D7CECD,exceedsHistoryLimit,No description,CODE_JAVASCRIPT,common.ts,136,FUNCTION
+MTH-D598695A,modelTokenLimit,No description,CODE_JAVASCRIPT,common.ts,153,FUNCTION

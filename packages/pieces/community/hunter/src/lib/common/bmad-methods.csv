@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C48D6C62,hunterApiCall,No description,CODE_JAVASCRIPT,index.ts,8,FUNCTION
+MTH-763EA1D0,campaigns,No description,CODE_JAVASCRIPT,props.ts,22,FUNCTION
+MTH-42C566A4,leads,No description,CODE_JAVASCRIPT,props.ts,73,FUNCTION
+MTH-42C566A4,leads,No description,CODE_JAVASCRIPT,props.ts,236,FUNCTION
+MTH-42C566A4,leads,No description,CODE_JAVASCRIPT,props.ts,289,FUNCTION
+MTH-42C566A4,leads,No description,CODE_JAVASCRIPT,props.ts,321,FUNCTION
+MTH-40201D17,filterProp,No description,CODE_JAVASCRIPT,props.ts,346,FUNCTION
+MTH-BF4ACD5D,arrayStringProp,No description,CODE_JAVASCRIPT,props.ts,418,FUNCTION

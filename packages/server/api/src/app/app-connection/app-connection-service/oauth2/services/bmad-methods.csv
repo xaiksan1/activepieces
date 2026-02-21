@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9B6147A4,cloudOAuth2Service,No description,CODE_JAVASCRIPT,cloud-oauth2-service.ts,18,FUNCTION
+MTH-6897EB6D,response,No description,CODE_JAVASCRIPT,cloud-oauth2-service.ts,31,FUNCTION
+MTH-0AB99D2C,value,No description,CODE_JAVASCRIPT,cloud-oauth2-service.ts,57,FUNCTION
+MTH-110F653D,credentialsOauth2Service,No description,CODE_JAVASCRIPT,credentials-oauth2-service.ts,22,FUNCTION
+MTH-48ACDE4F,response,No description,CODE_JAVASCRIPT,credentials-oauth2-service.ts,71,FUNCTION
+MTH-48ACDE4F,response,No description,CODE_JAVASCRIPT,credentials-oauth2-service.ts,164,FUNCTION
+MTH-7AAF3834,mergeNonNull,No description,CODE_JAVASCRIPT,credentials-oauth2-service.ts,186,FUNCTION

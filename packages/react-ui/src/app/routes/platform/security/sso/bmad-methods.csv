@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EC9BE8F1,AllowedDomainDialog,No description,CODE_JAVASCRIPT,allowed-domain.tsx,43,FUNCTION
+MTH-5C5D61CC,ProviderCard,No description,CODE_JAVASCRIPT,index.tsx,28,FUNCTION
+MTH-436F7F41,SSOPage,No description,CODE_JAVASCRIPT,index.tsx,68,FUNCTION
+MTH-F6BBBF4C,NewOAuth2Dialog,No description,CODE_JAVASCRIPT,oauth2-dialog.tsx,46,FUNCTION
+MTH-6849F35A,ConfigureSamlDialog,No description,CODE_JAVASCRIPT,saml-dialog.tsx,47,FUNCTION

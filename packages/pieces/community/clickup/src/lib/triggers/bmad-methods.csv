@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-05036F29,clickupRegisterTrigger,No description,CODE_JAVASCRIPT,register-trigger.ts,12,FUNCTION

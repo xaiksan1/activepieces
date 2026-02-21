@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A6A82980,ApTableEditorPage,No description,CODE_JAVASCRIPT,index.tsx,33,FUNCTION
+MTH-1D063128,createEmptyRecord,No description,CODE_JAVASCRIPT,index.tsx,76,FUNCTION
+MTH-DC0122F4,handleClickOutside,No description,CODE_JAVASCRIPT,index.tsx,95,FUNCTION
+MTH-4DD93B75,handleBack,No description,CODE_JAVASCRIPT,index.tsx,143,FUNCTION

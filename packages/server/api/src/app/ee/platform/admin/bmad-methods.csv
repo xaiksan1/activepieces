@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9B5AE882,adminPlatformService,No description,CODE_JAVASCRIPT,admin-platform.service.ts,21,FUNCTION

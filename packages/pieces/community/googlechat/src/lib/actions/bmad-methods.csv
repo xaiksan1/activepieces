@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-621475D5,userId,No description,CODE_JAVASCRIPT,add-a-space-member.ts,21,FUNCTION
+MTH-54034D87,spaceMemberId,No description,CODE_JAVASCRIPT,find-member.ts,39,FUNCTION

@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E2914DD0,matomoAPI,No description,CODE_JAVASCRIPT,api.ts,9,FUNCTION
+MTH-B2AABA11,getVersion,No description,CODE_JAVASCRIPT,api.ts,46,FUNCTION
+MTH-FD9E8F6E,addAnnotation,No description,CODE_JAVASCRIPT,api.ts,51,FUNCTION
+MTH-82EEAA6D,validateAuth,No description,CODE_JAVASCRIPT,auth.ts,62,FUNCTION

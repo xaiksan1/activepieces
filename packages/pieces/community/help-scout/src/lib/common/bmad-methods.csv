@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FE53767D,getErrorMessage,No description,CODE_JAVASCRIPT,api.ts,12,FUNCTION
+MTH-D3E8949C,helpScoutApiRequest,No description,CODE_JAVASCRIPT,api.ts,19,FUNCTION
+MTH-3F19FEEF,verifyWebhookSignature,No description,CODE_JAVASCRIPT,api.ts,50,FUNCTION
+MTH-05B37AAA,userIdDropdown,No description,CODE_JAVASCRIPT,props.ts,46,FUNCTION
+MTH-D704B66B,mailboxIdDropdown,No description,CODE_JAVASCRIPT,props.ts,123,FUNCTION

@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9E8C623E,projectStateHelper,No description,CODE_JAVASCRIPT,project-state-helper.ts,5,FUNCTION
+MTH-202B0CA2,projectStateService,No description,CODE_JAVASCRIPT,project-state.service.ts,14,FUNCTION
+MTH-C60ED715,handleCreateField,No description,CODE_JAVASCRIPT,project-state.service.ts,329,FUNCTION
+MTH-8E449434,toProjectState,No description,CODE_JAVASCRIPT,project-state.service.ts,362,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-134F37F1,createBasicEnvironment,No description,CODE_JAVASCRIPT,user-invitations.test.ts,486,FUNCTION

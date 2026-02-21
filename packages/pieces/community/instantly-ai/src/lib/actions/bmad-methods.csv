@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6E66FB1E,response,No description,CODE_JAVASCRIPT,add-lead-to-campaign.ts,25,FUNCTION
+MTH-55CF00B4,wait,No description,CODE_JAVASCRIPT,add-lead-to-campaign.ts,39,FUNCTION
+MTH-EBFFDE4D,jobResponse,No description,CODE_JAVASCRIPT,add-lead-to-campaign.ts,45,FUNCTION
+MTH-2CBB2EBA,response,No description,CODE_JAVASCRIPT,search-campaigns.ts,34,FUNCTION
+MTH-0DC88A60,response,No description,CODE_JAVASCRIPT,search-leads.ts,39,FUNCTION

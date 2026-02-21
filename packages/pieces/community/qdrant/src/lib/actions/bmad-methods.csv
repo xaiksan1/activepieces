@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-005620CF,embeddingsIds,No description,CODE_JAVASCRIPT,add-points.ts,76,FUNCTION
+MTH-F833FAB1,collections,No description,CODE_JAVASCRIPT,add-points.ts,98,FUNCTION

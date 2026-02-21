@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-65516DB5,getApiKey,old format is a secret that is deserealised as an object,CODE_JAVASCRIPT,common.ts,24,FUNCTION
+MTH-744531B1,getRegionApiUrl,No description,CODE_JAVASCRIPT,common.ts,31,FUNCTION
+MTH-C6DA8311,createClient,No description,CODE_JAVASCRIPT,common.ts,35,FUNCTION

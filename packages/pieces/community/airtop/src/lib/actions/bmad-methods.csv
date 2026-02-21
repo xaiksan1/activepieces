@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6347C1D4,effectiveScope,Use the main scope setting or override from visual analysis config,CODE_JAVASCRIPT,take-screenshot.ts,228,FUNCTION

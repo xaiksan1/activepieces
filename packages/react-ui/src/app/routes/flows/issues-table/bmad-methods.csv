@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FD895FFE,IssuesTable,No description,CODE_JAVASCRIPT,index.tsx,24,FUNCTION
+MTH-43D780BF,handleMarkAsArchived,No description,CODE_JAVASCRIPT,index.tsx,87,FUNCTION

@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-00BDFF89,resourceRecord,No description,CODE_JAVASCRIPT,new-event.ts,31,FUNCTION
+MTH-D1968842,resourceRecord,No description,CODE_JAVASCRIPT,new-opportunity.ts,31,FUNCTION
+MTH-C09C6125,resourceRecord,No description,CODE_JAVASCRIPT,new-task.ts,35,FUNCTION

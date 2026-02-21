@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C0315B58,createGraphClient,No description,CODE_JAVASCRIPT,graph.ts,9,FUNCTION
+MTH-35A2C85B,delay,No description,CODE_JAVASCRIPT,graph.ts,17,FUNCTION
+MTH-3EE0250C,parseRetryAfterMs,No description,CODE_JAVASCRIPT,graph.ts,20,FUNCTION
+MTH-4DD53652,extractStatusCode,No description,CODE_JAVASCRIPT,graph.ts,35,FUNCTION
+MTH-DB389CD3,shouldRetry,No description,CODE_JAVASCRIPT,graph.ts,45,FUNCTION
+MTH-DC3F1B08,buildGraphErrorMessage,No description,CODE_JAVASCRIPT,graph.ts,57,FUNCTION

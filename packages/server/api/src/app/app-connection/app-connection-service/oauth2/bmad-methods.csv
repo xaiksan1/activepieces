@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A9ABE1EE,unimplementedService,No description,CODE_JAVASCRIPT,index.ts,14,FUNCTION
+MTH-F3A12937,setPlatformOAuthService,No description,CODE_JAVASCRIPT,index.ts,33,FUNCTION
+MTH-DB17F291,oauth2Util,No description,CODE_JAVASCRIPT,oauth2-util.ts,17,FUNCTION

@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-86575D4B,managedAuthnService,No description,CODE_JAVASCRIPT,managed-authn-service.ts,26,FUNCTION
+MTH-4A62D5D2,updateProjectLimits,No description,CODE_JAVASCRIPT,managed-authn-service.ts,107,FUNCTION
+MTH-864C705E,getOrCreateUser,No description,CODE_JAVASCRIPT,managed-authn-service.ts,129,FUNCTION
+MTH-018D4288,getOrCreateUserIdentity,No description,CODE_JAVASCRIPT,managed-authn-service.ts,151,FUNCTION
+MTH-1C7A2D16,getOrCreateProject,No description,CODE_JAVASCRIPT,managed-authn-service.ts,172,FUNCTION
+MTH-F5566DA7,getPiecesList,No description,CODE_JAVASCRIPT,managed-authn-service.ts,198,FUNCTION
+MTH-2FE7213F,generateEmailHash,No description,CODE_JAVASCRIPT,managed-authn-service.ts,216,FUNCTION
+MTH-58C3293A,cleanEmailOtherwiseCompareFails,No description,CODE_JAVASCRIPT,managed-authn-service.ts,221,FUNCTION

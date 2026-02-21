@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E1B48DDF,apiRequest,No description,CODE_JAVASCRIPT,send-http-request-action.ts,303,FUNCTION
+MTH-EB632460,handleBinaryResponse,No description,CODE_JAVASCRIPT,send-http-request-action.ts,390,FUNCTION
+MTH-32F79D4A,isBinaryBody,No description,CODE_JAVASCRIPT,send-http-request-action.ts,407,FUNCTION

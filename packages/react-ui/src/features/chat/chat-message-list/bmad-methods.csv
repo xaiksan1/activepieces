@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F7E31D1A,formatError,No description,CODE_JAVASCRIPT,error-bubble.tsx,12,FUNCTION
+MTH-97B52743,ErrorBubble,No description,CODE_JAVASCRIPT,error-bubble.tsx,58,FUNCTION

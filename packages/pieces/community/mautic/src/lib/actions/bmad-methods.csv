@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BC2E90B5,run,No description,CODE_JAVASCRIPT,create-company.ts,18,FUNCTION
+MTH-68AC72BD,run,No description,CODE_JAVASCRIPT,create-contact.ts,18,FUNCTION
+MTH-E57D6936,run,No description,CODE_JAVASCRIPT,search-company.ts,13,FUNCTION
+MTH-4385184C,run,No description,CODE_JAVASCRIPT,search-contact.ts,13,FUNCTION
+MTH-FF40B3E8,run,No description,CODE_JAVASCRIPT,update-company.ts,19,FUNCTION
+MTH-C990A08C,run,No description,CODE_JAVASCRIPT,update-contact.ts,19,FUNCTION

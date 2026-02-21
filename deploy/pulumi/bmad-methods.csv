@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5D200C75,registerAutoTags,No description,CODE_JAVASCRIPT,autotag.ts,8,FUNCTION
+MTH-0642E706,isTaggable,No description,CODE_JAVASCRIPT,taggable.ts,4,FUNCTION

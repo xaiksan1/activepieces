@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EDD33ECE,notifications,No description,CODE_JAVASCRIPT,new-file-in-folder.ts,135,FUNCTION
+MTH-A873A250,notifications,No description,CODE_JAVASCRIPT,new-file-in-subfolders.ts,137,FUNCTION
+MTH-FE41299D,notifications,No description,CODE_JAVASCRIPT,new-list-item.ts,83,FUNCTION
+MTH-9D6757BE,notifications,No description,CODE_JAVASCRIPT,new-list.ts,76,FUNCTION
+MTH-B1DAED77,notifications,No description,CODE_JAVASCRIPT,new-or-updated-file.ts,130,FUNCTION
+MTH-ACD6CAE9,notifications,No description,CODE_JAVASCRIPT,new-or-updated-folder.ts,130,FUNCTION
+MTH-50F4BF9B,notifications,No description,CODE_JAVASCRIPT,new-or-updated-list.ts,76,FUNCTION
+MTH-287CE51E,notifications,No description,CODE_JAVASCRIPT,updated-list-item.ts,83,FUNCTION

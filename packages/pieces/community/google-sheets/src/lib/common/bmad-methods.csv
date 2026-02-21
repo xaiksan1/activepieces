@@ -1,0 +1,18 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1A152B62,findSheetName,No description,CODE_JAVASCRIPT,common.ts,23,FUNCTION
+MTH-97962444,listSheetsName,No description,CODE_JAVASCRIPT,common.ts,37,FUNCTION
+MTH-2A87A292,getGoogleSheetRows,No description,CODE_JAVASCRIPT,common.ts,60,FUNCTION
+MTH-23CDF0D6,getHeaderRow,No description,CODE_JAVASCRIPT,common.ts,120,FUNCTION
+MTH-2E82069F,columnToLabel,No description,CODE_JAVASCRIPT,common.ts,138,FUNCTION
+MTH-218644A0,labelToColumn,No description,CODE_JAVASCRIPT,common.ts,149,FUNCTION
+MTH-1CC8EAEF,objectToArray,No description,CODE_JAVASCRIPT,common.ts,160,FUNCTION
+MTH-A793543A,stringifyArray,No description,CODE_JAVASCRIPT,common.ts,169,FUNCTION
+MTH-31D01ED8,deleteRow,No description,CODE_JAVASCRIPT,common.ts,178,FUNCTION
+MTH-690AA011,clearSheet,No description,CODE_JAVASCRIPT,common.ts,209,FUNCTION
+MTH-88F4C51B,createGoogleSheetClient,No description,CODE_JAVASCRIPT,common.ts,251,FUNCTION
+MTH-2594FF7A,areSheetIdsValid,No description,CODE_JAVASCRIPT,common.ts,259,FUNCTION
+MTH-8708BF0A,includeTeamDrivesProp,No description,CODE_JAVASCRIPT,props.ts,9,FUNCTION
+MTH-1AC42B6F,spreadsheetIdProp,No description,CODE_JAVASCRIPT,props.ts,17,FUNCTION
+MTH-4340FFEA,sheetIdProp,No description,CODE_JAVASCRIPT,props.ts,75,FUNCTION
+MTH-A4B6DC69,rowValuesProp,No description,CODE_JAVASCRIPT,props.ts,130,FUNCTION
+MTH-674A5762,columnNameProp,No description,CODE_JAVASCRIPT,props.ts,179,FUNCTION

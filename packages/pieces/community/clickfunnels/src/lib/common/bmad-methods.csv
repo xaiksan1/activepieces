@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EEEBC825,CLICKFUNNELS_BASE_URL,No description,CODE_JAVASCRIPT,constants.ts,4,FUNCTION
+MTH-D94B3DDF,teamsDropdown,No description,CODE_JAVASCRIPT,props.ts,4,FUNCTION
+MTH-6CFD78E2,coursesDropdown,No description,CODE_JAVASCRIPT,props.ts,39,FUNCTION
+MTH-621E356F,teamMembershipsDropdown,No description,CODE_JAVASCRIPT,props.ts,85,FUNCTION
+MTH-DA2389F3,workspacesDropdown,No description,CODE_JAVASCRIPT,props.ts,143,FUNCTION
+MTH-E0B6269E,pipelinesDropdown,No description,CODE_JAVASCRIPT,props.ts,189,FUNCTION
+MTH-6E6EEC5E,pipelineStagesDropdown,No description,CODE_JAVASCRIPT,props.ts,235,FUNCTION
+MTH-71B4CB44,contactsDropdown,No description,CODE_JAVASCRIPT,props.ts,281,FUNCTION
+MTH-5EA09031,tagsDropdown,No description,CODE_JAVASCRIPT,props.ts,337,FUNCTION
+MTH-6C364CD6,multiTagsDropdown,No description,CODE_JAVASCRIPT,props.ts,378,FUNCTION
+MTH-387AF1A0,appliedTagsDropdown,No description,CODE_JAVASCRIPT,props.ts,420,FUNCTION

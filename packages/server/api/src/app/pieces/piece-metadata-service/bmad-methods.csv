@@ -1,0 +1,20 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-68E26EA5,FastDbPieceMetadataService,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,22,FUNCTION
+MTH-262EFEC5,strictlyLessThan,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,60,FUNCTION
+MTH-86081087,findOldestCreataDate,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,168,FUNCTION
+MTH-A1729A76,enrichTags,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,182,FUNCTION
+MTH-1D6EDB9B,findNextExcludedVersion,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,195,FUNCTION
+MTH-F154F0B6,increasePatchVersion,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,219,FUNCTION
+MTH-66B502FF,increaseMinorVersion,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,228,FUNCTION
+MTH-1DA376DD,increaseMajorVersion,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,236,FUNCTION
+MTH-5DA66CBB,findAllPiecesVersionsSortedByNameAscVersionDesc,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,244,FUNCTION
+MTH-B8E1F597,piece,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,245,FUNCTION
+MTH-433E4805,isSupportedRelease,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,251,FUNCTION
+MTH-BD252E38,isOfficialPiece,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,264,FUNCTION
+MTH-841BD7CF,isProjectPiece,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,268,FUNCTION
+MTH-22495ED1,isPlatformPiece,No description,CODE_JAVASCRIPT,db-piece-metadata-service.ts,275,FUNCTION
+MTH-B66B5543,loadPiecesMetadata,No description,CODE_JAVASCRIPT,file-piece-metadata-service.ts,25,FUNCTION
+MTH-1DCEB8F1,FilePieceMetadataService,No description,CODE_JAVASCRIPT,file-piece-metadata-service.ts,33,FUNCTION
+MTH-9A425957,toPieceMetadataModel,No description,CODE_JAVASCRIPT,file-piece-metadata-service.ts,142,FUNCTION
+MTH-9E8ED58B,pieceMetadataService,No description,CODE_JAVASCRIPT,index.ts,20,FUNCTION
+MTH-28D49007,getPiecePackageWithoutArchive,No description,CODE_JAVASCRIPT,index.ts,31,FUNCTION

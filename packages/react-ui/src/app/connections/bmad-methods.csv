@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6352ED16,clickPiece,No description,CODE_JAVASCRIPT,new-connection-dialog.tsx,49,FUNCTION
+MTH-1185AA45,getOAuth2TypeAndApp,No description,CODE_JAVASCRIPT,oauth2-connection-settings.tsx,51,FUNCTION
+MTH-9214C9BC,OAuth2ConnectionSettings,No description,CODE_JAVASCRIPT,oauth2-connection-settings.tsx,88,FUNCTION
+MTH-028F5161,OAuth2ConnectionSettingsImplementation,No description,CODE_JAVASCRIPT,oauth2-connection-settings.tsx,111,FUNCTION
+MTH-8F54977D,doesPieceAllowSwitchingGrantType,No description,CODE_JAVASCRIPT,oauth2-connection-settings.tsx,156,FUNCTION
+MTH-D4BA3140,OAuth2ConnectionSettingsForm,No description,CODE_JAVASCRIPT,oauth2-connection-settings.tsx,180,FUNCTION
+MTH-B3FE7E51,clientSecret,No description,CODE_JAVASCRIPT,oauth2-connection-settings.tsx,259,FUNCTION
+MTH-4CB467F0,openPopup,No description,CODE_JAVASCRIPT,oauth2-connection-settings.tsx,279,FUNCTION
+MTH-9B15C821,ReconnectButtonDialog,No description,CODE_JAVASCRIPT,reconnect-button-dialog.tsx,24,FUNCTION
+MTH-D45C3840,ReplaceConnectionsDialog,No description,CODE_JAVASCRIPT,replace-connections-dialog.tsx,51,FUNCTION
+MTH-CD571B3B,handleBack,No description,CODE_JAVASCRIPT,replace-connections-dialog.tsx,176,FUNCTION
+MTH-7CE33BE0,handleConfirmedSubmit,No description,CODE_JAVASCRIPT,replace-connections-dialog.tsx,181,FUNCTION
+MTH-82CBD703,handleDialogOpenChange,No description,CODE_JAVASCRIPT,replace-connections-dialog.tsx,199,FUNCTION

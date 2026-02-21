@@ -1,0 +1,15 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1C52868D,flowVersionSideEffects,No description,CODE_JAVASCRIPT,flow-version-side-effects.ts,25,FUNCTION
+MTH-E32BDAB4,isMcpTriggerPiece,No description,CODE_JAVASCRIPT,flow-version-side-effects.ts,56,FUNCTION
+MTH-CD0B3948,handleSampleDataDeletion,No description,CODE_JAVASCRIPT,flow-version-side-effects.ts,61,FUNCTION
+MTH-DD6F1633,handleUpdateTriggerWebhookSimulation,No description,CODE_JAVASCRIPT,flow-version-side-effects.ts,126,FUNCTION
+MTH-930CAE18,handleUpdateFlowLastModified,No description,CODE_JAVASCRIPT,flow-version-side-effects.ts,137,FUNCTION
+MTH-DB39192B,flowVersionValidationUtil,No description,CODE_JAVASCRIPT,flow-version-validator-util.ts,35,FUNCTION
+MTH-63525AF7,validateAction,No description,CODE_JAVASCRIPT,flow-version-validator-util.ts,131,FUNCTION
+MTH-32287533,validateTrigger,No description,CODE_JAVASCRIPT,flow-version-validator-util.ts,169,FUNCTION
+MTH-7F585E76,validateProps,No description,CODE_JAVASCRIPT,flow-version-validator-util.ts,204,FUNCTION
+MTH-2F7382A6,buildSchema,No description,CODE_JAVASCRIPT,flow-version-validator-util.ts,221,FUNCTION
+MTH-4E983582,flowVersionService,No description,CODE_JAVASCRIPT,flow-version.service.ts,43,FUNCTION
+MTH-D4AC4DCE,findOne,No description,CODE_JAVASCRIPT,flow-version.service.ts,344,FUNCTION
+MTH-D8A41C3F,applySingleOperation,No description,CODE_JAVASCRIPT,flow-version.service.ts,353,FUNCTION
+MTH-5275ED88,removeConnectionsFromInput,No description,CODE_JAVASCRIPT,flow-version.service.ts,374,FUNCTION

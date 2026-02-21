@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F7EB1C06,createHyperDXTransport,No description,CODE_JAVASCRIPT,hyperdx-pino.ts,8,FUNCTION
+MTH-C655DB50,createLokiTransport,No description,CODE_JAVASCRIPT,loki-pino.ts,10,FUNCTION

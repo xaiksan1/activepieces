@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BDE11E3E,useAuthorization,No description,CODE_JAVASCRIPT,authorization-hooks.ts,16,FUNCTION
+MTH-DA475F76,checkAccess,No description,CODE_JAVASCRIPT,authorization-hooks.ts,35,FUNCTION
+MTH-2C57F7D9,useShowPlatformAdminDashboard,No description,CODE_JAVASCRIPT,authorization-hooks.ts,45,FUNCTION
+MTH-8F10576F,handleVisibilityChange,No description,CODE_JAVASCRIPT,project-hooks.ts,61,FUNCTION
+MTH-6D555900,updateCurrentProject,No description,CODE_JAVASCRIPT,project-hooks.ts,130,FUNCTION
+MTH-65D7C03A,setCurrentProject,No description,CODE_JAVASCRIPT,project-hooks.ts,141,FUNCTION
+MTH-45F29765,useIsMobile,No description,CODE_JAVASCRIPT,use-mobile.tsx,5,FUNCTION
+MTH-09142951,onChange,No description,CODE_JAVASCRIPT,use-mobile.tsx,12,FUNCTION
+MTH-E7CCA146,usePartnerStack,No description,CODE_JAVASCRIPT,use-partner-stack.ts,20,FUNCTION
+MTH-31A276EB,reportSignup,No description,CODE_JAVASCRIPT,use-partner-stack.ts,22,FUNCTION

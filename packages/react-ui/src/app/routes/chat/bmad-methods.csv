@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0300A35B,ChatDrawer,No description,CODE_JAVASCRIPT,chat-drawer.tsx,24,FUNCTION
+MTH-829C0769,listenToTestRun,shouldn't use testFlow hook here because it would run the flow with sample data not the real user message,CODE_JAVASCRIPT,chat-drawer.tsx,47,FUNCTION
+MTH-E94EF95C,onTestFlowRunStarted,No description,CODE_JAVASCRIPT,chat-drawer.tsx,49,FUNCTION
+MTH-C1ED74AB,FlowChat,No description,CODE_JAVASCRIPT,flow-chat.tsx,41,FUNCTION
+MTH-71C7697A,scrollToBottom,No description,CODE_JAVASCRIPT,flow-chat.tsx,76,FUNCTION
+MTH-7E0B732B,validFiles,No description,CODE_JAVASCRIPT,flow-chat.tsx,179,FUNCTION
+MTH-1002DB16,handleSendMessage,No description,CODE_JAVASCRIPT,flow-chat.tsx,212,FUNCTION
+MTH-871AB712,toggleImageDialog,No description,CODE_JAVASCRIPT,flow-chat.tsx,223,FUNCTION
+MTH-533A9623,ChatNotFound,No description,CODE_JAVASCRIPT,flow-chat.tsx,284,FUNCTION
+MTH-A792CF23,ChatPage,No description,CODE_JAVASCRIPT,index.tsx,14,FUNCTION
+MTH-9EF69A8C,addMessage,No description,CODE_JAVASCRIPT,index.tsx,28,FUNCTION

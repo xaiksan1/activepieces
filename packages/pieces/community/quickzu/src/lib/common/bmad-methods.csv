@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-44937823,emptyValueFilter,No description,CODE_JAVASCRIPT,client.ts,18,FUNCTION
+MTH-C003DF1E,prepareQuery,No description,CODE_JAVASCRIPT,client.ts,31,FUNCTION
+MTH-B8876279,makeClient,No description,CODE_JAVASCRIPT,index.ts,5,FUNCTION

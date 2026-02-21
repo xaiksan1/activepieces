@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-78FB7728,mongodbConnect,No description,CODE_JAVASCRIPT,index.ts,5,FUNCTION
+MTH-48C93740,getDatabase,No description,CODE_JAVASCRIPT,index.ts,56,FUNCTION
+MTH-3F9B7DDC,getCollections,No description,CODE_JAVASCRIPT,index.ts,63,FUNCTION

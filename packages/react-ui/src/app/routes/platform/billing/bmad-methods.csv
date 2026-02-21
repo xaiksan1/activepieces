@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5C134B38,Billing,No description,CODE_JAVASCRIPT,index.tsx,31,FUNCTION
+MTH-AF2B6086,handleStartBusinessTrial,No description,CODE_JAVASCRIPT,index.tsx,61,FUNCTION

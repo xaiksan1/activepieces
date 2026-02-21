@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F19EA41B,toSessionArray,No description,CODE_JAVASCRIPT,list-topic-sessions.ts,9,FUNCTION
+MTH-30744434,data,No description,CODE_JAVASCRIPT,list-topic-sessions.ts,15,FUNCTION
+MTH-3C58C268,toTopicArray,No description,CODE_JAVASCRIPT,list-topics.ts,9,FUNCTION
+MTH-CCC5D6BA,data,No description,CODE_JAVASCRIPT,list-topics.ts,15,FUNCTION

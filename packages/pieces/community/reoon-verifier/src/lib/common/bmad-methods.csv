@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7D21D540,verifySingleEmail,No description,CODE_JAVASCRIPT,send-util.ts,5,FUNCTION
+MTH-1F959ECA,verifyEmails,No description,CODE_JAVASCRIPT,send-util.ts,16,FUNCTION
+MTH-26B78233,verifyEmailsResult,No description,CODE_JAVASCRIPT,send-util.ts,32,FUNCTION

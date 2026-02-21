@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4AAAD64D,parseStream,No description,CODE_JAVASCRIPT,index.ts,53,FUNCTION
+MTH-A179B08C,convertAttachment,No description,CODE_JAVASCRIPT,index.ts,65,FUNCTION
+MTH-7727358B,accountId,No description,CODE_JAVASCRIPT,props.ts,12,FUNCTION
+MTH-D164EA89,folderId,No description,CODE_JAVASCRIPT,props.ts,48,FUNCTION
+MTH-13E67C14,messageId,No description,CODE_JAVASCRIPT,props.ts,92,FUNCTION
+MTH-EA03C09E,fromAddress,No description,CODE_JAVASCRIPT,props.ts,147,FUNCTION

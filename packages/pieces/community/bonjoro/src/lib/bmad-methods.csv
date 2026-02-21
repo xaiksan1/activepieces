@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-49DFDB80,bonjoroAPI,No description,CODE_JAVASCRIPT,api.ts,12,FUNCTION
+MTH-11F05D7A,getUsers,No description,CODE_JAVASCRIPT,api.ts,43,FUNCTION
+MTH-E2797E50,getCampaigns,No description,CODE_JAVASCRIPT,api.ts,48,FUNCTION
+MTH-7451E34C,getTemplates,No description,CODE_JAVASCRIPT,api.ts,53,FUNCTION
+MTH-8943C656,addGreet,No description,CODE_JAVASCRIPT,api.ts,58,FUNCTION
+MTH-89792A0D,addProfile,No description,CODE_JAVASCRIPT,api.ts,63,FUNCTION
+MTH-215B0853,validateAuth,No description,CODE_JAVASCRIPT,auth.ts,36,FUNCTION
+MTH-C06AFB19,buildCampaignDropdown,No description,CODE_JAVASCRIPT,props.ts,6,FUNCTION
+MTH-DB22A4C0,options,No description,CODE_JAVASCRIPT,props.ts,15,FUNCTION
+MTH-F1FBA0D3,buildTemplateDropdown,No description,CODE_JAVASCRIPT,props.ts,23,FUNCTION
+MTH-DB22A4C0,options,No description,CODE_JAVASCRIPT,props.ts,32,FUNCTION
+MTH-C6D6B31A,buildUserDropdown,No description,CODE_JAVASCRIPT,props.ts,40,FUNCTION
+MTH-DB22A4C0,options,No description,CODE_JAVASCRIPT,props.ts,49,FUNCTION

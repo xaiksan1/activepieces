@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-740CF92B,getRegionalBaseUrl,No description,CODE_JAVASCRIPT,client.ts,24,FUNCTION
+MTH-AA1BE108,getAlternativeRegions,Helper function to get alternative regions for fallback,CODE_JAVASCRIPT,client.ts,29,FUNCTION
+MTH-C1C991A2,makeRequest,No description,CODE_JAVASCRIPT,client.ts,63,FUNCTION

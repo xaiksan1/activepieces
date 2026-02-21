@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0BE419C7,lastEpochMilliSeconds,No description,CODE_JAVASCRIPT,new-email.ts,39,FUNCTION
+MTH-4F80CCFE,enrichAttachments,No description,CODE_JAVASCRIPT,new-email.ts,103,FUNCTION

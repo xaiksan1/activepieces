@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6147136E,FlowsNavigation,No description,CODE_JAVASCRIPT,flows-navigation.tsx,41,FUNCTION
+MTH-B3E776B4,handleFlowClick,No description,CODE_JAVASCRIPT,flows-navigation.tsx,133,FUNCTION
+MTH-D24BE091,handleFolderToggle,No description,CODE_JAVASCRIPT,flows-navigation.tsx,139,FUNCTION
+MTH-06A08EE7,DefaultFolder,No description,CODE_JAVASCRIPT,flows-navigation.tsx,216,FUNCTION
+MTH-6396AE48,RegularFolder,No description,CODE_JAVASCRIPT,flows-navigation.tsx,269,FUNCTION
+MTH-B2E3E4D5,FlowItem,No description,CODE_JAVASCRIPT,flows-navigation.tsx,332,FUNCTION
+MTH-B6ABAA10,BuilderNavigationSidebar,No description,CODE_JAVASCRIPT,index.tsx,19,FUNCTION
+MTH-C791CD2D,TablesNavigation,No description,CODE_JAVASCRIPT,tables-navigation.tsx,30,FUNCTION
+MTH-55821A0E,handleTableClick,No description,CODE_JAVASCRIPT,tables-navigation.tsx,77,FUNCTION
+MTH-57D42C14,isTableActive,No description,CODE_JAVASCRIPT,tables-navigation.tsx,83,FUNCTION
+MTH-49BB0799,TableItem,No description,CODE_JAVASCRIPT,tables-navigation.tsx,141,FUNCTION

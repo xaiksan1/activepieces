@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-54704817,clearoutAPI,No description,CODE_JAVASCRIPT,api.ts,12,FUNCTION
+MTH-60613C94,getCredits,No description,CODE_JAVASCRIPT,api.ts,43,FUNCTION
+MTH-8258F741,instantVerify,No description,CODE_JAVASCRIPT,api.ts,48,FUNCTION
+MTH-E5001E5F,validateAuth,No description,CODE_JAVASCRIPT,auth.ts,34,FUNCTION

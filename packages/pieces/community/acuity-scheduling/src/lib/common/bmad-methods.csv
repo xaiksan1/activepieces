@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DA5AF6CC,fetchAvailableDates,No description,CODE_JAVASCRIPT,index.ts,10,FUNCTION
+MTH-483F7CFC,fetchAvailableTimes,No description,CODE_JAVASCRIPT,index.ts,41,FUNCTION
+MTH-6A27895A,getAppointmentDetails,Helper function to get full appointment details,CODE_JAVASCRIPT,index.ts,72,FUNCTION
+MTH-BEB00FA3,fetchAppointmentTypes,No description,CODE_JAVASCRIPT,index.ts,85,FUNCTION
+MTH-3A0EDF32,fetchCalendars,No description,CODE_JAVASCRIPT,index.ts,114,FUNCTION
+MTH-31BEE0FB,fetchFormFields,No description,CODE_JAVASCRIPT,index.ts,131,FUNCTION
+MTH-094290A2,fetchAddons,No description,CODE_JAVASCRIPT,index.ts,158,FUNCTION
+MTH-9CEB81EE,fetchLabels,No description,CODE_JAVASCRIPT,index.ts,212,FUNCTION
+MTH-40B7D1A5,appointmentTypeIdDropdown,No description,CODE_JAVASCRIPT,props.ts,10,FUNCTION
+MTH-F76B0DB4,calendarIdDropdown,No description,CODE_JAVASCRIPT,props.ts,33,FUNCTION
+MTH-C40B1572,addonIdsDropdown,No description,CODE_JAVASCRIPT,props.ts,56,FUNCTION
+MTH-B546131B,labelIdDropdown,No description,CODE_JAVASCRIPT,props.ts,79,FUNCTION

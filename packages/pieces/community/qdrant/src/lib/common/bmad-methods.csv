@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-AD309974,decodeEmbeddings,No description,CODE_JAVASCRIPT,index.ts,3,FUNCTION
+MTH-476F99FA,convertToFilter,No description,CODE_JAVASCRIPT,index.ts,92,FUNCTION

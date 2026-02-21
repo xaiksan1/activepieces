@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EFCF0787,getLists,No description,CODE_JAVASCRIPT,index.ts,110,FUNCTION
+MTH-56D9D187,getTasks,No description,CODE_JAVASCRIPT,index.ts,126,FUNCTION
+MTH-C208FDCC,createTask,No description,CODE_JAVASCRIPT,index.ts,143,FUNCTION

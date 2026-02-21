@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-827CB8D6,resourceId,No description,CODE_JAVASCRIPT,platform-api-key-authn-handler.ts,120,FUNCTION

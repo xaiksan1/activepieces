@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-ED212413,makeClient,No description,CODE_JAVASCRIPT,client.ts,112,FUNCTION
+MTH-BA778B19,formatRecordFields,No description,CODE_JAVASCRIPT,index.ts,256,FUNCTION
+MTH-D6C595E4,getEntityPropSchema,No description,CODE_JAVASCRIPT,index.ts,302,FUNCTION

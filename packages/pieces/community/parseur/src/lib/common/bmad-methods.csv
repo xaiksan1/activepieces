@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-44336981,parserDropdown,No description,CODE_JAVASCRIPT,properties.ts,4,FUNCTION
+MTH-DB3C2308,documentDropdown,No description,CODE_JAVASCRIPT,properties.ts,46,FUNCTION

@@ -1,0 +1,21 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D6C4B2AE,AllowOnlyLoggedInUserOnlyGuard,No description,CODE_JAVASCRIPT,allow-logged-in-user-only-guard.tsx,14,FUNCTION
+MTH-9ABDDF55,ChangelogToast,No description,CODE_JAVASCRIPT,changelog-provider.tsx,25,FUNCTION
+MTH-65A7F464,showChangelogToast,No description,CODE_JAVASCRIPT,changelog-provider.tsx,75,FUNCTION
+MTH-FADA5107,ChangelogProvider,No description,CODE_JAVASCRIPT,changelog-provider.tsx,89,FUNCTION
+MTH-E39CB467,handleDismiss,No description,CODE_JAVASCRIPT,changelog-provider.tsx,143,FUNCTION
+MTH-2F6BE13C,EditionGuard,No description,CODE_JAVASCRIPT,edition-guard.tsx,9,FUNCTION
+MTH-EC9AE2B7,useDownloadEmbeddingFont,No description,CODE_JAVASCRIPT,embedding-font-loader.tsx,7,FUNCTION
+MTH-9ED9DD3B,EmbeddingFontLoader,No description,CODE_JAVASCRIPT,embedding-font-loader.tsx,49,FUNCTION
+MTH-4E7239E5,FlagGuard,No description,CODE_JAVASCRIPT,flag-guard.tsx,8,FUNCTION
+MTH-E2258721,HelpAndFeedback,No description,CODE_JAVASCRIPT,help-and-feedback.tsx,18,FUNCTION
+MTH-B37B335E,InitialDataGuard,No description,CODE_JAVASCRIPT,initial-data-guard.tsx,10,FUNCTION
+MTH-69C5A47A,LockedFeatureGuard,No description,CODE_JAVASCRIPT,locked-feature-guard.tsx,14,FUNCTION
+MTH-51AF3DC6,PageTitle,No description,CODE_JAVASCRIPT,page-title.tsx,10,FUNCTION
+MTH-165D939F,PlatformLayout,No description,CODE_JAVASCRIPT,platform-layout.tsx,13,FUNCTION
+MTH-134A3186,ProjectChangedRedirector,No description,CODE_JAVASCRIPT,project-dashboard-layout.tsx,17,FUNCTION
+MTH-D9A536CE,ProjectDashboardLayout,No description,CODE_JAVASCRIPT,project-dashboard-layout.tsx,33,FUNCTION
+MTH-B4DF4BC6,ProjectSettingsLayout,No description,CODE_JAVASCRIPT,project-settings-layout.tsx,7,FUNCTION
+MTH-06E69408,RequestTrial,No description,CODE_JAVASCRIPT,request-trial.tsx,39,FUNCTION
+MTH-0DE1CE09,createQueryParams,No description,CODE_JAVASCRIPT,request-trial.tsx,49,FUNCTION
+MTH-DBDACE65,handleClick,No description,CODE_JAVASCRIPT,request-trial.tsx,63,FUNCTION

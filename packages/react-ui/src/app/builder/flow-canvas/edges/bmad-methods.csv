@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-07199499,BranchLabel,No description,CODE_JAVASCRIPT,branch-label.tsx,35,FUNCTION
+MTH-DDACA766,ApLoopReturnLineCanvasEdge,No description,CODE_JAVASCRIPT,loop-return-edge.tsx,10,FUNCTION
+MTH-A996FC8A,ApLoopStartLineCanvasEdge,No description,CODE_JAVASCRIPT,loop-start-edge.tsx,10,FUNCTION
+MTH-0745754B,ApRouterEndCanvasEdge,No description,CODE_JAVASCRIPT,router-end-edge.tsx,10,FUNCTION
+MTH-C9D02D68,generatePath,No description,CODE_JAVASCRIPT,router-end-edge.tsx,28,FUNCTION
+MTH-69C3446A,ApRouterStartCanvasEdge,No description,CODE_JAVASCRIPT,router-start-edge.tsx,11,FUNCTION
+MTH-5B937DFD,generatePath,No description,CODE_JAVASCRIPT,router-start-edge.tsx,26,FUNCTION
+MTH-901A13A7,ApStraightLineCanvasEdge,No description,CODE_JAVASCRIPT,straight-line-edge.tsx,10,FUNCTION

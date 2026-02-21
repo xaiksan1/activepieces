@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7CEDBDB7,getCodeGenerationPrompt,No description,CODE_JAVASCRIPT,code-generation.prompt.ts,4,FUNCTION
+MTH-2D1BC5DA,code,No description,CODE_JAVASCRIPT,code-generation.prompt.ts,60,FUNCTION

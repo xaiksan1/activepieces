@@ -1,0 +1,26 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-3F7D99CD,traverseAndUpdateSubFlow,No description,CODE_JAVASCRIPT,1696245170061-add-piece-type-and-package-type-to-flow-version.ts,80,FUNCTION
+MTH-72F065F2,addPackageTypeAndPieceTypeToPieceStepSettings,No description,CODE_JAVASCRIPT,1696245170061-add-piece-type-and-package-type-to-flow-version.ts,114,FUNCTION
+MTH-7F5091E2,removePackageTypeAndPieceTypeFromPieceStepSettings,No description,CODE_JAVASCRIPT,1696245170061-add-piece-type-and-package-type-to-flow-version.ts,121,FUNCTION
+MTH-8A50A061,traverseAndUpdateSubFlow,No description,CODE_JAVASCRIPT,1696245170062-add-piece-type-and-package-type-to-flow-template.ts,53,FUNCTION
+MTH-8CDE2E3C,addPackageTypeAndPieceTypeToPieceStepSettings,No description,CODE_JAVASCRIPT,1696245170062-add-piece-type-and-package-type-to-flow-template.ts,87,FUNCTION
+MTH-48871198,removePackageTypeAndPieceTypeFromPieceStepSettings,No description,CODE_JAVASCRIPT,1696245170062-add-piece-type-and-package-type-to-flow-template.ts,94,FUNCTION
+MTH-24C944C8,traverseAndUpdateSubFlow,No description,CODE_JAVASCRIPT,1697969398200-store-code-inside-flow.ts,116,FUNCTION
+MTH-B654AD9E,flattenCodeStep,No description,CODE_JAVASCRIPT,1697969398200-store-code-inside-flow.ts,177,FUNCTION
+MTH-FBE1D208,removeNewCodeField,No description,CODE_JAVASCRIPT,1697969398200-store-code-inside-flow.ts,216,FUNCTION
+MTH-D4E201EE,getAllPieceMetadataIds,No description,CODE_JAVASCRIPT,1707087022764-add-trigger-test-strategy.ts,34,FUNCTION
+MTH-5CF4E021,getPieceMetadataById,No description,CODE_JAVASCRIPT,1707087022764-add-trigger-test-strategy.ts,43,FUNCTION
+MTH-33C6B90E,addTestStrategyToTriggers,No description,CODE_JAVASCRIPT,1707087022764-add-trigger-test-strategy.ts,54,FUNCTION
+MTH-2EE357FB,removeTestStrategyFromTriggers,No description,CODE_JAVASCRIPT,1707087022764-add-trigger-test-strategy.ts,68,FUNCTION
+MTH-7888E09E,updatePieceMetadata,No description,CODE_JAVASCRIPT,1707087022764-add-trigger-test-strategy.ts,76,FUNCTION
+MTH-1B1C607B,parseTriggers,No description,CODE_JAVASCRIPT,1707087022764-add-trigger-test-strategy.ts,86,FUNCTION
+MTH-3AE90CF4,parseJson,No description,CODE_JAVASCRIPT,1709581196563-migrate-webhook.ts,76,FUNCTION
+MTH-84A0D56A,countSteps,No description,CODE_JAVASCRIPT,1731019013340-switch-to-router.ts,60,FUNCTION
+MTH-B1F1D0DA,hasBranchType,No description,CODE_JAVASCRIPT,1731019013340-switch-to-router.ts,83,FUNCTION
+MTH-8F00A6CF,traverseAndUpdateSubFlow,No description,CODE_JAVASCRIPT,1731019013340-switch-to-router.ts,104,FUNCTION
+MTH-9736485D,convertBranchToRouter,No description,CODE_JAVASCRIPT,1731019013340-switch-to-router.ts,152,FUNCTION
+MTH-63BB4A34,traverseAndUpdateSubFlow,No description,CODE_JAVASCRIPT,1747346473001-ChangeExternalIdsForTables.ts,93,FUNCTION
+MTH-7EB49EA3,updateVersionOfTablesStep,No description,CODE_JAVASCRIPT,1747346473001-ChangeExternalIdsForTables.ts,135,FUNCTION
+MTH-54C584CF,downgradeVersionOfTablesStep,No description,CODE_JAVASCRIPT,1747346473001-ChangeExternalIdsForTables.ts,144,FUNCTION
+MTH-8060C58B,traverseAndUpdateSubFlow,No description,CODE_JAVASCRIPT,1748253670449-UpgradePieceVersionsToLatest.ts,74,FUNCTION
+MTH-D45A9074,updateVersionOfPieceStep,No description,CODE_JAVASCRIPT,1748253670449-UpgradePieceVersionsToLatest.ts,116,FUNCTION

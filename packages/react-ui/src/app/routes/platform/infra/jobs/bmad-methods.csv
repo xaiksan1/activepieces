@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9D0EAF0D,getJobTypeDescription,No description,CODE_JAVASCRIPT,index.tsx,17,FUNCTION
+MTH-8581CAE7,getStatusLabel,No description,CODE_JAVASCRIPT,index.tsx,46,FUNCTION
+MTH-281CCCBC,getStatusColor,No description,CODE_JAVASCRIPT,index.tsx,61,FUNCTION
+MTH-F4F6FD57,SettingsJobsPage,No description,CODE_JAVASCRIPT,index.tsx,76,FUNCTION
+MTH-51DEED2A,MultiProgressBar,No description,CODE_JAVASCRIPT,multi-progress-bar.tsx,14,FUNCTION
+MTH-D6CED5D0,percentage,No description,CODE_JAVASCRIPT,multi-progress-bar.tsx,36,FUNCTION
+MTH-C5D50603,StatusLegend,No description,CODE_JAVASCRIPT,status-legend.tsx,6,FUNCTION
+MTH-0977E5A1,WorkerJobCard,No description,CODE_JAVASCRIPT,worker-job-card.tsx,25,FUNCTION

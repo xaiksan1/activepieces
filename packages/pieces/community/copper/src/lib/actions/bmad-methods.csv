@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E55C95EF,normPhones,No description,CODE_JAVASCRIPT,create-company.ts,70,FUNCTION
+MTH-FECC073A,normPhones,No description,CODE_JAVASCRIPT,create-lead.ts,66,FUNCTION
+MTH-B35BD0AA,normEmails,No description,CODE_JAVASCRIPT,create-person.ts,72,FUNCTION
+MTH-D2F8751E,normPhones,No description,CODE_JAVASCRIPT,create-person.ts,91,FUNCTION
+MTH-72E9E340,parsed_activity_types,No description,CODE_JAVASCRIPT,search-for-an-activity.ts,131,FUNCTION
+MTH-84C3D8BE,normPhones,No description,CODE_JAVASCRIPT,update-company.ts,106,FUNCTION
+MTH-4E58579B,fields,No description,CODE_JAVASCRIPT,update-lead.ts,88,FUNCTION
+MTH-D0057A71,leadId,No description,CODE_JAVASCRIPT,update-lead.ts,89,FUNCTION
+MTH-BC488BE6,normPhones,No description,CODE_JAVASCRIPT,update-lead.ts,105,FUNCTION
+MTH-A366E68D,fields,No description,CODE_JAVASCRIPT,update-person.ts,93,FUNCTION
+MTH-C0E6AE1E,personId,No description,CODE_JAVASCRIPT,update-person.ts,94,FUNCTION
+MTH-A21EC637,normEmails,No description,CODE_JAVASCRIPT,update-person.ts,109,FUNCTION
+MTH-CC06EC43,normPhones,No description,CODE_JAVASCRIPT,update-person.ts,128,FUNCTION

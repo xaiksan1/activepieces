@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-360544A8,EnvironmentPage,No description,CODE_JAVASCRIPT,index.tsx,19,FUNCTION
+MTH-7A5280D3,ReleaseCard,No description,CODE_JAVASCRIPT,release-card.tsx,12,FUNCTION

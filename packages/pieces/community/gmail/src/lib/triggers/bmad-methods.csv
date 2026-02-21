@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FEDB1496,lastFetchEpochMS,No description,CODE_JAVASCRIPT,new-email.ts,36,FUNCTION
+MTH-FEDB1496,lastFetchEpochMS,No description,CODE_JAVASCRIPT,new-email.ts,55,FUNCTION
+MTH-7219EBD4,pollRecentMessages,No description,CODE_JAVASCRIPT,new-email.ts,76,FUNCTION
+MTH-F0525209,getFirstFiveOrAll,No description,CODE_JAVASCRIPT,new-email.ts,155,FUNCTION
+MTH-E1D5E82E,enrichGmailMessage,No description,CODE_JAVASCRIPT,new-labeled-email.ts,12,FUNCTION

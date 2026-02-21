@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F3A10788,verifyAuth,No description,CODE_JAVASCRIPT,catch-hook.ts,144,FUNCTION
+MTH-2B74E24A,verifyHeaderAuth,No description,CODE_JAVASCRIPT,catch-hook.ts,169,FUNCTION
+MTH-210C7925,verifyBasicAuth,No description,CODE_JAVASCRIPT,catch-hook.ts,178,FUNCTION

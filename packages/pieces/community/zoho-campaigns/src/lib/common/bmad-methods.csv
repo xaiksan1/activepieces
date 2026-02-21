@@ -1,0 +1,16 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9E64BF97,campaignDropdown,Custom Properties,CODE_JAVASCRIPT,properties.ts,6,FUNCTION
+MTH-FF468FA1,tagDropdown,No description,CODE_JAVASCRIPT,properties.ts,41,FUNCTION
+MTH-A118FF54,mailingListDropdown,No description,CODE_JAVASCRIPT,properties.ts,80,FUNCTION
+MTH-950954D4,mailingListMultiSelectDropdown,No description,CODE_JAVASCRIPT,properties.ts,114,FUNCTION
+MTH-C91D4B23,topicDropdown,No description,CODE_JAVASCRIPT,properties.ts,148,FUNCTION
+MTH-E12FAE46,createCampaign,Action Properties,CODE_JAVASCRIPT,properties.ts,221,FUNCTION
+MTH-9246F9D9,cloneCampaign,No description,CODE_JAVASCRIPT,properties.ts,246,FUNCTION
+MTH-ECD681F6,sendCampaign,No description,CODE_JAVASCRIPT,properties.ts,280,FUNCTION
+MTH-2A28C751,addUpdateContact,No description,CODE_JAVASCRIPT,properties.ts,284,FUNCTION
+MTH-140D66CF,unsubscribeContact,No description,CODE_JAVASCRIPT,properties.ts,319,FUNCTION
+MTH-7DB2021B,addContactToMailingList,No description,CODE_JAVASCRIPT,properties.ts,325,FUNCTION
+MTH-C36DA579,findContact,No description,CODE_JAVASCRIPT,properties.ts,334,FUNCTION
+MTH-BAA27979,findCampaign,No description,CODE_JAVASCRIPT,properties.ts,378,FUNCTION
+MTH-C3137D05,newContact,No description,CODE_JAVASCRIPT,properties.ts,428,FUNCTION
+MTH-166D9E1C,unsubscribe,No description,CODE_JAVASCRIPT,properties.ts,457,FUNCTION

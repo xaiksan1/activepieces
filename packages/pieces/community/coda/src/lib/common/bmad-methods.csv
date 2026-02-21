@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DB14502C,columnIdsDropdown,No description,CODE_JAVASCRIPT,props.ts,193,FUNCTION
+MTH-D5EE7D04,codaClient,No description,CODE_JAVASCRIPT,types.ts,236,FUNCTION

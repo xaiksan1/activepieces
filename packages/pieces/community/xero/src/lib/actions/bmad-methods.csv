@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FD8180B1,existingLineItems,No description,CODE_JAVASCRIPT,add-items-to-sales-invoice.ts,66,FUNCTION
+MTH-A39A6084,resourceType,No description,CODE_JAVASCRIPT,upload-attachment.ts,63,FUNCTION

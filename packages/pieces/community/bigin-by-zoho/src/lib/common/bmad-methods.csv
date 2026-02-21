@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-19E6E528,handleDropdownError,No description,CODE_JAVASCRIPT,helpers.ts,3,FUNCTION
+MTH-3AFE7FC8,getSafeLabel,No description,CODE_JAVASCRIPT,helpers.ts,11,FUNCTION
+MTH-03A6B9B1,formatDateTime,No description,CODE_JAVASCRIPT,helpers.ts,20,FUNCTION
+MTH-609DA553,formatDateOnly,No description,CODE_JAVASCRIPT,helpers.ts,30,FUNCTION
+MTH-0DE50CF3,pad,No description,CODE_JAVASCRIPT,helpers.ts,32,FUNCTION
+MTH-82253B02,getZohoBiginAccountAuthorizationUrl,No description,CODE_JAVASCRIPT,helpers.ts,38,FUNCTION
+MTH-5C8CBEF5,layoutsDropdown,No description,CODE_JAVASCRIPT,props.ts,133,FUNCTION
+MTH-EC0B872F,tagsDropdown,No description,CODE_JAVASCRIPT,props.ts,181,FUNCTION
+MTH-9B83747D,SubPipelineorStageDropdown,No description,CODE_JAVASCRIPT,props.ts,213,FUNCTION
+MTH-3AE8085E,fireHttpRequest,No description,CODE_JAVASCRIPT,request.ts,4,FUNCTION

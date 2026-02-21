@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8A594A86,getFileExtension,No description,CODE_JAVASCRIPT,upload-file.ts,22,FUNCTION

@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-50B54297,getAccessToken,No description,CODE_JAVASCRIPT,auth.ts,3,FUNCTION
+MTH-122CC216,getRefreshToken,No description,CODE_JAVASCRIPT,auth.ts,7,FUNCTION
+MTH-F07F628D,isTokenExpired,No description,CODE_JAVASCRIPT,auth.ts,11,FUNCTION
+MTH-85909CC9,validateAuthData,No description,CODE_JAVASCRIPT,auth.ts,24,FUNCTION
+MTH-14E52435,getTokenType,No description,CODE_JAVASCRIPT,auth.ts,40,FUNCTION
+MTH-2072ADED,getAuthorizationHeader,No description,CODE_JAVASCRIPT,auth.ts,44,FUNCTION
+MTH-F059D167,getErrorMessage,No description,CODE_JAVASCRIPT,client.ts,78,FUNCTION
+MTH-A0E770C4,getRateLimitMessage,No description,CODE_JAVASCRIPT,client.ts,95,FUNCTION
+MTH-0926DEAD,validateRequiredFields,No description,CODE_JAVASCRIPT,client.ts,111,FUNCTION
+MTH-3189C836,validateArrayLimits,No description,CODE_JAVASCRIPT,client.ts,122,FUNCTION
+MTH-97225917,formatFieldValues,No description,CODE_JAVASCRIPT,props.ts,664,FUNCTION

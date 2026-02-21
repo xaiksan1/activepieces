@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B7718D45,securityHandlerChain,No description,CODE_JAVASCRIPT,security-handler-chain.ts,24,FUNCTION
+MTH-17779552,executeAuthnHandlers,No description,CODE_JAVASCRIPT,security-handler-chain.ts,35,FUNCTION
+MTH-9702C8E4,executeAuthzHandlers,No description,CODE_JAVASCRIPT,security-handler-chain.ts,45,FUNCTION
+MTH-D8D9A543,checkWhetherPrincipalIsPopulated,No description,CODE_JAVASCRIPT,security-handler-chain.ts,51,FUNCTION

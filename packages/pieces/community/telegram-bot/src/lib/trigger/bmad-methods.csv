@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C9A6E127,getLastFiveMessages,No description,CODE_JAVASCRIPT,new-message.ts,56,FUNCTION

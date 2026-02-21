@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4AE01D94,response,No description,CODE_JAVASCRIPT,added-subscriber.ts,32,FUNCTION
+MTH-09801839,tags,No description,CODE_JAVASCRIPT,tagged-subscriber.ts,38,FUNCTION
+MTH-7C405837,response,No description,CODE_JAVASCRIPT,tagged-subscriber.ts,51,FUNCTION
+MTH-6893637A,response,No description,CODE_JAVASCRIPT,unsubscribed-subscriber.ts,30,FUNCTION

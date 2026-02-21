@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BB26F931,getUserRepo,No description,CODE_JAVASCRIPT,index.ts,242,FUNCTION
+MTH-C4D5F9C5,getAssignee,No description,CODE_JAVASCRIPT,index.ts,255,FUNCTION
+MTH-3EA8C858,listIssueLabels,No description,CODE_JAVASCRIPT,index.ts,268,FUNCTION

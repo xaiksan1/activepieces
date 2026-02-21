@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B5011AAC,setupEnabledPlatform,No description,CODE_JAVASCRIPT,signing-key.test.ts,27,FUNCTION

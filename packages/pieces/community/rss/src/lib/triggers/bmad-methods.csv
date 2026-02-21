@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5DC1F035,newItems,No description,CODE_JAVASCRIPT,new-item-list-triggers.ts,63,FUNCTION
+MTH-AA1B72D3,getRssItemsFromMultipleUrls,No description,CODE_JAVASCRIPT,new-item-list-triggers.ts,117,FUNCTION
+MTH-7FA13AAE,getRssItems,No description,CODE_JAVASCRIPT,new-item-list-triggers.ts,143,FUNCTION
+MTH-1A697F93,newItems,No description,CODE_JAVASCRIPT,new-item-trigger.ts,61,FUNCTION
+MTH-069B5281,getRssItems,No description,CODE_JAVASCRIPT,new-item-trigger.ts,134,FUNCTION

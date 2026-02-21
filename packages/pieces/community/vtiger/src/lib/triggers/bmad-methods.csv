@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-09738AD6,fetchRecords,No description,CODE_JAVASCRIPT,new-or-updated-record.ts,108,FUNCTION
+MTH-572BDE20,limit,No description,CODE_JAVASCRIPT,new-or-updated-record.ts,118,FUNCTION
+MTH-B4AB7766,syncType,No description,CODE_JAVASCRIPT,new-or-updated-record.ts,119,FUNCTION

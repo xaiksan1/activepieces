@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2D952AE2,getCurrentDateInISOFormat,Helper function to get current date in the required format,CODE_JAVASCRIPT,create-invoice.ts,6,FUNCTION

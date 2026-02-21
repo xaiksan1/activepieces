@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5600978B,flattenFolderHierarchy,No description,CODE_JAVASCRIPT,index.ts,17,FUNCTION
+MTH-2708170F,formatDate,No description,CODE_JAVASCRIPT,index.ts,31,FUNCTION
+MTH-6574C9C3,makeClient,No description,CODE_JAVASCRIPT,index.ts,85,FUNCTION

@@ -1,0 +1,18 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5F7DFEB2,extensions,No description,CODE_JAVASCRIPT,index.tsx,26,FUNCTION
+MTH-BB1A71FB,convertToText,No description,CODE_JAVASCRIPT,index.tsx,52,FUNCTION
+MTH-BA1B50F3,TextInputWithMentions,No description,CODE_JAVASCRIPT,index.tsx,65,FUNCTION
+MTH-05B7B0B8,insertMention,No description,CODE_JAVASCRIPT,index.tsx,91,FUNCTION
+MTH-9A3C82A7,removeQuotes,No description,CODE_JAVASCRIPT,text-input-utils.ts,12,FUNCTION
+MTH-78934032,incrementArrayIndexes,No description,CODE_JAVASCRIPT,text-input-utils.ts,21,FUNCTION
+MTH-4FC245DD,keysWithinPath,No description,CODE_JAVASCRIPT,text-input-utils.ts,29,FUNCTION
+MTH-C24EDC04,isMentionNodeText,No description,CODE_JAVASCRIPT,text-input-utils.ts,50,FUNCTION
+MTH-2DAE3866,convertTextToTipTapJsonContent,No description,CODE_JAVASCRIPT,text-input-utils.ts,65,FUNCTION
+MTH-EAC8F666,parseFlattenArrayPath,No description,CODE_JAVASCRIPT,text-input-utils.ts,109,FUNCTION
+MTH-68130295,removeIntroplationBrackets,No description,CODE_JAVASCRIPT,text-input-utils.ts,132,FUNCTION
+MTH-C37BA259,parseStepAndNameFromMention,No description,CODE_JAVASCRIPT,text-input-utils.ts,139,FUNCTION
+MTH-3E28C941,parseLabelFromMention,No description,CODE_JAVASCRIPT,text-input-utils.ts,164,FUNCTION
+MTH-8E50CC04,createMentionNodeFromText,No description,CODE_JAVASCRIPT,text-input-utils.ts,188,FUNCTION
+MTH-C3A9765C,convertTiptapJsonToText,No description,CODE_JAVASCRIPT,text-input-utils.ts,204,FUNCTION
+MTH-0CC3BA50,generateMentionHtmlElement,No description,CODE_JAVASCRIPT,text-input-utils.ts,230,FUNCTION
+MTH-BCE52997,isDataSelectorOrChildOfDataSelector,No description,CODE_JAVASCRIPT,text-input-utils.ts,271,FUNCTION

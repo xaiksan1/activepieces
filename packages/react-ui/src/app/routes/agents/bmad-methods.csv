@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-17AADF58,AgentsPage,No description,CODE_JAVASCRIPT,index.tsx,18,FUNCTION
+MTH-084D389E,handleOpenBuilder,No description,CODE_JAVASCRIPT,index.tsx,31,FUNCTION
+MTH-1C28BA41,handleAgentCreated,No description,CODE_JAVASCRIPT,index.tsx,38,FUNCTION
+MTH-A820073F,handleDeleteAgent,No description,CODE_JAVASCRIPT,index.tsx,46,FUNCTION

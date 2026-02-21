@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-ACA73F3B,BearerTokenAuthenticationConverter,Javascript Class/Contract,STRUCT_JAVASCRIPT,delegating-authentication-converter.ts,34,CLASS
+MTH-053FD659,BasicTokenAuthenticationConverter,Javascript Class/Contract,STRUCT_JAVASCRIPT,delegating-authentication-converter.ts,46,CLASS

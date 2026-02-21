@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-97C3C8D4,isDuplicated,No description,CODE_JAVASCRIPT,dedupe-service.ts,15,FUNCTION
+MTH-FC0B238A,removeDedupeKey,No description,CODE_JAVASCRIPT,dedupe-service.ts,25,FUNCTION
+MTH-7BEA5454,extractDedupeKey,No description,CODE_JAVASCRIPT,dedupe-service.ts,33,FUNCTION
+MTH-3395F641,incrementInRedis,No description,CODE_JAVASCRIPT,dedupe-service.ts,41,FUNCTION

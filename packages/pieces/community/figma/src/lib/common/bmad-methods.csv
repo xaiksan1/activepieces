@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-ED0A8893,figmaGetRequest,No description,CODE_JAVASCRIPT,utils.ts,8,FUNCTION
+MTH-F17AADCB,figmaPostRequestWithMessage,No description,CODE_JAVASCRIPT,utils.ts,30,FUNCTION
+MTH-46CC7C14,figmaWebhookPostRequest,No description,CODE_JAVASCRIPT,utils.ts,56,FUNCTION
+MTH-0216BBCC,figmaDeleteRequest,No description,CODE_JAVASCRIPT,utils.ts,88,FUNCTION

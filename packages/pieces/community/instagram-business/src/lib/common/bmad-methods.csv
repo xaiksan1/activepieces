@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FDA07C0F,isUploadSuccessful,No description,CODE_JAVASCRIPT,index.ts,178,FUNCTION
+MTH-420F2D07,_wait,No description,CODE_JAVASCRIPT,index.ts,202,FUNCTION

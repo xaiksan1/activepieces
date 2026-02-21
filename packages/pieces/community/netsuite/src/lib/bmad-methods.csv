@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-63628E64,generateNonce,No description,CODE_JAVASCRIPT,oauth.ts,8,FUNCTION
+MTH-9A0B7000,generateSignature,No description,CODE_JAVASCRIPT,oauth.ts,14,FUNCTION
+MTH-41F9FB0E,createOAuthHeader,No description,CODE_JAVASCRIPT,oauth.ts,51,FUNCTION

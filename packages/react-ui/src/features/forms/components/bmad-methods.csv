@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0C115497,putBackQuotesForInputNames,No description,CODE_JAVASCRIPT,ap-form.tsx,50,FUNCTION
+MTH-C18526CC,createPropertySchema,No description,CODE_JAVASCRIPT,ap-form.tsx,66,FUNCTION
+MTH-F0075047,buildSchema,No description,CODE_JAVASCRIPT,ap-form.tsx,79,FUNCTION
+MTH-927D5EF0,handleDownloadFile,No description,CODE_JAVASCRIPT,ap-form.tsx,96,FUNCTION
+MTH-C8784937,ApForm,No description,CODE_JAVASCRIPT,ap-form.tsx,111,FUNCTION

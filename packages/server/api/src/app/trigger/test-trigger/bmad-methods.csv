@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-062114C3,testTriggerService,No description,CODE_JAVASCRIPT,test-trigger-service.ts,16,FUNCTION
+MTH-36D85CC0,createLock,No description,CODE_JAVASCRIPT,test-trigger-service.ts,87,FUNCTION

@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A0D8D01B,atob,No description,CODE_JAVASCRIPT,pagination-utils.ts,5,FUNCTION
+MTH-52EC9399,btoa,No description,CODE_JAVASCRIPT,pagination-utils.ts,9,FUNCTION
+MTH-D6A1F2E2,encodeByType,No description,CODE_JAVASCRIPT,pagination-utils.ts,13,FUNCTION
+MTH-161BCE5F,decodeByType,No description,CODE_JAVASCRIPT,pagination-utils.ts,48,FUNCTION
+MTH-885228C1,decode,No description,CODE_JAVASCRIPT,pagination-utils.ts,84,FUNCTION
+MTH-5F0F6525,encode,No description,CODE_JAVASCRIPT,pagination-utils.ts,86,FUNCTION
+MTH-9365F436,encodeNextCursor,No description,CODE_JAVASCRIPT,pagination-utils.ts,89,FUNCTION
+MTH-A6A835CA,encodePreviousCursor,No description,CODE_JAVASCRIPT,pagination-utils.ts,96,FUNCTION

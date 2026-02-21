@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D422A8D2,BranchesList,No description,CODE_JAVASCRIPT,branches-list.tsx,46,FUNCTION
+MTH-7DCF77A7,BranchListItem,No description,CODE_JAVASCRIPT,branches-list.tsx,129,FUNCTION
+MTH-0DADB1E7,deleteBranch,No description,CODE_JAVASCRIPT,index.tsx,64,FUNCTION
+MTH-DC067223,operationListener,No description,CODE_JAVASCRIPT,index.tsx,78,FUNCTION

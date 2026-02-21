@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-3BE7F050,oldCalendarIds,No description,CODE_JAVASCRIPT,new-calendar.ts,56,FUNCTION
+MTH-567691B8,summary,No description,CODE_JAVASCRIPT,new-event.ts,118,FUNCTION
+MTH-816AB60A,description,No description,CODE_JAVASCRIPT,new-event.ts,119,FUNCTION
+MTH-5B85AE70,location,No description,CODE_JAVASCRIPT,new-event.ts,120,FUNCTION
+MTH-567691B8,summary,No description,CODE_JAVASCRIPT,new-event.ts,163,FUNCTION
+MTH-816AB60A,description,No description,CODE_JAVASCRIPT,new-event.ts,164,FUNCTION
+MTH-5B85AE70,location,No description,CODE_JAVASCRIPT,new-event.ts,165,FUNCTION

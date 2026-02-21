@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-3FD931BE,platformOAuth2Service,No description,CODE_JAVASCRIPT,platform-oauth2-service.ts,16,FUNCTION

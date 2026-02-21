@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F4C7A93C,redisLock,No description,CODE_JAVASCRIPT,redis-lock.d.ts,2,FUNCTION

@@ -1,0 +1,15 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-34B25A48,updateDialogState,No description,CODE_JAVASCRIPT,index.tsx,197,FUNCTION
+MTH-1D1046C0,handlePlanSelect,No description,CODE_JAVASCRIPT,index.tsx,201,FUNCTION
+MTH-E06F7744,handleCycleChange,No description,CODE_JAVASCRIPT,index.tsx,211,FUNCTION
+MTH-426C58FD,handleStepChange,No description,CODE_JAVASCRIPT,index.tsx,215,FUNCTION
+MTH-C4DF1961,handleSeatsChange,No description,CODE_JAVASCRIPT,index.tsx,219,FUNCTION
+MTH-BBF97DDF,handleActiveFlowsChange,No description,CODE_JAVASCRIPT,index.tsx,223,FUNCTION
+MTH-85F35B7C,handleProjectsChange,No description,CODE_JAVASCRIPT,index.tsx,227,FUNCTION
+MTH-08A3D22A,handleActionClick,No description,CODE_JAVASCRIPT,index.tsx,231,FUNCTION
+MTH-4C55CE08,getPlanIcon,No description,CODE_JAVASCRIPT,plan-selection-step.tsx,19,FUNCTION
+MTH-08DB7771,getInheritedFeatures,No description,CODE_JAVASCRIPT,plan-selection-step.tsx,36,FUNCTION
+MTH-DA2F95DF,formatPrice,No description,CODE_JAVASCRIPT,summary.tsx,26,FUNCTION
+MTH-A6886A1C,getCurrentPlanInfo,No description,CODE_JAVASCRIPT,utils.tsx,29,FUNCTION
+MTH-E66A6CA5,calculatePrice,No description,CODE_JAVASCRIPT,utils.tsx,56,FUNCTION
+MTH-961D3E4E,getActionConfig,No description,CODE_JAVASCRIPT,utils.tsx,124,FUNCTION

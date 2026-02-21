@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1079D749,runMethodToExecute,No description,CODE_JAVASCRIPT,piece-executor.ts,142,FUNCTION
+MTH-381B3252,getResponse,No description,CODE_JAVASCRIPT,piece-executor.ts,193,FUNCTION
+MTH-690BE0B6,createTagsManager,No description,CODE_JAVASCRIPT,piece-executor.ts,210,FUNCTION
+MTH-6FD01215,createStopHook,No description,CODE_JAVASCRIPT,piece-executor.ts,228,FUNCTION
+MTH-A0F367D3,createRespondHook,No description,CODE_JAVASCRIPT,piece-executor.ts,241,FUNCTION
+MTH-AF71754E,createPauseHook,No description,CODE_JAVASCRIPT,piece-executor.ts,255,FUNCTION
+MTH-E820370A,handleRouterExecution,No description,CODE_JAVASCRIPT,router-executor.ts,32,FUNCTION
+MTH-33B96863,evaluateConditions,No description,CODE_JAVASCRIPT,router-executor.ts,96,FUNCTION
+MTH-658E6EB2,toLowercaseIfCaseInsensitive,No description,CODE_JAVASCRIPT,router-executor.ts,228,FUNCTION
+MTH-CCF00F8B,parseStringToNumber,No description,CODE_JAVASCRIPT,router-executor.ts,236,FUNCTION
+MTH-479B3AF2,parseListAsArray,No description,CODE_JAVASCRIPT,router-executor.ts,241,FUNCTION
+MTH-67FD1DC1,parseAndCoerceListAsArray,No description,CODE_JAVASCRIPT,router-executor.ts,254,FUNCTION
+MTH-03BC1112,isValidDate,No description,CODE_JAVASCRIPT,router-executor.ts,267,FUNCTION

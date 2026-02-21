@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-064423B1,FlowsPage,No description,CODE_JAVASCRIPT,index.tsx,26,FUNCTION
+MTH-05650241,determineActiveTab,No description,CODE_JAVASCRIPT,index.tsx,32,FUNCTION
+MTH-D51682EC,handleTabChange,No description,CODE_JAVASCRIPT,index.tsx,52,FUNCTION

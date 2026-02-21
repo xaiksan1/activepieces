@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C1C81FDB,censorClientSecret,No description,CODE_JAVASCRIPT,app-credentials.module.ts,87,FUNCTION

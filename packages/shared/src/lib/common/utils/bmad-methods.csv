@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EF2315A2,deleteProperties,eslint-disable-next-line @typescript-eslint/explicit-function-return-type,CODE_JAVASCRIPT,object-utils.ts,4,FUNCTION
+MTH-FE2D3095,isObject,No description,CODE_JAVASCRIPT,object-utils.ts,101,FUNCTION
+MTH-3074DD93,isString,No description,CODE_JAVASCRIPT,utils.ts,3,FUNCTION
+MTH-CA7E6436,later,No description,CODE_JAVASCRIPT,utils.ts,33,FUNCTION
+MTH-30E23347,kebabCase,No description,CODE_JAVASCRIPT,utils.ts,57,FUNCTION
+MTH-E365BEAA,startCase,No description,CODE_JAVASCRIPT,utils.ts,83,FUNCTION
+MTH-859212B8,camelCase,No description,CODE_JAVASCRIPT,utils.ts,92,FUNCTION
+MTH-79ACDFBC,parseToJsonIfPossible,No description,CODE_JAVASCRIPT,utils.ts,99,FUNCTION

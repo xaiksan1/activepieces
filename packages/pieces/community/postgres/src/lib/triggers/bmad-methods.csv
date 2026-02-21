@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-28EEB938,constructQuery,No description,CODE_JAVASCRIPT,new-row.ts,41,FUNCTION
+MTH-99D7B0EB,lastOrderKey,No description,CODE_JAVASCRIPT,new-row.ts,42,FUNCTION

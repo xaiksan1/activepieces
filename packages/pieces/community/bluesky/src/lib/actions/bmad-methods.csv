@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-408A9E12,parsePostUrl,No description,CODE_JAVASCRIPT,create-post.ts,47,FUNCTION
+MTH-969A4725,getReplyRefs,No description,CODE_JAVASCRIPT,create-post.ts,64,FUNCTION
+MTH-00942746,createEnhancedLinkEmbed,No description,CODE_JAVASCRIPT,create-post.ts,84,FUNCTION
+MTH-5E7E5471,altText,No description,CODE_JAVASCRIPT,create-post.ts,321,FUNCTION
+MTH-600BA564,countPosts,No description,CODE_JAVASCRIPT,find-thread.ts,67,FUNCTION

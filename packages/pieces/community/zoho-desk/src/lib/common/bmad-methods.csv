@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-38B3B9E7,organizationId,No description,CODE_JAVASCRIPT,props.ts,12,FUNCTION
+MTH-DC8D25F9,departmentId,No description,CODE_JAVASCRIPT,props.ts,46,FUNCTION

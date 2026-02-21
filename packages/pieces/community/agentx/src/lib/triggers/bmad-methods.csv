@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B9908943,agents,No description,CODE_JAVASCRIPT,new-agent.ts,20,FUNCTION
+MTH-4BE543AF,conversations,No description,CODE_JAVASCRIPT,new-conversation.ts,37,FUNCTION

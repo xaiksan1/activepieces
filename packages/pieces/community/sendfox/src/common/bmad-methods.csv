@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9A027BBF,getLists,No description,CODE_JAVASCRIPT,index.ts,10,FUNCTION
+MTH-4766F144,response,No description,CODE_JAVASCRIPT,index.ts,14,FUNCTION
+MTH-5823CE27,getcontacts,No description,CODE_JAVASCRIPT,index.ts,30,FUNCTION
+MTH-4766F144,response,No description,CODE_JAVASCRIPT,index.ts,34,FUNCTION

@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5A10F231,getPieceManager,No description,CODE_JAVASCRIPT,index.ts,13,FUNCTION
+MTH-406D665E,pieceManager,No description,CODE_JAVASCRIPT,index.ts,17,FUNCTION
+MTH-A9818816,linkPackages,No description,CODE_JAVASCRIPT,local-piece-manager.ts,67,FUNCTION
+MTH-2EAFE030,updatePackageJson,No description,CODE_JAVASCRIPT,local-piece-manager.ts,91,FUNCTION
+MTH-C8AF6BC4,getPackageSpecForPiece,No description,CODE_JAVASCRIPT,piece-manager.ts,77,FUNCTION

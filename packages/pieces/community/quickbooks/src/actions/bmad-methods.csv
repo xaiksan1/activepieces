@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5E024D66,lines,No description,CODE_JAVASCRIPT,create-expense.ts,170,FUNCTION
+MTH-85F73768,lineItems,No description,CODE_JAVASCRIPT,create-invoice.ts,165,FUNCTION

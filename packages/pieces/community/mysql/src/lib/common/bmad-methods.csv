@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5B41B844,mysqlConnect,No description,CODE_JAVASCRIPT,index.ts,17,FUNCTION
+MTH-34994CB0,mysqlGetTableNames,No description,CODE_JAVASCRIPT,index.ts,32,FUNCTION
+MTH-2331A296,sanitizeColumnName,No description,CODE_JAVASCRIPT,index.ts,76,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-384F7C08,getFoldersRecursively,No description,CODE_JAVASCRIPT,common.ts,102,FUNCTION

@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4687A64D,filterBasedOnSearchQuery,No description,CODE_JAVASCRIPT,piece-searching.ts,24,FUNCTION
+MTH-DF3CE49D,filterBasedOnCategories,No description,CODE_JAVASCRIPT,piece-searching.ts,89,FUNCTION
+MTH-72FD547F,sortPieces,No description,CODE_JAVASCRIPT,piece-sorting.ts,21,FUNCTION
+MTH-5C479D47,reverseIfDesc,No description,CODE_JAVASCRIPT,piece-sorting.ts,41,FUNCTION
+MTH-CF4B3832,sortByPopularity,No description,CODE_JAVASCRIPT,piece-sorting.ts,51,FUNCTION
+MTH-C90021BE,sortByName,No description,CODE_JAVASCRIPT,piece-sorting.ts,58,FUNCTION
+MTH-98A987CA,sortByCreated,No description,CODE_JAVASCRIPT,piece-sorting.ts,64,FUNCTION
+MTH-C3B93DA4,sortByUpdated,No description,CODE_JAVASCRIPT,piece-sorting.ts,70,FUNCTION

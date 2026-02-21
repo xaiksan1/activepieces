@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-07FCB6B2,normalizeHeaders,No description,CODE_JAVASCRIPT,make-api-call.ts,91,FUNCTION
+MTH-9EAF119A,toQueryParams,No description,CODE_JAVASCRIPT,make-api-call.ts,141,FUNCTION
+MTH-27D7CC76,sleep,No description,CODE_JAVASCRIPT,update-record.ts,19,FUNCTION
+MTH-255A8007,generateField,No description,CODE_JAVASCRIPT,update-record.ts,158,FUNCTION

@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DD0DFFC2,createTranscriptParams,No description,CODE_JAVASCRIPT,transcribe.ts,72,FUNCTION
+MTH-38570F95,handleWebhookUrl,No description,CODE_JAVASCRIPT,transcribe.ts,81,FUNCTION
+MTH-342FC09F,handlePiiAudio,No description,CODE_JAVASCRIPT,transcribe.ts,98,FUNCTION
+MTH-09A75D9E,handleEmptyArrays,No description,CODE_JAVASCRIPT,transcribe.ts,109,FUNCTION

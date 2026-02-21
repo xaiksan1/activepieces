@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7ABE0DB2,soapAuth,No description,CODE_JAVASCRIPT,auth.ts,3,FUNCTION

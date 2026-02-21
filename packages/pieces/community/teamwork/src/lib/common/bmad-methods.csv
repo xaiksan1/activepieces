@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2BA01AE9,buildUrl,No description,CODE_JAVASCRIPT,client.ts,20,FUNCTION
+MTH-AB1AA809,sleep,No description,CODE_JAVASCRIPT,client.ts,30,FUNCTION
+MTH-259B66F8,teamworkRequest,No description,CODE_JAVASCRIPT,client.ts,34,FUNCTION
+MTH-FB3E2402,normalizeResponse,No description,CODE_JAVASCRIPT,client.ts,74,FUNCTION

@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-191CD1FB,EditProjectDialog,No description,CODE_JAVASCRIPT,edit-project-dialog.tsx,56,FUNCTION
+MTH-F0F1243D,ProjectSwitcher,No description,CODE_JAVASCRIPT,project-switcher.tsx,27,FUNCTION

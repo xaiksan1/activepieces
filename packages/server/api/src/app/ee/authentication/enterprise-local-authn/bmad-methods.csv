@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B763C45C,enterpriseLocalAuthnService,No description,CODE_JAVASCRIPT,enterprise-local-authn-service.ts,11,FUNCTION
+MTH-1DF9D7AA,confirmOtp,No description,CODE_JAVASCRIPT,enterprise-local-authn-service.ts,42,FUNCTION

@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-90127A1C,mapMauticToActivepiecesProperty,Function Section,CODE_JAVASCRIPT,helper.ts,9,FUNCTION
+MTH-DE901F35,fetchDynamicFieldsFromMetadata,No description,CODE_JAVASCRIPT,helper.ts,63,FUNCTION
+MTH-1F148B98,getFields,No description,CODE_JAVASCRIPT,helper.ts,113,FUNCTION
+MTH-A4D9DDFF,searchEntity,No description,CODE_JAVASCRIPT,index.ts,18,FUNCTION

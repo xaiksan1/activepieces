@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5B9818F7,extensions,No description,CODE_JAVASCRIPT,agent-prompt-editor.tsx,34,FUNCTION
+MTH-4C05C9E9,AgentPromptEditor,No description,CODE_JAVASCRIPT,agent-prompt-editor.tsx,79,FUNCTION
+MTH-FAF8A3F0,handleEnhancePrompt,No description,CODE_JAVASCRIPT,agent-prompt-editor.tsx,100,FUNCTION
+MTH-83013C8D,AgentLeftSection,No description,CODE_JAVASCRIPT,index.tsx,18,FUNCTION
+MTH-E3CBAE53,handleFieldChange,No description,CODE_JAVASCRIPT,index.tsx,25,FUNCTION

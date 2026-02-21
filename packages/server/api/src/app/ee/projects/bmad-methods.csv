@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2B6513A3,projectEnterpriseHooks,No description,CODE_JAVASCRIPT,ee-project-hooks.ts,9,FUNCTION
+MTH-0B796FA6,getUserId,No description,CODE_JAVASCRIPT,platform-project-controller.ts,103,FUNCTION
+MTH-DB524ADB,isPlatformAdmin,No description,CODE_JAVASCRIPT,platform-project-controller.ts,114,FUNCTION
+MTH-3158B73A,assertProjectToDeleteIsNotPrincipalProject,No description,CODE_JAVASCRIPT,platform-project-controller.ts,127,FUNCTION
+MTH-B6C800C3,platformProjectService,No description,CODE_JAVASCRIPT,platform-project-service.ts,40,FUNCTION
+MTH-A4819887,getProjects,No description,CODE_JAVASCRIPT,platform-project-service.ts,116,FUNCTION
+MTH-0823FB35,enrichProject,No description,CODE_JAVASCRIPT,platform-project-service.ts,167,FUNCTION
+MTH-59B0A816,assertAllProjectFlowsAreDisabled,No description,CODE_JAVASCRIPT,platform-project-service.ts,218,FUNCTION
+MTH-A5DB960F,softDeleteOrThrow,No description,CODE_JAVASCRIPT,platform-project-service.ts,240,FUNCTION
+MTH-3558DEE4,platformProjectSideEffects,No description,CODE_JAVASCRIPT,platform-project-side-effects.ts,7,FUNCTION
+MTH-8E4A8249,getPlatformsForUser,No description,CODE_JAVASCRIPT,platform-user-project-controller.ts,60,FUNCTION

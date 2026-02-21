@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B4CEC099,getNotebooksDropdown,No description,CODE_JAVASCRIPT,index.ts,4,FUNCTION
+MTH-069D1FB5,getSectionsDropdown,No description,CODE_JAVASCRIPT,index.ts,31,FUNCTION
+MTH-3E035A30,getPagesDropdown,No description,CODE_JAVASCRIPT,index.ts,58,FUNCTION
+MTH-8BAB5232,getSectionsByNotebookDropdown,No description,CODE_JAVASCRIPT,index.ts,85,FUNCTION
+MTH-BE2556DE,getPagesBySectionDropdown,No description,CODE_JAVASCRIPT,index.ts,112,FUNCTION

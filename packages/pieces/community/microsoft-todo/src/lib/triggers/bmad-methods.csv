@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E9F04D75,lists,No description,CODE_JAVASCRIPT,new-list-created.ts,63,FUNCTION
+MTH-D9F27081,receivedClientState,No description,CODE_JAVASCRIPT,task-completed.ts,107,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2A46C743,makeRequest,No description,CODE_JAVASCRIPT,client.ts,5,FUNCTION
+MTH-DC1FC31A,listId,No description,CODE_JAVASCRIPT,props.ts,5,FUNCTION
+MTH-44A54763,response,No description,CODE_JAVASCRIPT,props.ts,31,FUNCTION
+MTH-F60E5534,campaignId,No description,CODE_JAVASCRIPT,props.ts,57,FUNCTION
+MTH-44A54763,response,No description,CODE_JAVASCRIPT,props.ts,83,FUNCTION
+MTH-88CB5046,leadId,No description,CODE_JAVASCRIPT,props.ts,109,FUNCTION
+MTH-44A54763,response,No description,CODE_JAVASCRIPT,props.ts,135,FUNCTION

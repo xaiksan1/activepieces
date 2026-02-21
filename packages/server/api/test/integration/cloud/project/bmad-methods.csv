@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-14A0720E,createProjectAndPlatformAndApiKey,No description,CODE_JAVASCRIPT,project.test.ts,746,FUNCTION

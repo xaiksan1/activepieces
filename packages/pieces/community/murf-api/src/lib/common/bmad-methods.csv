@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-984252B6,makeRequest,No description,CODE_JAVASCRIPT,client.ts,5,FUNCTION
+MTH-D0A56598,getVoices,Helper to fetch voices,CODE_JAVASCRIPT,dropdown.ts,6,FUNCTION
+MTH-2B29F613,getLanguages,Helper to build unique language list,CODE_JAVASCRIPT,dropdown.ts,11,FUNCTION

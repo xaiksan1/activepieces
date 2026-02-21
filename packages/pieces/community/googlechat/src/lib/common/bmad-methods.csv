@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4E8759C5,projectsDropdown,No description,CODE_JAVASCRIPT,props.ts,4,FUNCTION
+MTH-43C8431C,spacesDropdown,No description,CODE_JAVASCRIPT,props.ts,40,FUNCTION
+MTH-8D4ADF37,allSpacesDropdown,No description,CODE_JAVASCRIPT,props.ts,84,FUNCTION
+MTH-84443F53,directMessagesDropdown,No description,CODE_JAVASCRIPT,props.ts,128,FUNCTION
+MTH-6D6F1ABF,spacesMembersDropdown,No description,CODE_JAVASCRIPT,props.ts,172,FUNCTION
+MTH-15CEE76E,peoplesDropdown,No description,CODE_JAVASCRIPT,props.ts,217,FUNCTION
+MTH-52575598,threadsDropdown,No description,CODE_JAVASCRIPT,props.ts,262,FUNCTION
+MTH-B5EA056A,fireHttpRequest,No description,CODE_JAVASCRIPT,requests.ts,4,FUNCTION

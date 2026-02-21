@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5EAB2268,Metric,No description,CODE_JAVASCRIPT,metrics.tsx,23,FUNCTION
+MTH-07FB4732,SkeletonMetric,No description,CODE_JAVASCRIPT,metrics.tsx,55,FUNCTION
+MTH-F30541ED,Metrics,No description,CODE_JAVASCRIPT,metrics.tsx,77,FUNCTION
+MTH-A5A4D821,NewSigningKeyDialog,No description,CODE_JAVASCRIPT,new-signing-key-dialog.tsx,31,FUNCTION
+MTH-C0D1A6BA,RefreshAnalyticsProvider,No description,CODE_JAVASCRIPT,refresh-analytics-provider.tsx,8,FUNCTION
+MTH-95F2631A,Report,No description,CODE_JAVASCRIPT,reports.tsx,21,FUNCTION
+MTH-60F090C9,downloadCSV,No description,CODE_JAVASCRIPT,reports.tsx,49,FUNCTION
+MTH-1AC2F36E,Reports,No description,CODE_JAVASCRIPT,reports.tsx,85,FUNCTION
+MTH-49609559,TaskUsage,No description,CODE_JAVASCRIPT,task-usage.tsx,23,FUNCTION

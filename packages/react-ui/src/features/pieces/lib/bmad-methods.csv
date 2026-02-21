@@ -1,0 +1,37 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DEB86381,addAuthToPieceProps,No description,CODE_JAVASCRIPT,form-utils.tsx,44,FUNCTION
+MTH-A2B61D66,buildInputSchemaForStep,No description,CODE_JAVASCRIPT,form-utils.tsx,64,FUNCTION
+MTH-76C655CB,getDefaultValueForStep,No description,CODE_JAVASCRIPT,form-utils.tsx,107,FUNCTION
+MTH-5F5F9177,createPropertySettingsForStep,No description,CODE_JAVASCRIPT,form-utils.tsx,168,FUNCTION
+MTH-ECB272F3,buildConnectionSchema,No description,CODE_JAVASCRIPT,form-utils.tsx,186,FUNCTION
+MTH-83A723F3,code,No description,CODE_JAVASCRIPT,form-utils.tsx,317,FUNCTION
+MTH-E70B4296,input,No description,CODE_JAVASCRIPT,form-utils.tsx,346,FUNCTION
+MTH-E70B4296,input,No description,CODE_JAVASCRIPT,form-utils.tsx,383,FUNCTION
+MTH-B37E9E15,isFlowController,No description,CODE_JAVASCRIPT,piece-search-utils.ts,15,FUNCTION
+MTH-14B263AA,getAiAndAgentsPieces,No description,CODE_JAVASCRIPT,piece-search-utils.ts,28,FUNCTION
+MTH-E6BFCC4D,isAiAndAgentPiece,No description,CODE_JAVASCRIPT,piece-search-utils.ts,57,FUNCTION
+MTH-96637194,isUtilityPiece,No description,CODE_JAVASCRIPT,piece-search-utils.ts,72,FUNCTION
+MTH-8C6D4E42,isAppPiece,No description,CODE_JAVASCRIPT,piece-search-utils.ts,79,FUNCTION
+MTH-08172983,getPinnedPieces,No description,CODE_JAVASCRIPT,piece-search-utils.ts,87,FUNCTION
+MTH-19EA9D21,getPopularPieces,No description,CODE_JAVASCRIPT,piece-search-utils.ts,109,FUNCTION
+MTH-75A73B57,filterResultByPieceType,No description,CODE_JAVASCRIPT,piece-search-utils.ts,122,FUNCTION
+MTH-D88E8DA2,getHighlightedPieces,No description,CODE_JAVASCRIPT,piece-search-utils.ts,132,FUNCTION
+MTH-F6FC174F,sortByPieceNameOrder,No description,CODE_JAVASCRIPT,piece-search-utils.ts,151,FUNCTION
+MTH-2E11B582,PieceSelectorTabsProvider,No description,CODE_JAVASCRIPT,piece-selector-tabs-provider.tsx,21,FUNCTION
+MTH-21547988,usePieceSelectorTabs,No description,CODE_JAVASCRIPT,piece-selector-tabs-provider.tsx,58,FUNCTION
+MTH-526DB030,code,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,32,FUNCTION
+MTH-1FA1BF11,removeHiddenActions,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,48,FUNCTION
+MTH-AC43AB3A,isPieceActionOrTrigger,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,63,FUNCTION
+MTH-FC2B7BC7,isStepInitiallyValid,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,73,FUNCTION
+MTH-B0058312,getInitalStepInput,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,122,FUNCTION
+MTH-A283D144,getDefaultStepValues,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,135,FUNCTION
+MTH-E3F44074,checkPieceInputValidity,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,291,FUNCTION
+MTH-F15322CF,useAdjustPieceListHeightToAvailableSpace,Adjusts piece list height to prevent overflow on short screens,CODE_JAVASCRIPT,piece-selector-utils.ts,308,FUNCTION
+MTH-DB538E88,isMcpToolTrigger,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,362,FUNCTION
+MTH-E79CADB3,isChatTrigger,No description,CODE_JAVASCRIPT,piece-selector-utils.ts,366,FUNCTION
+MTH-C395B947,filterOutPiecesWithNoSuggestions,No description,CODE_JAVASCRIPT,pieces-hooks.ts,307,FUNCTION
+MTH-124007C0,getExploreTabContent,No description,CODE_JAVASCRIPT,pieces-hooks.ts,330,FUNCTION
+MTH-3F63F939,getAgentMetadata,No description,CODE_JAVASCRIPT,step-utils.tsx,174,FUNCTION
+MTH-88DA71CF,mapErrorHandlingOptions,No description,CODE_JAVASCRIPT,step-utils.tsx,197,FUNCTION
+MTH-A929C25B,passSearch,No description,CODE_JAVASCRIPT,steps-hooks.ts,108,FUNCTION
+MTH-96CA7DBE,getQueryKeyForStepMetadata,No description,CODE_JAVASCRIPT,steps-hooks.ts,130,FUNCTION

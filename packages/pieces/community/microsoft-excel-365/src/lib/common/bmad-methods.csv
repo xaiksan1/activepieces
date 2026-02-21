@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-00A1FB7B,getHeaders,No description,CODE_JAVASCRIPT,common.ts,243,FUNCTION
+MTH-FA555D21,getTableHeaders,No description,CODE_JAVASCRIPT,common.ts,261,FUNCTION
+MTH-81CB9509,getLastUsedRow,No description,CODE_JAVASCRIPT,common.ts,281,FUNCTION
+MTH-3334F34A,getLastUsedColumn,No description,CODE_JAVASCRIPT,common.ts,304,FUNCTION
+MTH-A91BDF2E,getAllRows,No description,CODE_JAVASCRIPT,common.ts,327,FUNCTION
+MTH-09364CDB,numberToColumnName,No description,CODE_JAVASCRIPT,common.ts,345,FUNCTION
+MTH-DC3C9B54,modulo,No description,CODE_JAVASCRIPT,common.ts,348,FUNCTION
+MTH-FA37B347,getAllFolders,No description,CODE_JAVASCRIPT,common.ts,354,FUNCTION
+MTH-5723019A,objectToArray,No description,CODE_JAVASCRIPT,common.ts,393,FUNCTION

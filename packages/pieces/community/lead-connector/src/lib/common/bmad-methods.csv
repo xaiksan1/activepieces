@@ -1,0 +1,26 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FDD28FEB,getCampaigns,No description,CODE_JAVASCRIPT,index.ts,15,FUNCTION
+MTH-1DD52A61,getWorkflows,No description,CODE_JAVASCRIPT,index.ts,33,FUNCTION
+MTH-60F5ED21,getTimezones,No description,CODE_JAVASCRIPT,index.ts,50,FUNCTION
+MTH-4FF26A61,getTags,No description,CODE_JAVASCRIPT,index.ts,66,FUNCTION
+MTH-07D10656,addContact,No description,CODE_JAVASCRIPT,index.ts,80,FUNCTION
+MTH-D272862A,updateContact,No description,CODE_JAVASCRIPT,index.ts,100,FUNCTION
+MTH-CB3CACC3,getCountries,No description,CODE_JAVASCRIPT,index.ts,119,FUNCTION
+MTH-B76279B2,getContacts,No description,CODE_JAVASCRIPT,index.ts,139,FUNCTION
+MTH-C7C76667,getForms,No description,CODE_JAVASCRIPT,index.ts,172,FUNCTION
+MTH-56F034C8,getFormSubmissions,No description,CODE_JAVASCRIPT,index.ts,191,FUNCTION
+MTH-5E8C19B9,addContactToCampaign,No description,CODE_JAVASCRIPT,index.ts,213,FUNCTION
+MTH-FC2FF085,addContactToWorkflow,No description,CODE_JAVASCRIPT,index.ts,231,FUNCTION
+MTH-F2C56DC1,addNoteToContact,No description,CODE_JAVASCRIPT,index.ts,249,FUNCTION
+MTH-B2D91480,getPipelines,No description,CODE_JAVASCRIPT,index.ts,271,FUNCTION
+MTH-F21619E9,getPipeline,No description,CODE_JAVASCRIPT,index.ts,288,FUNCTION
+MTH-3F41050A,getOpportunities,No description,CODE_JAVASCRIPT,index.ts,296,FUNCTION
+MTH-7E81791E,getOpportunity,No description,CODE_JAVASCRIPT,index.ts,324,FUNCTION
+MTH-F895968F,createOpportunity,No description,CODE_JAVASCRIPT,index.ts,343,FUNCTION
+MTH-1A8A51C0,updateOpportunity,No description,CODE_JAVASCRIPT,index.ts,362,FUNCTION
+MTH-DF4A6976,getUsers,No description,CODE_JAVASCRIPT,index.ts,381,FUNCTION
+MTH-AD0C0F71,getTasks,No description,CODE_JAVASCRIPT,index.ts,399,FUNCTION
+MTH-8AF2F93E,getTask,No description,CODE_JAVASCRIPT,index.ts,413,FUNCTION
+MTH-98815958,createTask,No description,CODE_JAVASCRIPT,index.ts,431,FUNCTION
+MTH-BC1901C8,updateTask,No description,CODE_JAVASCRIPT,index.ts,450,FUNCTION
+MTH-0B6E0F27,getLocationIdFromToken,No description,CODE_JAVASCRIPT,index.ts,470,FUNCTION

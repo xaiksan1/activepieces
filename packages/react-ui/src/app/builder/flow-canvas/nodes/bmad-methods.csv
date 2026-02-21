@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6CCA2C65,ApGraphEndWidgetNode,No description,CODE_JAVASCRIPT,flow-end-widget-node.tsx,8,FUNCTION
+MTH-D7BC0C47,ApLoopReturnCanvasNode,used purely to help calculate the loop graph width,CODE_JAVASCRIPT,loop-return-node.tsx,6,FUNCTION
+MTH-7A551F9B,ApStepNodeStatus,No description,CODE_JAVASCRIPT,step-node-status.tsx,17,FUNCTION
+MTH-B1EF572E,getPieceSelectorOperationType,No description,CODE_JAVASCRIPT,step-node.tsx,25,FUNCTION
+MTH-FDFFDF0E,handleStepClick,No description,CODE_JAVASCRIPT,step-node.tsx,71,FUNCTION

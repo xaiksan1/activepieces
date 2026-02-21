@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D9D7C195,CreateMcpFlowButton,No description,CODE_JAVASCRIPT,create-mcp-flow-button.tsx,6,FUNCTION
+MTH-E590816F,McpFlowDialog,No description,CODE_JAVASCRIPT,index.tsx,44,FUNCTION
+MTH-9A2E8AEE,handleSave,No description,CODE_JAVASCRIPT,index.tsx,80,FUNCTION
+MTH-F99ADAA3,handleClose,No description,CODE_JAVASCRIPT,index.tsx,94,FUNCTION
+MTH-DF2839DD,McpFlowDialogContent,No description,CODE_JAVASCRIPT,mcp-flow-dialog-content.tsx,25,FUNCTION
+MTH-67943E8A,handleSelectFlow,No description,CODE_JAVASCRIPT,mcp-flow-dialog-content.tsx,42,FUNCTION
+MTH-75D74C8D,isFlowSelectable,No description,CODE_JAVASCRIPT,mcp-flow-dialog-utils.tsx,5,FUNCTION
+MTH-0EBBC94A,getFlowTooltip,No description,CODE_JAVASCRIPT,mcp-flow-dialog-utils.tsx,11,FUNCTION

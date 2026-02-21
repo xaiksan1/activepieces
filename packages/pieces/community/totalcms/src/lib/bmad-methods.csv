@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EB32920A,totalcmsAPI,No description,CODE_JAVASCRIPT,api.ts,15,FUNCTION
+MTH-4AA7FB9C,totalcmsUploadAPI,No description,CODE_JAVASCRIPT,api.ts,53,FUNCTION
+MTH-A4C33DEF,saveFile,No description,CODE_JAVASCRIPT,api.ts,96,FUNCTION
+MTH-DE2D0665,saveDepot,No description,CODE_JAVASCRIPT,api.ts,105,FUNCTION
+MTH-2A1A7227,saveImage,No description,CODE_JAVASCRIPT,api.ts,113,FUNCTION
+MTH-784B56CF,saveGallery,No description,CODE_JAVASCRIPT,api.ts,122,FUNCTION
+MTH-50C9E491,saveBlogImage,No description,CODE_JAVASCRIPT,api.ts,131,FUNCTION
+MTH-E54EAB2C,saveBlogGallery,No description,CODE_JAVASCRIPT,api.ts,140,FUNCTION
+MTH-2D647C19,saveContent,No description,CODE_JAVASCRIPT,api.ts,149,FUNCTION
+MTH-34ED4CF3,getContent,No description,CODE_JAVASCRIPT,api.ts,158,FUNCTION
+MTH-559CEE5C,getBlogPost,No description,CODE_JAVASCRIPT,api.ts,167,FUNCTION

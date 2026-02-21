@@ -1,0 +1,18 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9BA636CF,listSheets,Helper functions,CODE_JAVASCRIPT,index.ts,507,FUNCTION
+MTH-75D509B2,getSheet,No description,CODE_JAVASCRIPT,index.ts,521,FUNCTION
+MTH-89A43B43,getSheetColumns,No description,CODE_JAVASCRIPT,index.ts,535,FUNCTION
+MTH-F73CF2B5,addRowToSmartsheet,No description,CODE_JAVASCRIPT,index.ts,552,FUNCTION
+MTH-C795811E,updateRowInSmartsheet,No description,CODE_JAVASCRIPT,index.ts,589,FUNCTION
+MTH-1053466B,getRowAttachments,No description,CODE_JAVASCRIPT,index.ts,626,FUNCTION
+MTH-D7498CAE,findSheetsByName,No description,CODE_JAVASCRIPT,index.ts,646,FUNCTION
+MTH-30A3BBFF,listReports,No description,CODE_JAVASCRIPT,index.ts,654,FUNCTION
+MTH-B84518E3,subscribeWebhook,No description,CODE_JAVASCRIPT,index.ts,691,FUNCTION
+MTH-26D66A85,enableWebhook,No description,CODE_JAVASCRIPT,index.ts,718,FUNCTION
+MTH-5E2C94DF,unsubscribeWebhook,No description,CODE_JAVASCRIPT,index.ts,738,FUNCTION
+MTH-70F45A8B,listWebhooks,No description,CODE_JAVASCRIPT,index.ts,751,FUNCTION
+MTH-78AC66AA,findOrCreateWebhook,No description,CODE_JAVASCRIPT,index.ts,772,FUNCTION
+MTH-EF4F7A26,verifyWebhookSignature,No description,CODE_JAVASCRIPT,index.ts,801,FUNCTION
+MTH-39B9885B,getSheetRowDetails,No description,CODE_JAVASCRIPT,index.ts,824,FUNCTION
+MTH-B7E25F70,getAttachmentFullDetails,No description,CODE_JAVASCRIPT,index.ts,847,FUNCTION
+MTH-F6D8BCE0,getCommentFullDetails,No description,CODE_JAVASCRIPT,index.ts,866,FUNCTION

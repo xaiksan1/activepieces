@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-00488F71,generateCode,No description,CODE_JAVASCRIPT,code-agent.ts,10,FUNCTION
+MTH-F07DBA1C,createErrorResponse,No description,CODE_JAVASCRIPT,code-generate.ts,17,FUNCTION
+MTH-FDD411D3,code,No description,CODE_JAVASCRIPT,code-generate.ts,19,FUNCTION
+MTH-3A9CFAB3,mergeInputs,No description,CODE_JAVASCRIPT,code-generate.ts,31,FUNCTION
+MTH-EADA9BE3,codeGeneratorTool,No description,CODE_JAVASCRIPT,code-generate.ts,54,FUNCTION
+MTH-0642821F,selectIcon,No description,CODE_JAVASCRIPT,icon-agent.ts,13,FUNCTION

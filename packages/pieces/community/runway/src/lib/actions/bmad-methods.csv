@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2D2AA27B,duration,No description,CODE_JAVASCRIPT,generate-video-from-image.ts,211,FUNCTION
+MTH-181EA2B0,ratio,No description,CODE_JAVASCRIPT,generate-video-from-image.ts,212,FUNCTION
+MTH-2745146D,getFileExtensionFromUrl,Helper function to get file extension from URL or Content-Type,CODE_JAVASCRIPT,get-task-details.ts,8,FUNCTION
+MTH-90DE98E7,getStatusDescription,No description,CODE_JAVASCRIPT,get-task-details.ts,30,FUNCTION

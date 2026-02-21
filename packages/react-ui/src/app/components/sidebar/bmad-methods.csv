@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4B2DC79C,ApSidebareGroup,No description,CODE_JAVASCRIPT,ap-sidebar-group.tsx,32,FUNCTION
+MTH-BE16B0D6,ApSidebarItem,No description,CODE_JAVASCRIPT,ap-sidebar-item.tsx,27,FUNCTION
+MTH-58F296C6,AppSidebarHeader,No description,CODE_JAVASCRIPT,sidebar-header.tsx,17,FUNCTION
+MTH-1B72E740,SidebarUser,No description,CODE_JAVASCRIPT,sidebar-user.tsx,43,FUNCTION
+MTH-25B3C03B,handleLogout,No description,CODE_JAVASCRIPT,sidebar-user.tsx,60,FUNCTION
+MTH-1117C6E9,SidebarPlatformAdminButton,No description,CODE_JAVASCRIPT,sidebar-user.tsx,167,FUNCTION
+MTH-97B133FB,getTimeUntilNextReset,No description,CODE_JAVASCRIPT,sidebare-usage-limits.tsx,21,FUNCTION
+MTH-BF3F425D,getTrialProgress,No description,CODE_JAVASCRIPT,sidebare-usage-limits.tsx,52,FUNCTION
+MTH-4C7BED78,TrialProgress,No description,CODE_JAVASCRIPT,sidebare-usage-limits.tsx,168,FUNCTION
+MTH-1FF88051,UsageProgress,No description,CODE_JAVASCRIPT,sidebare-usage-limits.tsx,202,FUNCTION

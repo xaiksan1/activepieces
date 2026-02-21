@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B2070954,AppConnectionsPage,No description,CODE_JAVASCRIPT,index.tsx,62,FUNCTION
+MTH-495B7867,pieceOptions,No description,CODE_JAVASCRIPT,index.tsx,73,FUNCTION
+MTH-DEF60749,status,No description,CODE_JAVASCRIPT,index.tsx,84,FUNCTION

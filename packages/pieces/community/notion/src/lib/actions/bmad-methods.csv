@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7BB320D2,extractPageTitle,No description,CODE_JAVASCRIPT,find-page.ts,135,FUNCTION
+MTH-11E72AFF,titleArray,No description,CODE_JAVASCRIPT,find-page.ts,140,FUNCTION
+MTH-43200F36,getBlockChildrenRecursively,No description,CODE_JAVASCRIPT,get-page-or-block-children.ts,73,FUNCTION
+MTH-527A41CC,database,No description,CODE_JAVASCRIPT,retrieve-database.ts,35,FUNCTION

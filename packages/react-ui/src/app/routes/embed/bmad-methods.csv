@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4244C54F,extractIdFromQueryParams,No description,CODE_JAVASCRIPT,embedded-connection-dialog.tsx,24,FUNCTION
+MTH-242E0B70,EmbeddedConnectionDialog,No description,CODE_JAVASCRIPT,embedded-connection-dialog.tsx,32,FUNCTION
+MTH-CC6B35B5,EmbeddedConnectionDialogContent,No description,CODE_JAVASCRIPT,embedded-connection-dialog.tsx,53,FUNCTION
+MTH-6AF60371,hideConnectionIframe,No description,CODE_JAVASCRIPT,embedded-connection-dialog.tsx,67,FUNCTION
+MTH-303E201D,postMessageToParent,No description,CODE_JAVASCRIPT,embedded-connection-dialog.tsx,83,FUNCTION
+MTH-F6D5561F,notifyVendorPostAuthentication,No description,CODE_JAVASCRIPT,index.tsx,25,FUNCTION
+MTH-20582DC9,handleVendorNavigation,No description,CODE_JAVASCRIPT,index.tsx,38,FUNCTION
+MTH-845DD194,handleVendorRouteChange,No description,CODE_JAVASCRIPT,index.tsx,39,FUNCTION
+MTH-AC89B390,handleClientNavigation,No description,CODE_JAVASCRIPT,index.tsx,66,FUNCTION
+MTH-13CF229C,initState,No description,CODE_JAVASCRIPT,index.tsx,103,FUNCTION

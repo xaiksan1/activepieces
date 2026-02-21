@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-128B6F8C,getTimezones,No description,CODE_JAVASCRIPT,index.ts,34,FUNCTION
+MTH-5EF4F664,getEvents,No description,CODE_JAVASCRIPT,index.ts,43,FUNCTION
+MTH-7F8D02D6,slugify,No description,CODE_JAVASCRIPT,index.ts,59,FUNCTION
+MTH-8BDD6102,createWebhook,No description,CODE_JAVASCRIPT,index.ts,73,FUNCTION
+MTH-B2C92328,deleteWebhook,No description,CODE_JAVASCRIPT,index.ts,99,FUNCTION
+MTH-37E13CFC,createSessionsUsWebhookTrigger,No description,CODE_JAVASCRIPT,index.ts,127,FUNCTION

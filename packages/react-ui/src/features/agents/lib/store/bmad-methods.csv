@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-328BA0B1,AgentBuilderProvider,No description,CODE_JAVASCRIPT,builder-agent-state-provider.tsx,24,FUNCTION
+MTH-99FF2C86,createBuilderAgentStore,No description,CODE_JAVASCRIPT,builder-agent-state.tsx,31,FUNCTION
+MTH-DF5075EC,updateRequest,No description,CODE_JAVASCRIPT,builder-agent-state.tsx,56,FUNCTION

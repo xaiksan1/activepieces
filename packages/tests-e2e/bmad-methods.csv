@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CFB5128C,globalSetup,No description,CODE_JAVASCRIPT,global-setup.ts,7,FUNCTION

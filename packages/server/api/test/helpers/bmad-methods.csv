@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5C230FCA,generateToken,No description,CODE_JAVASCRIPT,auth.ts,10,FUNCTION
+MTH-B15CA280,generateMockToken,No description,CODE_JAVASCRIPT,auth.ts,27,FUNCTION
+MTH-0FC32EEB,generateMockExternalToken,No description,CODE_JAVASCRIPT,auth.ts,98,FUNCTION
+MTH-B6C02AF5,decodeToken,No description,CODE_JAVASCRIPT,auth.ts,127,FUNCTION
+MTH-2B950C8F,randomizeTriggerMetadata,No description,CODE_JAVASCRIPT,flow-generator.ts,50,FUNCTION
+MTH-74237C1F,generateAction,No description,CODE_JAVASCRIPT,flow-generator.ts,64,FUNCTION
+MTH-D459E936,generateTrigger,No description,CODE_JAVASCRIPT,flow-generator.ts,81,FUNCTION

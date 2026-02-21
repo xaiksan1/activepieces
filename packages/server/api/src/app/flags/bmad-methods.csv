@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E0CF3C17,getSupportedAppWebhooks,No description,CODE_JAVASCRIPT,flag.service.ts,287,FUNCTION
+MTH-2424C15E,generateColorVariations,No description,CODE_JAVASCRIPT,theme.ts,3,FUNCTION
+MTH-3AA47890,generateSelectionColor,No description,CODE_JAVASCRIPT,theme.ts,21,FUNCTION
+MTH-D0F1E0A3,generateTheme,No description,CODE_JAVASCRIPT,theme.ts,27,FUNCTION

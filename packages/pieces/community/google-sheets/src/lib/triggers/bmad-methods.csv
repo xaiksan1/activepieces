@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-29BB3077,getWorkSheetName,No description,CODE_JAVASCRIPT,helpers.ts,12,FUNCTION
+MTH-A51D0C1B,getWorkSheetGridSize,No description,CODE_JAVASCRIPT,helpers.ts,33,FUNCTION
+MTH-57013E95,getWorkSheetValues,No description,CODE_JAVASCRIPT,helpers.ts,53,FUNCTION
+MTH-5B02807F,createFileNotification,No description,CODE_JAVASCRIPT,helpers.ts,71,FUNCTION
+MTH-797A536F,deleteFileNotification,No description,CODE_JAVASCRIPT,helpers.ts,96,FUNCTION
+MTH-92C33C53,isSyncMessage,No description,CODE_JAVASCRIPT,helpers.ts,114,FUNCTION
+MTH-B110755A,isChangeContentMessage,No description,CODE_JAVASCRIPT,helpers.ts,118,FUNCTION
+MTH-E145DE60,hashObject,No description,CODE_JAVASCRIPT,helpers.ts,126,FUNCTION
+MTH-D6AC30C5,transformWorkSheetValues,No description,CODE_JAVASCRIPT,helpers.ts,132,FUNCTION
+MTH-7CD3B181,oldValuesHashes,No description,CODE_JAVASCRIPT,new-or-updated-row.trigger.ts,181,FUNCTION
+MTH-6B296F7C,oldRowCount,fetch old row count for worksheet,CODE_JAVASCRIPT,new-row-added-webhook.ts,104,FUNCTION
+MTH-56D1F141,existingIds,No description,CODE_JAVASCRIPT,new-worksheet.ts,57,FUNCTION

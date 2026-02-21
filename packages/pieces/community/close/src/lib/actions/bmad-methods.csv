@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-FF5F288E,contacts,No description,CODE_JAVASCRIPT,create-lead.ts,90,FUNCTION
+MTH-EF466BBC,buildSearchQuery,Helper function to build the search query,CODE_JAVASCRIPT,find-contact.ts,98,FUNCTION
+MTH-D3ADC5C5,buildLeadSearchQuery,Helper function to build the lead search query,CODE_JAVASCRIPT,find-lead.ts,99,FUNCTION

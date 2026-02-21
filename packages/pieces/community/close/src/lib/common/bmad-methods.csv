@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-83C15CD6,customFields,No description,CODE_JAVASCRIPT,props.ts,5,FUNCTION
+MTH-A3B87008,statusId,No description,CODE_JAVASCRIPT,props.ts,93,FUNCTION
+MTH-47E0A631,leadId,No description,CODE_JAVASCRIPT,props.ts,126,FUNCTION
+MTH-517E803B,userId,No description,CODE_JAVASCRIPT,props.ts,166,FUNCTION

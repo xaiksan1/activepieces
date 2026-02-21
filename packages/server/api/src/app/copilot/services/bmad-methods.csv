@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-20465CAE,modelService,No description,CODE_JAVASCRIPT,model.service.ts,8,FUNCTION
+MTH-70BC18B2,getDefaultProvider,No description,CODE_JAVASCRIPT,model.service.ts,47,FUNCTION

@@ -1,0 +1,560 @@
+{
+  "hive_id": "hive_1767629845.706776",
+  "creation_time": "2026-01-05T11:17:25.706813",
+  "last_evolution_time": "2026-01-05T11:17:25.725751",
+  "generation": 0,
+  "evolution_cycles": 3,
+  "size": 10,
+  "collective_metrics": {
+    "awareness": 15.0,
+    "trust": 47.0,
+    "harmony": 0.0,
+    "success_rate": 0.0
+  },
+  "members": {
+    "slack_notifier": {
+      "piece_id": "slack_notifier",
+      "piece_name": "slack_notifier",
+      "piece_type": "action",
+      "display_name": "Slack Notifier",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_4b1150781d941743",
+      "pact": {
+        "primary_function": "Send notifications to Slack channels",
+        "piece_type": "action",
+        "capabilities": [
+          "send_message",
+          "create_thread",
+          "react"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "alerts",
+          "notifications",
+          "team_updates"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.724984] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725340] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725586] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707006",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "github_webhook_trigger": {
+      "piece_id": "github_webhook_trigger",
+      "piece_name": "github_webhook_trigger",
+      "piece_type": "trigger",
+      "display_name": "GitHub Webhook",
+      "hive_role": {
+        "role_type": "scout",
+        "level": 1,
+        "specialization": "trigger",
+        "permissions": [
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_bd0bcc3a69fc5459",
+      "pact": {
+        "primary_function": "Trigger workflows on GitHub events",
+        "piece_type": "trigger",
+        "capabilities": [
+          "push",
+          "pull_request",
+          "issue"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "ci_cd",
+          "code_review",
+          "automation"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725020] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725354] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725598] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707052",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "http_client": {
+      "piece_id": "http_client",
+      "piece_name": "http_client",
+      "piece_type": "action",
+      "display_name": "HTTP Request",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_31831f6c5e5ab6b1",
+      "pact": {
+        "primary_function": "Make HTTP requests to any API",
+        "piece_type": "action",
+        "capabilities": [
+          "get",
+          "post",
+          "put",
+          "delete",
+          "patch"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "api_integration",
+          "webhooks",
+          "data_sync"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725033] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725365] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725609] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707104",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "database_connector": {
+      "piece_id": "database_connector",
+      "piece_name": "database_connector",
+      "piece_type": "action",
+      "display_name": "Database Query",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_25f2305641a32b0c",
+      "pact": {
+        "primary_function": "Execute queries on databases",
+        "piece_type": "action",
+        "capabilities": [
+          "read",
+          "write",
+          "delete"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "data_persistence",
+          "analytics",
+          "reporting"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725045] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725375] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725623] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707134",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "email_sender": {
+      "piece_id": "email_sender",
+      "piece_name": "email_sender",
+      "piece_type": "action",
+      "display_name": "Email Sender",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_50bcd9eb4ac5a962",
+      "pact": {
+        "primary_function": "Send emails with templates",
+        "piece_type": "action",
+        "capabilities": [
+          "send",
+          "schedule",
+          "track"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "notifications",
+          "reports",
+          "marketing"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725057] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725385] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725638] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707159",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "ai_text_generator": {
+      "piece_id": "ai_text_generator",
+      "piece_name": "ai_text_generator",
+      "piece_type": "action",
+      "display_name": "AI Text Generator",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_13e26ebf6bc8520f",
+      "pact": {
+        "primary_function": "Generate text using AI models",
+        "piece_type": "action",
+        "capabilities": [
+          "generate",
+          "summarize",
+          "translate"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "content_creation",
+          "summarization",
+          "translation"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725076] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725395] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725652] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707180",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "storage_connector": {
+      "piece_id": "storage_connector",
+      "piece_name": "storage_connector",
+      "piece_type": "action",
+      "display_name": "Cloud Storage",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_ad9b4fdc94bd92c8",
+      "pact": {
+        "primary_function": "Read/write to cloud storage",
+        "piece_type": "action",
+        "capabilities": [
+          "read",
+          "write",
+          "list",
+          "delete"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "file_management",
+          "backup",
+          "sharing"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725110] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725405] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725666] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707202",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "discord_bot": {
+      "piece_id": "discord_bot",
+      "piece_name": "discord_bot",
+      "piece_type": "action",
+      "display_name": "Discord Bot",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_4e1b407cb406db1b",
+      "pact": {
+        "primary_function": "Send messages to Discord servers",
+        "piece_type": "action",
+        "capabilities": [
+          "send_message",
+          "create_embed",
+          "react"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "gaming",
+          "community",
+          "bot_automation"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725124] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725426] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725678] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707222",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "calendar_scheduler": {
+      "piece_id": "calendar_scheduler",
+      "piece_name": "calendar_scheduler",
+      "piece_type": "action",
+      "display_name": "Calendar Event Creator",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_1ebf81b2f6290536",
+      "pact": {
+        "primary_function": "Create calendar events",
+        "piece_type": "action",
+        "capabilities": [
+          "create",
+          "update",
+          "delete",
+          "invite"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "scheduling",
+          "meeting_coordination",
+          "reminders"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725140] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725436] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725688] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707241",
+      "is_active": true,
+      "connection_strength": 1.0
+    },
+    "spreadsheet_updater": {
+      "piece_id": "spreadsheet_updater",
+      "piece_name": "spreadsheet_updater",
+      "piece_type": "action",
+      "display_name": "Spreadsheet Updater",
+      "hive_role": {
+        "role_type": "worker",
+        "level": 1,
+        "specialization": "action",
+        "permissions": [
+          "write_data",
+          "execute",
+          "report"
+        ]
+      },
+      "spirit_id": "spirit_e1fa790e160b7a81",
+      "pact": {
+        "primary_function": "Update rows in spreadsheets",
+        "piece_type": "action",
+        "capabilities": [
+          "read",
+          "write",
+          "append",
+          "delete"
+        ],
+        "constraints": [],
+        "expected_use_cases": [
+          "data_tracking",
+          "analytics",
+          "reporting"
+        ],
+        "service_level_agreement": {
+          "min_reliability": 0.95,
+          "response_time_ms": 5000,
+          "max_failures_per_hour": 5
+        }
+      },
+      "awareness_level": 15.0,
+      "trust_level": 47.0,
+      "execution_history": [],
+      "mutation_history": [],
+      "memory_capacity": 100,
+      "recent_learnings": [
+        "[2026-01-05T11:17:25.725153] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725446] Ajouter retry logic",
+        "[2026-01-05T11:17:25.725698] Ajouter retry logic"
+      ],
+      "total_executions": 0,
+      "success_count": 0,
+      "failure_count": 0,
+      "last_execution": null,
+      "created_at": "2026-01-05T11:17:25.707289",
+      "is_active": true,
+      "connection_strength": 1.0
+    }
+  }
+}

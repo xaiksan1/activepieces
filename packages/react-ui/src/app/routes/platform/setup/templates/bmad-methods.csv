@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-ABE211C1,TemplatesPage,No description,CODE_JAVASCRIPT,index.tsx,33,FUNCTION
+MTH-0F83E1DC,UpsertTemplateDialog,No description,CODE_JAVASCRIPT,upsert-template-dialog.tsx,44,FUNCTION
+MTH-29F13064,onSubmit,No description,CODE_JAVASCRIPT,upsert-template-dialog.tsx,89,FUNCTION

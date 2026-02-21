@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8BF5ED03,getUsage,No description,CODE_JAVASCRIPT,platform.service.ts,185,FUNCTION
+MTH-8C5D993B,getPlan,No description,CODE_JAVASCRIPT,platform.service.ts,193,FUNCTION
+MTH-758EB0F9,getPlatformIdForHostname,No description,CODE_JAVASCRIPT,platform.utils.ts,31,FUNCTION

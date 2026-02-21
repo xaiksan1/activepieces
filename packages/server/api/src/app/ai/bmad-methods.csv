@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-108CE385,assertOnlyCloudPlatformCanEditOnCloud,No description,CODE_JAVASCRIPT,ai-provider-service.ts,239,FUNCTION
+MTH-4D75BE10,getProviderConfig,No description,CODE_JAVASCRIPT,ai-provider-service.ts,255,FUNCTION
+MTH-7C625DD9,validateAIUsageHeaders,No description,CODE_JAVASCRIPT,ai-provider-service.ts,263,FUNCTION
+MTH-29684BFF,provider,No description,CODE_JAVASCRIPT,ai-provider.module.ts,140,FUNCTION
+MTH-AB0E949B,getProviderConfigOrThrow,No description,CODE_JAVASCRIPT,ai-provider.module.ts,185,FUNCTION
+MTH-C56DC3BE,buildAIUsageMetadata,No description,CODE_JAVASCRIPT,ai-provider.module.ts,198,FUNCTION

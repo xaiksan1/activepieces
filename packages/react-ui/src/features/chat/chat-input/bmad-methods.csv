@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6CB54245,FileInputPreview,No description,CODE_JAVASCRIPT,file-input-preview.tsx,11,FUNCTION
+MTH-63B14DF7,handleFileChange,No description,CODE_JAVASCRIPT,index.tsx,39,FUNCTION
+MTH-EC4C87F6,removeFile,No description,CODE_JAVASCRIPT,index.tsx,51,FUNCTION
+MTH-1E321DA9,handleSubmit,No description,CODE_JAVASCRIPT,index.tsx,55,FUNCTION
+MTH-519C0B89,handleKeyDown,No description,CODE_JAVASCRIPT,index.tsx,69,FUNCTION

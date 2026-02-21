@@ -1,0 +1,24 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-19EEE4FB,writeJsonFile,No description,CODE_JAVASCRIPT,files.ts,32,FUNCTION
+MTH-CC6745C8,readPackageJson,No description,CODE_JAVASCRIPT,files.ts,37,FUNCTION
+MTH-53AEAC08,readProjectJson,No description,CODE_JAVASCRIPT,files.ts,41,FUNCTION
+MTH-FA8842B0,readPackageEslint,No description,CODE_JAVASCRIPT,files.ts,45,FUNCTION
+MTH-F526EFFE,writePackageEslint,No description,CODE_JAVASCRIPT,files.ts,49,FUNCTION
+MTH-41A8A2AC,writeProjectJson,No description,CODE_JAVASCRIPT,files.ts,53,FUNCTION
+MTH-BA2D3A64,getLatestPublishedVersion,No description,CODE_JAVASCRIPT,package-pre-publish-checks.ts,7,FUNCTION
+MTH-35BE2293,retryDelay,No description,CODE_JAVASCRIPT,package-pre-publish-checks.ts,10,FUNCTION
+MTH-043AD99E,packageChangedFromMainBranch,No description,CODE_JAVASCRIPT,package-pre-publish-checks.ts,38,FUNCTION
+MTH-0A2290E7,packagePrePublishChecks,No description,CODE_JAVASCRIPT,package-pre-publish-checks.ts,65,FUNCTION
+MTH-1140EACB,validateSupportedRelease,No description,CODE_JAVASCRIPT,piece-script-utils.ts,25,FUNCTION
+MTH-88C8A2CB,validateMetadata,No description,CODE_JAVASCRIPT,piece-script-utils.ts,39,FUNCTION
+MTH-5A8B565B,byDisplayNameIgnoreCase,No description,CODE_JAVASCRIPT,piece-script-utils.ts,48,FUNCTION
+MTH-0F365445,getCommunityPieceFolder,No description,CODE_JAVASCRIPT,piece-script-utils.ts,54,FUNCTION
+MTH-5A808E9D,findAllPiecesDirectoryInSource,No description,CODE_JAVASCRIPT,piece-script-utils.ts,59,FUNCTION
+MTH-493E5A76,pieceMetadataExists,No description,CODE_JAVASCRIPT,piece-script-utils.ts,65,FUNCTION
+MTH-5A75AB57,findNewPieces,No description,CODE_JAVASCRIPT,piece-script-utils.ts,88,FUNCTION
+MTH-829CCBE6,findAllPieces,No description,CODE_JAVASCRIPT,piece-script-utils.ts,119,FUNCTION
+MTH-31A0D755,findAllDistPaths,No description,CODE_JAVASCRIPT,piece-script-utils.ts,125,FUNCTION
+MTH-D209E428,traverseFolder,No description,CODE_JAVASCRIPT,piece-script-utils.ts,131,FUNCTION
+MTH-C2103694,loadPieceFromFolder,No description,CODE_JAVASCRIPT,piece-script-utils.ts,152,FUNCTION
+MTH-2F5E6874,publishNxProject,No description,CODE_JAVASCRIPT,publish-nx-project.ts,7,FUNCTION
+MTH-D2B1EA16,main,No description,CODE_JAVASCRIPT,publish-nx-project.ts,32,FUNCTION

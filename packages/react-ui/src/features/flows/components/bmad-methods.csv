@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C33B3915,FlowStatusToggle,No description,CODE_JAVASCRIPT,flow-status-toggle.tsx,29,FUNCTION
+MTH-25C51AAC,readTemplateJson,No description,CODE_JAVASCRIPT,import-flow-dialog.tsx,54,FUNCTION
+MTH-72B2F2BE,ImportFlowDialog,No description,CODE_JAVASCRIPT,import-flow-dialog.tsx,77,FUNCTION
+MTH-49BED8DD,handleSubmit,No description,CODE_JAVASCRIPT,import-flow-dialog.tsx,170,FUNCTION
+MTH-62983E30,handleFileChange,No description,CODE_JAVASCRIPT,import-flow-dialog.tsx,185,FUNCTION
+MTH-90863DD7,handleFolderSelect,No description,CODE_JAVASCRIPT,import-flow-dialog.tsx,231,FUNCTION
+MTH-B059DA7C,MoveFlowDialog,No description,CODE_JAVASCRIPT,move-flow-dialog.tsx,46,FUNCTION
+MTH-D0124BA0,TemplateCard,No description,CODE_JAVASCRIPT,select-flow-template-dialog.tsx,47,FUNCTION
+MTH-E4F5C39D,selectTemplate,No description,CODE_JAVASCRIPT,select-flow-template-dialog.tsx,48,FUNCTION
+MTH-05BF39DF,SelectFlowTemplateDialog,No description,CODE_JAVASCRIPT,select-flow-template-dialog.tsx,119,FUNCTION
+MTH-BE102C08,handleSearchChange,No description,CODE_JAVASCRIPT,select-flow-template-dialog.tsx,150,FUNCTION
+MTH-C724606A,unselectTemplate,No description,CODE_JAVASCRIPT,select-flow-template-dialog.tsx,154,FUNCTION

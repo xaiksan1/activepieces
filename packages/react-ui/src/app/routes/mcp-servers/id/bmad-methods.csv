@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B17EF8D1,McpServerPage,No description,CODE_JAVASCRIPT,index.tsx,39,FUNCTION
+MTH-610570BD,handleNameChange,No description,CODE_JAVASCRIPT,index.tsx,61,FUNCTION
+MTH-17F260AE,handleBack,No description,CODE_JAVASCRIPT,index.tsx,73,FUNCTION
+MTH-64AD7143,McpAddToolDropdown,No description,CODE_JAVASCRIPT,mcp-add-tool-actions.tsx,31,FUNCTION

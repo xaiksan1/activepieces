@@ -1,0 +1,16 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8111D893,fetchUserGroups,No description,CODE_JAVASCRIPT,api-helpers.ts,4,FUNCTION
+MTH-FAF7B2D9,fetchContacts,No description,CODE_JAVASCRIPT,api-helpers.ts,21,FUNCTION
+MTH-449EAC8A,fetchTags,No description,CODE_JAVASCRIPT,api-helpers.ts,44,FUNCTION
+MTH-8668070F,fetchUsers,No description,CODE_JAVASCRIPT,api-helpers.ts,66,FUNCTION
+MTH-F55ADF2A,fetchCustomFields,No description,CODE_JAVASCRIPT,api-helpers.ts,83,FUNCTION
+MTH-BA7FD59F,fetchEventCategories,No description,CODE_JAVASCRIPT,api-helpers.ts,105,FUNCTION
+MTH-DE4072A5,fetchHouseholds,No description,CODE_JAVASCRIPT,api-helpers.ts,122,FUNCTION
+MTH-ADCF6D02,fetchOpportunityStages,No description,CODE_JAVASCRIPT,api-helpers.ts,139,FUNCTION
+MTH-96F9598D,fetchTaskCategories,No description,CODE_JAVASCRIPT,api-helpers.ts,156,FUNCTION
+MTH-94D3439B,fetchOpportunities,No description,CODE_JAVASCRIPT,api-helpers.ts,173,FUNCTION
+MTH-D7BC0600,fetchProjects,No description,CODE_JAVASCRIPT,api-helpers.ts,190,FUNCTION
+MTH-6CAA8259,fetchWorkflowTemplates,No description,CODE_JAVASCRIPT,api-helpers.ts,207,FUNCTION
+MTH-6D52AE65,fetchTasks,No description,CODE_JAVASCRIPT,api-helpers.ts,224,FUNCTION
+MTH-BA985736,createApiHeaders,No description,CODE_JAVASCRIPT,api-helpers.ts,263,FUNCTION
+MTH-6D205919,handleApiError,No description,CODE_JAVASCRIPT,api-helpers.ts,268,FUNCTION

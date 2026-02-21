@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-ABD844DF,BranchTextConditionValid,No description,CODE_JAVASCRIPT,action.ts,186,FUNCTION
+MTH-747A2E25,BranchNumberConditionValid,No description,CODE_JAVASCRIPT,action.ts,194,FUNCTION
+MTH-7F9CA72E,BranchDateConditionValid,No description,CODE_JAVASCRIPT,action.ts,201,FUNCTION
+MTH-3331F23E,BranchSingleValueConditionValid,No description,CODE_JAVASCRIPT,action.ts,208,FUNCTION
+MTH-252E9D32,BranchConditionValid,No description,CODE_JAVASCRIPT,action.ts,214,FUNCTION
+MTH-FAE9D0E3,RouterBranchesSchema,No description,CODE_JAVASCRIPT,action.ts,245,FUNCTION

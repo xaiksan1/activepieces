@@ -1,0 +1,7 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5245EE4C,getSamlConfigOrThrow,No description,CODE_JAVASCRIPT,authn-sso-saml-controller.ts,42,FUNCTION
+MTH-72DAF87D,authnSsoSamlService,No description,CODE_JAVASCRIPT,authn-sso-saml-service.ts,6,FUNCTION
+MTH-DF838D0B,SamlClient,Javascript Class/Contract,STRUCT_JAVASCRIPT,saml-client.ts,18,CLASS
+MTH-A91441F7,createSamlClient,No description,CODE_JAVASCRIPT,saml-client.ts,59,FUNCTION
+MTH-5850BA46,createIdp,No description,CODE_JAVASCRIPT,saml-client.ts,69,FUNCTION
+MTH-58C70393,createSp,No description,CODE_JAVASCRIPT,saml-client.ts,78,FUNCTION

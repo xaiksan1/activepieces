@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-87A401F7,getServiceName,No description,CODE_JAVASCRIPT,instrumentation.ts,11,FUNCTION
+MTH-BF53C947,start,No description,CODE_JAVASCRIPT,main.ts,13,FUNCTION
+MTH-A7771CAF,stop,No description,CODE_JAVASCRIPT,main.ts,36,FUNCTION
+MTH-BED80662,setupTimeZone,No description,CODE_JAVASCRIPT,main.ts,51,FUNCTION
+MTH-17C35A36,main,No description,CODE_JAVASCRIPT,main.ts,59,FUNCTION

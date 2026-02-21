@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-95B73239,handleChange,No description,CODE_JAVASCRIPT,connection-dropdown.tsx,73,FUNCTION
+MTH-341F6BF7,McpPieceDialog,No description,CODE_JAVASCRIPT,index.tsx,48,FUNCTION
+MTH-55CC1DF6,handlePieceSelect,No description,CODE_JAVASCRIPT,index.tsx,79,FUNCTION
+MTH-6278ABDB,handleActionSelect,No description,CODE_JAVASCRIPT,index.tsx,101,FUNCTION
+MTH-9469E8AF,handleSelectAll,No description,CODE_JAVASCRIPT,index.tsx,113,FUNCTION
+MTH-2F740C86,handleSave,No description,CODE_JAVASCRIPT,index.tsx,126,FUNCTION
+MTH-5A389725,handleClose,No description,CODE_JAVASCRIPT,index.tsx,152,FUNCTION

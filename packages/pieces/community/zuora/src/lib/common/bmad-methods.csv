@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-520896C3,queryAccounts,No description,CODE_JAVASCRIPT,index.ts,15,FUNCTION
+MTH-FB1CB20B,getAccessToken,No description,CODE_JAVASCRIPT,index.ts,49,FUNCTION

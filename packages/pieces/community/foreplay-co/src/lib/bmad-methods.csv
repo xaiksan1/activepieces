@@ -1,0 +1,17 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9F15DC40,foreplayCoApiCall,No description,CODE_JAVASCRIPT,common.ts,11,FUNCTION
+MTH-6CE074FD,orderOptions,Common dropdown options (keeping existing functionality),CODE_JAVASCRIPT,properties.ts,6,FUNCTION
+MTH-67DC9520,liveStatusOptions,No description,CODE_JAVASCRIPT,properties.ts,15,FUNCTION
+MTH-3239B9EC,displayFormatOptions,No description,CODE_JAVASCRIPT,properties.ts,22,FUNCTION
+MTH-1823295C,publisherPlatformOptions,No description,CODE_JAVASCRIPT,properties.ts,37,FUNCTION
+MTH-7CA64824,nicheOptions,No description,CODE_JAVASCRIPT,properties.ts,50,FUNCTION
+MTH-32B41817,marketTargetOptions,No description,CODE_JAVASCRIPT,properties.ts,72,FUNCTION
+MTH-9C105122,languageOptions,No description,CODE_JAVASCRIPT,properties.ts,79,FUNCTION
+MTH-008B3553,findAds,Action Properties,CODE_JAVASCRIPT,properties.ts,99,FUNCTION
+MTH-DE2E5928,getAdById,No description,CODE_JAVASCRIPT,properties.ts,182,FUNCTION
+MTH-58AA12CB,getAdsByPage,No description,CODE_JAVASCRIPT,properties.ts,191,FUNCTION
+MTH-C276DC84,findBrands,No description,CODE_JAVASCRIPT,properties.ts,274,FUNCTION
+MTH-E82F35A3,findBoards,No description,CODE_JAVASCRIPT,properties.ts,289,FUNCTION
+MTH-BC2A116F,newAdInBoard,Trigger Properties,CODE_JAVASCRIPT,properties.ts,305,FUNCTION
+MTH-1759E6EE,newAdInSpyder,No description,CODE_JAVASCRIPT,properties.ts,402,FUNCTION
+MTH-146BD3A9,newSwipefileAd,No description,CODE_JAVASCRIPT,properties.ts,499,FUNCTION

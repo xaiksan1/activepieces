@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9DC8DFBE,woocommerceRegisterTrigger,No description,CODE_JAVASCRIPT,register-trigger.ts,15,FUNCTION

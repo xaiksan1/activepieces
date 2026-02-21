@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A3A52991,metricsRedisKey,No description,CODE_JAVASCRIPT,queue-metrics.ts,7,FUNCTION
+MTH-5F965D03,jobStateRedisKey,No description,CODE_JAVASCRIPT,queue-metrics.ts,8,FUNCTION
+MTH-DBE98FCA,queueMetrics,No description,CODE_JAVASCRIPT,queue-metrics.ts,60,FUNCTION
+MTH-29A8BBB8,onAdded,No description,CODE_JAVASCRIPT,queue-metrics.ts,79,FUNCTION
+MTH-948931F7,onDelayed,No description,CODE_JAVASCRIPT,queue-metrics.ts,81,FUNCTION
+MTH-3C668C5D,onActive,No description,CODE_JAVASCRIPT,queue-metrics.ts,83,FUNCTION
+MTH-D9DFC6AF,onFailed,No description,CODE_JAVASCRIPT,queue-metrics.ts,85,FUNCTION
+MTH-BE3379C5,onCompleted,No description,CODE_JAVASCRIPT,queue-metrics.ts,87,FUNCTION
+MTH-ED27F4B5,updateJobState,No description,CODE_JAVASCRIPT,queue-metrics.ts,89,FUNCTION

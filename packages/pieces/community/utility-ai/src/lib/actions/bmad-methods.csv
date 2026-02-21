@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C639710C,images,No description,CODE_JAVASCRIPT,check-moderation.ts,90,FUNCTION
+MTH-F530E23A,categories,No description,CODE_JAVASCRIPT,classify-text.ts,25,FUNCTION
+MTH-9987B419,files,No description,CODE_JAVASCRIPT,extract-structured-data.ts,130,FUNCTION

@@ -1,0 +1,15 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8504594E,initClarifaiClient,No description,CODE_JAVASCRIPT,index.ts,24,FUNCTION
+MTH-CFA0D44C,callClarifaiModel,No description,CODE_JAVASCRIPT,index.ts,53,FUNCTION
+MTH-6435FA55,callClarifaiWorkflow,No description,CODE_JAVASCRIPT,index.ts,75,FUNCTION
+MTH-7B1A1607,callPostInputs,No description,CODE_JAVASCRIPT,index.ts,101,FUNCTION
+MTH-5C360EBB,fileToInput,No description,CODE_JAVASCRIPT,index.ts,122,FUNCTION
+MTH-1426CF4F,textToInput,No description,CODE_JAVASCRIPT,index.ts,150,FUNCTION
+MTH-433B435B,userAppIdSet,No description,CODE_JAVASCRIPT,index.ts,160,FUNCTION
+MTH-95238959,authMetadata,No description,CODE_JAVASCRIPT,index.ts,167,FUNCTION
+MTH-143935FB,parseEntityUrl,No description,CODE_JAVASCRIPT,index.ts,188,FUNCTION
+MTH-C64DD837,removeListFromPropertyNames,No description,CODE_JAVASCRIPT,index.ts,198,FUNCTION
+MTH-E24F7A9B,detectMimeType,No description,CODE_JAVASCRIPT,index.ts,238,FUNCTION
+MTH-EE206957,cleanMultiOutputResponse,No description,CODE_JAVASCRIPT,index.ts,374,FUNCTION
+MTH-DC033C07,cleanMultiInputResponse,No description,CODE_JAVASCRIPT,index.ts,387,FUNCTION
+MTH-A886E062,cleanPostWorkflowResultsResponse,No description,CODE_JAVASCRIPT,index.ts,400,FUNCTION

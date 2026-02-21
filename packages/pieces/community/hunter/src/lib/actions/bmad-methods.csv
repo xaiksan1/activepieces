@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F528A35F,data,No description,CODE_JAVASCRIPT,count-emails.ts,64,FUNCTION
+MTH-25DD2E44,resp,No description,CODE_JAVASCRIPT,create-lead.ts,68,FUNCTION
+MTH-B7F0608C,errId,No description,CODE_JAVASCRIPT,find-email.ts,77,FUNCTION
+MTH-BA2CC44E,details,No description,CODE_JAVASCRIPT,find-email.ts,78,FUNCTION
+MTH-0AF04E05,resp,No description,CODE_JAVASCRIPT,get-lead.ts,18,FUNCTION
+MTH-D7B4EFC6,resp,No description,CODE_JAVASCRIPT,search-leads.ts,91,FUNCTION
+MTH-60811177,errId,No description,CODE_JAVASCRIPT,verify-email.ts,31,FUNCTION
+MTH-8DD808BE,detail,No description,CODE_JAVASCRIPT,verify-email.ts,59,FUNCTION

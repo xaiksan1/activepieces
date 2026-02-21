@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A7C157D0,saveFileToDb,No description,CODE_JAVASCRIPT,file.service.ts,28,FUNCTION
+MTH-1053C02C,fileService,No description,CODE_JAVASCRIPT,file.service.ts,36,FUNCTION
+MTH-E811CA67,getLocationForFile,No description,CODE_JAVASCRIPT,file.service.ts,184,FUNCTION
+MTH-0F5BD271,isExecutionDataFileThatExpires,No description,CODE_JAVASCRIPT,file.service.ts,192,FUNCTION
+MTH-84E45E0F,s3Helper,No description,CODE_JAVASCRIPT,s3-helper.ts,12,FUNCTION
+MTH-45EEB671,chunkArray,No description,CODE_JAVASCRIPT,s3-helper.ts,141,FUNCTION
+MTH-86AAAD65,getS3Client,No description,CODE_JAVASCRIPT,s3-helper.ts,143,FUNCTION
+MTH-A696C5D6,getS3BucketName,No description,CODE_JAVASCRIPT,s3-helper.ts,163,FUNCTION

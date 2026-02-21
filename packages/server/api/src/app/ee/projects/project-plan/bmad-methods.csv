@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-127C57C7,projectLimitsService,No description,CODE_JAVASCRIPT,project-plan.service.ts,28,FUNCTION
+MTH-B73B7613,projectReachedLimit,No description,CODE_JAVASCRIPT,project-plan.service.ts,145,FUNCTION
+MTH-9F074329,platformReachedLimit,No description,CODE_JAVASCRIPT,project-plan.service.ts,158,FUNCTION
+MTH-A4B452A6,getProjectLimits,No description,CODE_JAVASCRIPT,project-plan.service.ts,181,FUNCTION
+MTH-CEAC1B87,aiCreditsLimit,No description,CODE_JAVASCRIPT,project-plan.service.ts,191,FUNCTION

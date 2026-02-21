@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-12566038,systemJobsSchedule,No description,CODE_JAVASCRIPT,system-job.ts,16,FUNCTION
+MTH-D3762280,removeDeprecatedJobs,No description,CODE_JAVASCRIPT,system-job.ts,87,FUNCTION
+MTH-0BF5EF35,configureJobOptions,No description,CODE_JAVASCRIPT,system-job.ts,102,FUNCTION
+MTH-0B62602F,getJobByNameAndJobId,No description,CODE_JAVASCRIPT,system-job.ts,126,FUNCTION

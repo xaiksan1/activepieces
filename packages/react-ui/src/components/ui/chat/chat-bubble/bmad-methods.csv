@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2B7270EA,MessageLoading,@hidden,CODE_JAVASCRIPT,message-loading.tsx,2,FUNCTION

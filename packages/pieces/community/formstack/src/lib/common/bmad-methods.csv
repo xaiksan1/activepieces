@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A199FAD6,makeRequest,No description,CODE_JAVASCRIPT,client.ts,20,FUNCTION
+MTH-7C440453,makeFormRequest,No description,CODE_JAVASCRIPT,client.ts,107,FUNCTION

@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6C8CCECB,chatDropdown,No description,CODE_JAVASCRIPT,properties.ts,4,FUNCTION
+MTH-471FF767,whatsappAccountDropdown,No description,CODE_JAVASCRIPT,properties.ts,39,FUNCTION
+MTH-A10B9FE8,fileDropdown,No description,CODE_JAVASCRIPT,properties.ts,66,FUNCTION

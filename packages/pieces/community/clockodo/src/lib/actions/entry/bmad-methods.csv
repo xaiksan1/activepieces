@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B257EDA3,calculateBillable,No description,CODE_JAVASCRIPT,list-entries.ts,6,FUNCTION

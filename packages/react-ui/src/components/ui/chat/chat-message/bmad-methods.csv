@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DD90EAA5,handler,No description,CODE_JAVASCRIPT,image-dialog.tsx,18,FUNCTION
+MTH-35DD3DF8,CopyCode,No description,CODE_JAVASCRIPT,text-message.tsx,125,FUNCTION

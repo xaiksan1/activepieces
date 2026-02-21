@@ -1,0 +1,21 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-45DC9A6C,TodoDetails,No description,CODE_JAVASCRIPT,index.tsx,32,FUNCTION
+MTH-93B8B07C,detectStatusChange,No description,CODE_JAVASCRIPT,index.tsx,45,FUNCTION
+MTH-C390A144,handleTodoChanged,No description,CODE_JAVASCRIPT,index.tsx,64,FUNCTION
+MTH-2A827BCC,handleTodoActivityCreated,No description,CODE_JAVASCRIPT,index.tsx,70,FUNCTION
+MTH-F7232E2C,handleStatusChange,No description,CODE_JAVASCRIPT,index.tsx,97,FUNCTION
+MTH-441E6AF3,TodoComment,No description,CODE_JAVASCRIPT,todo-comment.tsx,24,FUNCTION
+MTH-5C6BF3A8,TodoCreateComment,No description,CODE_JAVASCRIPT,todo-create-comment.tsx,10,FUNCTION
+MTH-CCE78E7A,handleSubmitComment,No description,CODE_JAVASCRIPT,todo-create-comment.tsx,11,FUNCTION
+MTH-0E512909,TodoDetailsStatus,No description,CODE_JAVASCRIPT,todo-details-status.tsx,18,FUNCTION
+MTH-48D13821,getStatusIcon,No description,CODE_JAVASCRIPT,todo-details-status.tsx,23,FUNCTION
+MTH-6C66080B,getStatusButtonIcon,No description,CODE_JAVASCRIPT,todo-details-status.tsx,33,FUNCTION
+MTH-608B9239,TodoTextarea,No description,CODE_JAVASCRIPT,todo-textarea.tsx,18,FUNCTION
+MTH-27CAEA61,handleSubmit,No description,CODE_JAVASCRIPT,todo-textarea.tsx,29,FUNCTION
+MTH-D1108F53,handleKeyDown,No description,CODE_JAVASCRIPT,todo-textarea.tsx,41,FUNCTION
+MTH-B6042876,TodoTimelineCommentSkeleton,No description,CODE_JAVASCRIPT,todo-timeline-comment-skeleton.tsx,7,FUNCTION
+MTH-C3756A58,TodoTimelineStatus,No description,CODE_JAVASCRIPT,todo-timeline-status.tsx,9,FUNCTION
+MTH-7641901B,TodoTimeline,No description,CODE_JAVASCRIPT,todo-timeline.tsx,24,FUNCTION
+MTH-10436452,formatComment,No description,CODE_JAVASCRIPT,todo-timeline.tsx,32,FUNCTION
+MTH-EB82F5ED,handleTodoChanged,No description,CODE_JAVASCRIPT,todo-timeline.tsx,59,FUNCTION
+MTH-5841A5A5,handleTodoActivityChanged,No description,CODE_JAVASCRIPT,todo-timeline.tsx,64,FUNCTION

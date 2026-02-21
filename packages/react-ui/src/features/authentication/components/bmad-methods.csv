@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CA130425,BottomNote,No description,CODE_JAVASCRIPT,auth-form-template.tsx,26,FUNCTION
+MTH-87FF4098,AuthSeparator,No description,CODE_JAVASCRIPT,auth-form-template.tsx,53,FUNCTION
+MTH-33C74EA8,ChangePasswordForm,No description,CODE_JAVASCRIPT,change-password.tsx,27,FUNCTION
+MTH-4BC3A8BD,CheckEmailNote,No description,CODE_JAVASCRIPT,check-email-note.tsx,9,FUNCTION
+MTH-2483BD72,PasswordValidator,No description,CODE_JAVASCRIPT,password-validator.tsx,5,FUNCTION
+MTH-E4EC42C1,ResetPasswordForm,No description,CODE_JAVASCRIPT,reset-password-form.tsx,34,FUNCTION
+MTH-8A332023,SignUpForm,No description,CODE_JAVASCRIPT,sign-up-form.tsx,51,FUNCTION
+MTH-194088F8,ThirdPartyIcon,No description,CODE_JAVASCRIPT,third-party-logins.tsx,18,FUNCTION
+MTH-657FFD44,handleProviderClick,No description,CODE_JAVASCRIPT,third-party-logins.tsx,32,FUNCTION
+MTH-980653E9,signInWithSaml,No description,CODE_JAVASCRIPT,third-party-logins.tsx,49,FUNCTION
+MTH-F97A2A0F,VerifyEmail,No description,CODE_JAVASCRIPT,verify-email.tsx,16,FUNCTION

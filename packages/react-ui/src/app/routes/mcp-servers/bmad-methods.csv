@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4D2BAB36,McpServersPage,No description,CODE_JAVASCRIPT,index.tsx,32,FUNCTION
+MTH-292B4047,createMcp,No description,CODE_JAVASCRIPT,index.tsx,58,FUNCTION
+MTH-F08CEB6E,McpToolsIcon,No description,CODE_JAVASCRIPT,mcp-tools-icon.tsx,19,FUNCTION

@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0077E28A,auditLogService,No description,CODE_JAVASCRIPT,audit-event-service.ts,29,FUNCTION
+MTH-BA77B5EE,saveEvent,No description,CODE_JAVASCRIPT,audit-event-service.ts,100,FUNCTION

@@ -1,0 +1,18 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0F37046B,apDayjs,No description,CODE_JAVASCRIPT,dayjs-helper.ts,10,FUNCTION
+MTH-E54ED019,apDayjsDuration,No description,CODE_JAVASCRIPT,dayjs-helper.ts,19,FUNCTION
+MTH-9459C430,generateAndStoreSecret,No description,CODE_JAVASCRIPT,encryption.ts,77,FUNCTION
+MTH-41813430,errorHandler,No description,CODE_JAVASCRIPT,error-handler.ts,7,FUNCTION
+MTH-36A0B18F,getOrGenerateAndStoreSecret,No description,CODE_JAVASCRIPT,jwt-utils.ts,111,FUNCTION
+MTH-C958EF65,getSettingsFilePath,No description,CODE_JAVASCRIPT,local-store.ts,27,FUNCTION
+MTH-256A24F8,getOrCreateRedLock,No description,CODE_JAVASCRIPT,lock.ts,28,FUNCTION
+MTH-4F611025,getRedisClientSubscriber,No description,CODE_JAVASCRIPT,pubsub.ts,29,FUNCTION
+MTH-804B0DF3,getRedisClientPublisher,No description,CODE_JAVASCRIPT,pubsub.ts,41,FUNCTION
+MTH-0D7146F7,booleanValidator,No description,CODE_JAVASCRIPT,system-validator.ts,17,FUNCTION
+MTH-D5CEF7D9,numberValidator,No description,CODE_JAVASCRIPT,system-validator.ts,22,FUNCTION
+MTH-7F9F2211,stringValidator,No description,CODE_JAVASCRIPT,system-validator.ts,27,FUNCTION
+MTH-A5A7BD16,urlValidator,No description,CODE_JAVASCRIPT,system-validator.ts,32,FUNCTION
+MTH-322EF77C,validateSystemPropTypes,No description,CODE_JAVASCRIPT,system-validator.ts,178,FUNCTION
+MTH-70DDD724,validateEnvPropsOnStartup,No description,CODE_JAVASCRIPT,system-validator.ts,197,FUNCTION
+MTH-CDC21A07,telemetry,No description,CODE_JAVASCRIPT,telemetry.utils.ts,13,FUNCTION
+MTH-0B9478C3,getMetadata,No description,CODE_JAVASCRIPT,telemetry.utils.ts,69,FUNCTION

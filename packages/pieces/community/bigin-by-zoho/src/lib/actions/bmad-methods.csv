@@ -1,0 +1,21 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C8A4402F,v,No description,CODE_JAVASCRIPT,create-company.ts,92,FUNCTION
+MTH-317C3DF7,options,No description,CODE_JAVASCRIPT,create-pipeline-record.ts,80,FUNCTION
+MTH-317C3DF7,options,No description,CODE_JAVASCRIPT,create-pipeline-record.ts,92,FUNCTION
+MTH-C32CEBAF,secondaries,No description,CODE_JAVASCRIPT,create-pipeline-record.ts,221,FUNCTION
+MTH-E7ECD056,usersOptions,No description,CODE_JAVASCRIPT,update-company.ts,56,FUNCTION
+MTH-2F3FF97F,fields,No description,CODE_JAVASCRIPT,update-company.ts,62,FUNCTION
+MTH-5C6D58BF,options,No description,CODE_JAVASCRIPT,update-company.ts,75,FUNCTION
+MTH-5C6D58BF,options,No description,CODE_JAVASCRIPT,update-company.ts,89,FUNCTION
+MTH-F52AD342,usersOptions,No description,CODE_JAVASCRIPT,update-contact.ts,57,FUNCTION
+MTH-960B28DB,companyOptions,No description,CODE_JAVASCRIPT,update-contact.ts,61,FUNCTION
+MTH-33D7F4E5,fields,No description,CODE_JAVASCRIPT,update-contact.ts,68,FUNCTION
+MTH-7DB5D50D,options,No description,CODE_JAVASCRIPT,update-contact.ts,84,FUNCTION
+MTH-7DB5D50D,options,No description,CODE_JAVASCRIPT,update-contact.ts,98,FUNCTION
+MTH-0B03A05D,options,No description,CODE_JAVASCRIPT,update-event.ts,83,FUNCTION
+MTH-0B03A05D,options,No description,CODE_JAVASCRIPT,update-event.ts,97,FUNCTION
+MTH-6C1B5D99,options,No description,CODE_JAVASCRIPT,update-pipeline-record.ts,43,FUNCTION
+MTH-6C1B5D99,options,No description,CODE_JAVASCRIPT,update-pipeline-record.ts,57,FUNCTION
+MTH-D0BB4B9D,secondaries,No description,CODE_JAVASCRIPT,update-pipeline-record.ts,203,FUNCTION
+MTH-4DBF6112,options,No description,CODE_JAVASCRIPT,update-task.ts,63,FUNCTION
+MTH-4DBF6112,options,No description,CODE_JAVASCRIPT,update-task.ts,77,FUNCTION

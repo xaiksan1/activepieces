@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1FEB9BC4,AccountSettingsDialog,No description,CODE_JAVASCRIPT,index.tsx,24,FUNCTION
+MTH-83CF1BE8,LanguageToggle,No description,CODE_JAVASCRIPT,language-toggle.tsx,29,FUNCTION
+MTH-367C2C0B,ThemeToggle,No description,CODE_JAVASCRIPT,theme-toggle.tsx,14,FUNCTION

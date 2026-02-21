@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-429CE253,ChatIntro,No description,CODE_JAVASCRIPT,chat-intro.tsx,10,FUNCTION

@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7883981B,message,No description,CODE_JAVASCRIPT,trigger.ts,120,FUNCTION
+MTH-7883981B,message,No description,CODE_JAVASCRIPT,trigger.ts,141,FUNCTION

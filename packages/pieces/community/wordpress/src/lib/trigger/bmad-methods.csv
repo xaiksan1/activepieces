@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-38F6F436,getPosts,No description,CODE_JAVASCRIPT,new-post.trigger.ts,170,FUNCTION

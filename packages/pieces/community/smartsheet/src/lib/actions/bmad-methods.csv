@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-3EF3ECEA,searchName,No description,CODE_JAVASCRIPT,find-sheet-by-name.ts,220,FUNCTION
+MTH-A885A006,daysDiff,No description,CODE_JAVASCRIPT,find-sheet-by-name.ts,315,FUNCTION
+MTH-A885A006,daysDiff,No description,CODE_JAVASCRIPT,find-sheet-by-name.ts,321,FUNCTION

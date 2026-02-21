@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EDF4B40D,sanitizedValue,No description,CODE_JAVASCRIPT,find-row.ts,70,FUNCTION
+MTH-6BB78B60,delay,No description,CODE_JAVASCRIPT,get-row-by-id.ts,11,FUNCTION

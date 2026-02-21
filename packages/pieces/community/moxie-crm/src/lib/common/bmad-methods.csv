@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-AEE98228,makeClient,No description,CODE_JAVASCRIPT,index.ts,6,FUNCTION
+MTH-B0121DF3,reformatDate,No description,CODE_JAVASCRIPT,index.ts,13,FUNCTION

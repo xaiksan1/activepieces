@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-927B702B,createErrorFromResponse,Creates an appropriate error based on the HTTP status code and response,CODE_JAVASCRIPT,serp-api-client.ts,27,FUNCTION
+MTH-E12763AA,createNetworkError,Creates a network error from a connection/network issue,CODE_JAVASCRIPT,serp-api-client.ts,62,FUNCTION
+MTH-2838A3EB,createTimeoutError,Creates a timeout error,CODE_JAVASCRIPT,serp-api-client.ts,70,FUNCTION
+MTH-501A524D,errorCode,No description,CODE_JAVASCRIPT,serp-api-client.ts,275,FUNCTION

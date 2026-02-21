@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E0CCF34A,ProjectDashboardSidebar,No description,CODE_JAVASCRIPT,index.tsx,48,FUNCTION
+MTH-FC9D48E9,permissionFilter,No description,CODE_JAVASCRIPT,index.tsx,57,FUNCTION

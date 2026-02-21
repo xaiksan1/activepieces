@@ -1,0 +1,12 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F6D3CE10,bitPair,No description,CODE_JAVASCRIPT,helpers.ts,184,FUNCTION
+MTH-590BEF3F,sendIdentityGraphQLRequest,No description,CODE_JAVASCRIPT,helpers.ts,320,FUNCTION
+MTH-ED681BE2,message,No description,CODE_JAVASCRIPT,helpers.ts,333,FUNCTION
+MTH-17EE0D66,getNumberExpression,No description,CODE_JAVASCRIPT,helpers.ts,338,FUNCTION
+MTH-481F3951,getBooleanExpression,No description,CODE_JAVASCRIPT,helpers.ts,356,FUNCTION
+MTH-C99E308F,vehicleEventTriggerToText,No description,CODE_JAVASCRIPT,helpers.ts,360,FUNCTION
+MTH-C99E308F,vehicleEventTriggerToText,No description,CODE_JAVASCRIPT,helpers.ts,361,FUNCTION
+MTH-C99E308F,vehicleEventTriggerToText,No description,CODE_JAVASCRIPT,helpers.ts,367,FUNCTION
+MTH-708FE08C,isNumericField,No description,CODE_JAVASCRIPT,helpers.ts,397,FUNCTION
+MTH-37430FC2,isBooleanField,No description,CODE_JAVASCRIPT,helpers.ts,413,FUNCTION
+MTH-8DE461A5,getTirePressurePositionLabel,No description,CODE_JAVASCRIPT,helpers.ts,421,FUNCTION

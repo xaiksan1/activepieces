@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-45B2FC70,FormData,No description,CODE_JAVASCRIPT,delete-resource.ts,84,FUNCTION
+MTH-15DC8C01,tag,No description,CODE_JAVASCRIPT,delete-resource.ts,88,FUNCTION
+MTH-AF91C41B,public_id,No description,CODE_JAVASCRIPT,find-resource-by-public-id.ts,37,FUNCTION
+MTH-3B769DD5,generateSignature,No description,CODE_JAVASCRIPT,upload-resource.ts,7,FUNCTION
+MTH-26930E2A,getResourceType,No description,CODE_JAVASCRIPT,upload-resource.ts,16,FUNCTION
+MTH-4B8C0278,ext,No description,CODE_JAVASCRIPT,upload-resource.ts,17,FUNCTION
+MTH-45966CA4,FormData,No description,CODE_JAVASCRIPT,upload-resource.ts,144,FUNCTION

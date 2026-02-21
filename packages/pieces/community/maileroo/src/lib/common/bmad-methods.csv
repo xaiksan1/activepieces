@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A03A8181,createCommonProps,No description,CODE_JAVASCRIPT,send-utils.ts,5,FUNCTION
+MTH-E827F183,createFormData,No description,CODE_JAVASCRIPT,send-utils.ts,50,FUNCTION
+MTH-737C6D47,sendFormData,No description,CODE_JAVASCRIPT,send-utils.ts,71,FUNCTION
+MTH-83630ECC,checkEmail,No description,CODE_JAVASCRIPT,send-utils.ts,87,FUNCTION

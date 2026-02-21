@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B4AB380E,labelIds,No description,CODE_JAVASCRIPT,add-label-to-person.ts,23,FUNCTION
+MTH-D28FBD9F,labelIds,No description,CODE_JAVASCRIPT,create-deal.ts,44,FUNCTION
+MTH-D9BDCD87,labelIds,No description,CODE_JAVASCRIPT,create-lead.ts,45,FUNCTION
+MTH-2C97AAF6,labelIds,No description,CODE_JAVASCRIPT,create-organization.ts,29,FUNCTION
+MTH-C6CF2D47,rawPhones,No description,CODE_JAVASCRIPT,create-person.ts,30,FUNCTION
+MTH-6495A024,rawEmails,No description,CODE_JAVASCRIPT,create-person.ts,31,FUNCTION
+MTH-D98F69F6,labelIds,No description,CODE_JAVASCRIPT,create-person.ts,32,FUNCTION
+MTH-70FB8EE9,labelIds,No description,CODE_JAVASCRIPT,update-deal.ts,45,FUNCTION
+MTH-6D1FC4E4,labelIds,No description,CODE_JAVASCRIPT,update-lead.ts,40,FUNCTION
+MTH-5D18A21A,labelIds,No description,CODE_JAVASCRIPT,update-organization.ts,30,FUNCTION
+MTH-FA0C54BA,rawPhones,No description,CODE_JAVASCRIPT,update-person.ts,39,FUNCTION
+MTH-1D445990,rawEmails,No description,CODE_JAVASCRIPT,update-person.ts,40,FUNCTION
+MTH-D105AA4C,labelIds,No description,CODE_JAVASCRIPT,update-person.ts,41,FUNCTION

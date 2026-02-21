@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E3090090,constructQueueName,No description,CODE_JAVASCRIPT,common.ts,2,FUNCTION
+MTH-C6B8D66C,formatStorageError,No description,CODE_JAVASCRIPT,common.ts,6,FUNCTION
+MTH-872AA65A,size,No description,CODE_JAVASCRIPT,common.ts,7,FUNCTION

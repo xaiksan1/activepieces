@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-938986B0,getPackageAliasForPiece,No description,CODE_JAVASCRIPT,utils.ts,7,FUNCTION
+MTH-819233B0,getPackageSpecForPiece,No description,CODE_JAVASCRIPT,utils.ts,12,FUNCTION
+MTH-2F724648,getPackageArchivePathForPiece,No description,CODE_JAVASCRIPT,utils.ts,31,FUNCTION
+MTH-9C773BCB,getPieceMajorAndMinorVersion,No description,CODE_JAVASCRIPT,utils.ts,55,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2663C77D,authenticationService,No description,CODE_JAVASCRIPT,authentication.service.ts,16,FUNCTION
+MTH-4111E967,assertUserCanSwitchToPlatform,No description,CODE_JAVASCRIPT,authentication.service.ts,162,FUNCTION
+MTH-363B98FE,getUserForPlatform,No description,CODE_JAVASCRIPT,authentication.service.ts,183,FUNCTION
+MTH-31654865,createUserAndPlatform,No description,CODE_JAVASCRIPT,authentication.service.ts,199,FUNCTION
+MTH-A229832E,getPersonalPlatformIdForFederatedAuthn,No description,CODE_JAVASCRIPT,authentication.service.ts,254,FUNCTION
+MTH-4A5922D0,getPersonalPlatformIdForIdentity,No description,CODE_JAVASCRIPT,authentication.service.ts,262,FUNCTION
+MTH-5626BF77,extractResourceName,No description,CODE_JAVASCRIPT,authorization.ts,9,FUNCTION

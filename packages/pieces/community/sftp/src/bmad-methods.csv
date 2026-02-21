@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-11DE1D6B,getProtocolBackwardCompatibility,No description,CODE_JAVASCRIPT,index.ts,19,FUNCTION
+MTH-3ACF4EF8,endClient,No description,CODE_JAVASCRIPT,index.ts,73,FUNCTION

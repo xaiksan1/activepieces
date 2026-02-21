@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-A63D8F37,AlertsEmailsCard,No description,CODE_JAVASCRIPT,alerts-email-list-card.tsx,28,FUNCTION
+MTH-0876AB8D,onChangeStatus,No description,CODE_JAVASCRIPT,alerts-frequency-card.tsx,55,FUNCTION

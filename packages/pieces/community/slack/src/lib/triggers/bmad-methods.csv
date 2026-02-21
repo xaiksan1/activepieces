@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9A9C5654,commands,No description,CODE_JAVASCRIPT,new-command-in-direct-message.ts,53,FUNCTION
+MTH-71648114,channels,No description,CODE_JAVASCRIPT,new-command.ts,74,FUNCTION
+MTH-8FE55B06,commands,No description,CODE_JAVASCRIPT,new-command.ts,75,FUNCTION
+MTH-920B42CB,channels,No description,CODE_JAVASCRIPT,new-mention.ts,65,FUNCTION

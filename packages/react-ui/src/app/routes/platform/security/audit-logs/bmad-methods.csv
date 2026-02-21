@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1129FF14,AuditLogsPage,No description,CODE_JAVASCRIPT,index.tsx,42,FUNCTION
+MTH-883FD65C,convertToIcon,No description,CODE_JAVASCRIPT,index.tsx,246,FUNCTION

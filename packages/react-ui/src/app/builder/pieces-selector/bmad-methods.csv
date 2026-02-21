@@ -1,0 +1,26 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5F8D4C3B,AddTodoStepDialog,No description,CODE_JAVASCRIPT,add-todo-step-dialog.tsx,42,FUNCTION
+MTH-6DD7D51D,handleAddCreateTodoAction,No description,CODE_JAVASCRIPT,add-todo-step-dialog.tsx,53,FUNCTION
+MTH-9FD97664,PreviewImage,No description,CODE_JAVASCRIPT,add-todo-step-dialog.tsx,152,FUNCTION
+MTH-88A7C4D7,TodoTypeOption,No description,CODE_JAVASCRIPT,add-todo-step-dialog.tsx,187,FUNCTION
+MTH-32391856,CreateAgentActionItem,No description,CODE_JAVASCRIPT,create-agent-action-item.tsx,24,FUNCTION
+MTH-35C12855,getTodoActionName,No description,CODE_JAVASCRIPT,custom-piece-selector-items-utils.ts,30,FUNCTION
+MTH-6D0DAEB8,getActionFromPieceMetadata,No description,CODE_JAVASCRIPT,custom-piece-selector-items-utils.ts,39,FUNCTION
+MTH-27E73BA0,createRouterStep,No description,CODE_JAVASCRIPT,custom-piece-selector-items-utils.ts,54,FUNCTION
+MTH-D7A16D85,createTodoStep,No description,CODE_JAVASCRIPT,custom-piece-selector-items-utils.ts,104,FUNCTION
+MTH-03FD9AFF,createWaitForApprovalStep,No description,CODE_JAVASCRIPT,custom-piece-selector-items-utils.ts,134,FUNCTION
+MTH-17EEEF01,overrideDisplayInfoForPieceSelectorItemWithAgentInfo,No description,CODE_JAVASCRIPT,custom-piece-selector-items-utils.ts,188,FUNCTION
+MTH-E257C60F,handleAddingOrUpdatingCustomAgentPieceSelectorItem,No description,CODE_JAVASCRIPT,custom-piece-selector-items-utils.ts,201,FUNCTION
+MTH-B0F171C0,ExploreTabContent,No description,CODE_JAVASCRIPT,explore-tab-content.tsx,17,FUNCTION
+MTH-3B671DA6,getPieceSelectorItemInfo,No description,CODE_JAVASCRIPT,generic-piece-selector-item.tsx,14,FUNCTION
+MTH-BE41E851,GenericActionOrTriggerItem,No description,CODE_JAVASCRIPT,generic-piece-selector-item.tsx,30,FUNCTION
+MTH-2F6338EC,PieceSelector,No description,CODE_JAVASCRIPT,index.tsx,33,FUNCTION
+MTH-028490F4,clearSearch,No description,CODE_JAVASCRIPT,index.tsx,73,FUNCTION
+MTH-7E6E30D9,NoResultsFound,No description,CODE_JAVASCRIPT,no-results-found.tsx,9,FUNCTION
+MTH-282408DE,convertStepMetadataToPieceSelectorItems,No description,CODE_JAVASCRIPT,piece-actions-or-triggers-list.tsx,26,FUNCTION
+MTH-B0F37F78,PieceCardListItem,No description,CODE_JAVASCRIPT,piece-card-item.tsx,24,FUNCTION
+MTH-2B5603DD,selectPieceMetatdata,No description,CODE_JAVASCRIPT,piece-card-item.tsx,33,FUNCTION
+MTH-EBFF1086,transformPiecesMetadataToVirtualizedItems,No description,CODE_JAVASCRIPT,pieces-card-list.tsx,162,FUNCTION
+MTH-DDE436A3,getItemHeight,No description,CODE_JAVASCRIPT,pieces-card-list.tsx,193,FUNCTION
+MTH-E49B0C0B,getNumberOfExtraActions,No description,CODE_JAVASCRIPT,pieces-card-list.tsx,234,FUNCTION
+MTH-2E74B775,RunAgentActionItem,No description,CODE_JAVASCRIPT,run-agent-action-item.tsx,21,FUNCTION

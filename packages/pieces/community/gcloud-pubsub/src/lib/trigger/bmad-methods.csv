@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-41F31D84,json,No description,CODE_JAVASCRIPT,new-message-in-topic.ts,22,FUNCTION
+MTH-41F31D84,json,No description,CODE_JAVASCRIPT,new-message-in-topic.ts,34,FUNCTION
+MTH-41F31D84,json,No description,CODE_JAVASCRIPT,new-message-in-topic.ts,65,FUNCTION

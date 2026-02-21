@@ -1,0 +1,9 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-687108E5,getScopeAndKey,No description,CODE_JAVASCRIPT,common.ts,10,FUNCTION
+MTH-BC33584D,executeStorageAddToList,No description,CODE_JAVASCRIPT,store-add-to-list.ts,7,FUNCTION
+MTH-CB50953C,executeStorageAppend,No description,CODE_JAVASCRIPT,store-append-action.ts,14,FUNCTION
+MTH-D042376A,oldValue,No description,CODE_JAVASCRIPT,store-append-action.ts,30,FUNCTION
+MTH-8D62D613,executeStorageGet,No description,CODE_JAVASCRIPT,store-get-action.ts,14,FUNCTION
+MTH-59B496F2,executeStoragePut,No description,CODE_JAVASCRIPT,store-put-action.ts,13,FUNCTION
+MTH-2D415C75,executeStorageRemoveFromList,No description,CODE_JAVASCRIPT,store-remove-from-list.ts,14,FUNCTION
+MTH-D6193C99,executeStorageRemoveValue,No description,CODE_JAVASCRIPT,store-remove-value.ts,14,FUNCTION

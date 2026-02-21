@@ -1,0 +1,23 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2CAF1A5D,ToggleIcon,No description,CODE_JAVASCRIPT,data-selector-node-content.tsx,14,FUNCTION
+MTH-AFC859BE,handleKeyPress,No description,CODE_JAVASCRIPT,data-selector-node-content.tsx,29,FUNCTION
+MTH-924F1CC9,DataSelectorNodeContent,No description,CODE_JAVASCRIPT,data-selector-node-content.tsx,38,FUNCTION
+MTH-49C7B78A,DataSelectorNode,No description,CODE_JAVASCRIPT,data-selector-node.tsx,20,FUNCTION
+MTH-7DA8FF9B,DataSelectorSizeTogglers,No description,CODE_JAVASCRIPT,data-selector-size-togglers.tsx,24,FUNCTION
+MTH-4BC48092,handleClick,No description,CODE_JAVASCRIPT,data-selector-size-togglers.tsx,28,FUNCTION
+MTH-8DB9F10F,buttonClassName,No description,CODE_JAVASCRIPT,data-selector-size-togglers.tsx,32,FUNCTION
+MTH-3B4AD52B,doesElementHaveAnInputThatUsesMentions,No description,CODE_JAVASCRIPT,index.tsx,57,FUNCTION
+MTH-5DFCC1C5,DataSelector,No description,CODE_JAVASCRIPT,index.tsx,73,FUNCTION
+MTH-9D13F895,TestStepSection,No description,CODE_JAVASCRIPT,test-step-section.tsx,6,FUNCTION
+MTH-F5C06DE3,buildTestStepNode,No description,CODE_JAVASCRIPT,utils.ts,21,FUNCTION
+MTH-DCC23591,buildChunkNode,No description,CODE_JAVASCRIPT,utils.ts,47,FUNCTION
+MTH-7E94FC42,mergeUniqueKeys,No description,CODE_JAVASCRIPT,utils.ts,66,FUNCTION
+MTH-F45BB814,extractUniqueKeys,No description,CODE_JAVASCRIPT,utils.ts,84,FUNCTION
+MTH-B002D657,convertArrayToZippedView,No description,CODE_JAVASCRIPT,utils.ts,112,FUNCTION
+MTH-BAB3FE6E,buildJsonPath,No description,CODE_JAVASCRIPT,utils.ts,146,FUNCTION
+MTH-D2F1AA19,buildDataSelectorNode,No description,CODE_JAVASCRIPT,utils.ts,158,FUNCTION
+MTH-CDD10DBA,traverseOutput,No description,CODE_JAVASCRIPT,utils.ts,199,FUNCTION
+MTH-C1C2F157,escapeMentionKey,No description,CODE_JAVASCRIPT,utils.ts,290,FUNCTION
+MTH-5AB97816,getSearchableValue,No description,CODE_JAVASCRIPT,utils.ts,294,FUNCTION
+MTH-54B6C576,traverseStep,No description,CODE_JAVASCRIPT,utils.ts,311,FUNCTION
+MTH-ECE26F3A,filterBy,No description,CODE_JAVASCRIPT,utils.ts,344,FUNCTION

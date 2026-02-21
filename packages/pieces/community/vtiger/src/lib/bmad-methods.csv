@@ -1,0 +1,14 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D0B22B80,isBaseUrl,No description,CODE_JAVASCRIPT,common.ts,19,FUNCTION
+MTH-2E4430D1,md5,No description,CODE_JAVASCRIPT,common.ts,29,FUNCTION
+MTH-1E3A519D,calculateAuthKey,No description,CODE_JAVASCRIPT,common.ts,30,FUNCTION
+MTH-A5B2EFB1,instanceLogin,No description,CODE_JAVASCRIPT,common.ts,35,FUNCTION
+MTH-5C58CAB4,prepareHttpRequest,No description,CODE_JAVASCRIPT,common.ts,126,FUNCTION
+MTH-829B4C41,refreshModules,No description,CODE_JAVASCRIPT,common.ts,174,FUNCTION
+MTH-B722A74F,recordIdProperty,No description,CODE_JAVASCRIPT,common.ts,282,FUNCTION
+MTH-EF5E6A56,getRecordReference,No description,CODE_JAVASCRIPT,common.ts,357,FUNCTION
+MTH-63BC0ACF,recordProperty,No description,CODE_JAVASCRIPT,common.ts,403,FUNCTION
+MTH-DABA19FD,queryRecords,No description,CODE_JAVASCRIPT,common.ts,449,FUNCTION
+MTH-501486AF,countRecords,No description,CODE_JAVASCRIPT,common.ts,483,FUNCTION
+MTH-51BADEBD,generateElementFields,No description,CODE_JAVASCRIPT,common.ts,515,FUNCTION
+MTH-BC68A92E,generateField,No description,CODE_JAVASCRIPT,common.ts,542,FUNCTION

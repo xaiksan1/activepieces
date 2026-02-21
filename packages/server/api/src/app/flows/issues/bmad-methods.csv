@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1B133D07,issuesService,No description,CODE_JAVASCRIPT,issues-service.ts,19,FUNCTION
+MTH-74731E91,resolveIssueWithZeroCount,No description,CODE_JAVASCRIPT,issues-service.ts,155,FUNCTION
+MTH-AE6619C5,enrichIssue,No description,CODE_JAVASCRIPT,issues-service.ts,191,FUNCTION
+MTH-A7DD00EC,getStepFromFlow,No description,CODE_JAVASCRIPT,issues-service.ts,207,FUNCTION

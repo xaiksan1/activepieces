@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-081D3988,getHeaders,No description,CODE_JAVASCRIPT,client.ts,13,FUNCTION
+MTH-026B0403,addVideo,No description,CODE_JAVASCRIPT,client.ts,20,FUNCTION
+MTH-0DED1005,addWebsite,No description,CODE_JAVASCRIPT,client.ts,42,FUNCTION
+MTH-2EB82650,listKnowledgeItems,No description,CODE_JAVASCRIPT,client.ts,65,FUNCTION
+MTH-3BBE189F,addFaqItem,No description,CODE_JAVASCRIPT,client.ts,87,FUNCTION
+MTH-0C752411,createFaq,No description,CODE_JAVASCRIPT,client.ts,112,FUNCTION
+MTH-6EFC1D22,listChatbots,No description,CODE_JAVASCRIPT,client.ts,133,FUNCTION
+MTH-A5E92718,createChatbotReply,No description,CODE_JAVASCRIPT,client.ts,153,FUNCTION
+MTH-EF2E935D,startTraining,No description,CODE_JAVASCRIPT,client.ts,178,FUNCTION
+MTH-09C0BE5B,getLabel,No description,CODE_JAVASCRIPT,props.ts,163,FUNCTION

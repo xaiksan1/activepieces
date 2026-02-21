@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7B98CE79,platformMustHaveFeatureEnabled,No description,CODE_JAVASCRIPT,ee-authorization.ts,18,FUNCTION

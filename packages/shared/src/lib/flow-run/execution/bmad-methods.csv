@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5F5EC53A,isFlowRunStateTerminal,No description,CODE_JAVASCRIPT,flow-execution.ts,100,FUNCTION
+MTH-E8F8C1E1,isFailedState,No description,CODE_JAVASCRIPT,flow-execution.ts,125,FUNCTION

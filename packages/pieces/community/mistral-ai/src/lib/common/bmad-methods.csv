@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D43C01CC,parseMistralError,No description,CODE_JAVASCRIPT,props.ts,52,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-69B68565,channel_id,No description,CODE_JAVASCRIPT,company-updated.ts,44,FUNCTION
+MTH-2D8646D0,channel_id,No description,CODE_JAVASCRIPT,new-call-created.ts,44,FUNCTION
+MTH-F3E937E6,channel_id,No description,CODE_JAVASCRIPT,new-company-created.ts,44,FUNCTION
+MTH-E4E4B18B,channel_id,No description,CODE_JAVASCRIPT,new-event-created.ts,44,FUNCTION
+MTH-C8FE932F,channel_id,No description,CODE_JAVASCRIPT,new-pipeline-record.ts,44,FUNCTION
+MTH-5EBAC072,channel_id,No description,CODE_JAVASCRIPT,new-task-created.ts,44,FUNCTION
+MTH-BA370EE7,channel_id,No description,CODE_JAVASCRIPT,pipeline-record-updated.ts,44,FUNCTION

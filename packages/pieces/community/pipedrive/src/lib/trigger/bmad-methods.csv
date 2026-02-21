@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8F9EABFE,existingIds,No description,CODE_JAVASCRIPT,activity-matching-filter.ts,68,FUNCTION
+MTH-960F61D8,existingIds,No description,CODE_JAVASCRIPT,deal-matching-filter.ts,120,FUNCTION
+MTH-4BD0BD36,existingIds,No description,CODE_JAVASCRIPT,organization-matching-filter.ts,148,FUNCTION
+MTH-140A4883,existingIds,No description,CODE_JAVASCRIPT,person-matching-filter.ts,147,FUNCTION
+MTH-7AE36396,flattenCustomFields,No description,CODE_JAVASCRIPT,updated-deal.ts,374,FUNCTION

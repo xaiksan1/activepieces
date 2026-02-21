@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0C77ABE0,getBoardsDropdown,No description,CODE_JAVASCRIPT,new-ad-in-board.ts,7,FUNCTION

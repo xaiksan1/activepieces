@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0EFC3E7B,getDatadogConfiguration,No description,CODE_JAVASCRIPT,common.ts,9,FUNCTION
+MTH-2E8B7C05,constructDatadogBaseUrl,No description,CODE_JAVASCRIPT,common.ts,22,FUNCTION
+MTH-0B8790B3,constructDatadogBaseHeaders,No description,CODE_JAVASCRIPT,common.ts,26,FUNCTION

@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E0962DDA,getChanges,No description,CODE_JAVASCRIPT,helpers.ts,25,FUNCTION
+MTH-56DEE965,getCalendars,No description,CODE_JAVASCRIPT,helpers.ts,44,FUNCTION
+MTH-B58183B6,getAllEvents,No description,CODE_JAVASCRIPT,helpers.ts,54,FUNCTION
+MTH-5FDF2EEF,getEventsById,No description,CODE_JAVASCRIPT,helpers.ts,65,FUNCTION
+MTH-1FECC4BD,getUpdatedOrNewEvents,No description,CODE_JAVASCRIPT,helpers.ts,80,FUNCTION

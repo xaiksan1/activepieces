@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6EFB0136,getId,"Some RSS feeds use the id field, some use the guid field, and some use neither.",CODE_JAVASCRIPT,getId.ts,2,FUNCTION

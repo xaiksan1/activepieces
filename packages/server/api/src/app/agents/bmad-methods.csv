@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-13079928,agentsService,No description,CODE_JAVASCRIPT,agents-service.ts,21,FUNCTION
+MTH-8A08F15B,enrichAgent,No description,CODE_JAVASCRIPT,agents-service.ts,182,FUNCTION
+MTH-7D191877,getAgentProfilePictureUrl,No description,CODE_JAVASCRIPT,agents-service.ts,191,FUNCTION
+MTH-753C82C7,getEnhancementPrompt,No description,CODE_JAVASCRIPT,agents-service.ts,195,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5D789884,getGeneratedImage,No description,CODE_JAVASCRIPT,generate-image.ts,10,FUNCTION

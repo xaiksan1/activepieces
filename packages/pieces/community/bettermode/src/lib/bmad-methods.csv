@@ -1,0 +1,16 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D76BCBAE,bettermodeAPI,No description,CODE_JAVASCRIPT,api.ts,10,FUNCTION
+MTH-D0ACEBDA,getGuestToken,No description,CODE_JAVASCRIPT,api.ts,37,FUNCTION
+MTH-87DAC6BD,getAuthToken,No description,CODE_JAVASCRIPT,api.ts,52,FUNCTION
+MTH-576C6E6B,getPostType,No description,CODE_JAVASCRIPT,api.ts,77,FUNCTION
+MTH-C61CA39D,listBadges,No description,CODE_JAVASCRIPT,api.ts,95,FUNCTION
+MTH-112D6DFD,listMemberSpaces,No description,CODE_JAVASCRIPT,api.ts,112,FUNCTION
+MTH-B3756527,getMemberByEmail,No description,CODE_JAVASCRIPT,api.ts,130,FUNCTION
+MTH-B6439B33,assignBadgeToMember,No description,CODE_JAVASCRIPT,api.ts,152,FUNCTION
+MTH-6FCA757F,revokeBadgeFromMember,No description,CODE_JAVASCRIPT,api.ts,177,FUNCTION
+MTH-CE7D5569,createPostOfType,No description,CODE_JAVASCRIPT,api.ts,202,FUNCTION
+MTH-A6F8BF9B,createDiscussion,No description,CODE_JAVASCRIPT,api.ts,254,FUNCTION
+MTH-91002A64,createQuestion,No description,CODE_JAVASCRIPT,api.ts,273,FUNCTION
+MTH-1F40E9BF,validateAuth,No description,CODE_JAVASCRIPT,auth.ts,65,FUNCTION
+MTH-1200B773,buildMemberSpacesDropdown,No description,CODE_JAVASCRIPT,props.ts,4,FUNCTION
+MTH-08BF1FAC,buildBadgesDropdown,No description,CODE_JAVASCRIPT,props.ts,21,FUNCTION

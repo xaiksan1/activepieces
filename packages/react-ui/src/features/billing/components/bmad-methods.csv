@@ -1,0 +1,26 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D5CB2796,ActivateLicenseDialog,No description,CODE_JAVASCRIPT,activate-license-dialog.tsx,34,FUNCTION
+MTH-9A0EAED3,handleSubmit,No description,CODE_JAVASCRIPT,activate-license-dialog.tsx,51,FUNCTION
+MTH-B363D2FF,handleClose,No description,CODE_JAVASCRIPT,activate-license-dialog.tsx,58,FUNCTION
+MTH-5424F792,ActiveFlowAddon,No description,CODE_JAVASCRIPT,active-flow-addon.tsx,25,FUNCTION
+MTH-6524D195,AICreditUsage,No description,CODE_JAVASCRIPT,ai-credit-usage.tsx,31,FUNCTION
+MTH-1F82242D,AiCreditsLimitAlert,No description,CODE_JAVASCRIPT,ai-credits-limit-alert.tsx,8,FUNCTION
+MTH-C396FFC6,Error,No description,CODE_JAVASCRIPT,error.tsx,9,FUNCTION
+MTH-6FA1AFB2,FeatureStatus,No description,CODE_JAVASCRIPT,features-status.tsx,74,FUNCTION
+MTH-C434FD7B,LimitAlert,No description,CODE_JAVASCRIPT,limit-alert.tsx,23,FUNCTION
+MTH-DE53E431,getAlertType,No description,CODE_JAVASCRIPT,limit-alert.tsx,36,FUNCTION
+MTH-E3C9DFD0,getLimitPercentage,No description,CODE_JAVASCRIPT,limit-alert.tsx,49,FUNCTION
+MTH-B0A2905F,LicenseKey,No description,CODE_JAVASCRIPT,lisence-key.tsx,12,FUNCTION
+MTH-44BBFCB2,getStatusBadge,No description,CODE_JAVASCRIPT,lisence-key.tsx,25,FUNCTION
+MTH-3164F524,ProjectAddon,No description,CODE_JAVASCRIPT,project-addon.tsx,25,FUNCTION
+MTH-346CEF50,ProjectLockedAlert,No description,CODE_JAVASCRIPT,project-locked-alert.tsx,15,FUNCTION
+MTH-7E0204F8,SubscriptionInfo,No description,CODE_JAVASCRIPT,subscription-info.tsx,13,FUNCTION
+MTH-914A4C4B,Success,No description,CODE_JAVASCRIPT,success.tsx,9,FUNCTION
+MTH-E1FB9106,getActionConfig,No description,CODE_JAVASCRIPT,success.tsx,29,FUNCTION
+MTH-0B5BD957,TaskLimitAlert,No description,CODE_JAVASCRIPT,task-limit-alert.tsx,8,FUNCTION
+MTH-DF555764,WelcomeTrialDialog,No description,CODE_JAVASCRIPT,trial-dialog.tsx,18,FUNCTION
+MTH-39E3E0E6,handleClose,No description,CODE_JAVASCRIPT,trial-dialog.tsx,33,FUNCTION
+MTH-4919D555,handleSeePlans,No description,CODE_JAVASCRIPT,trial-dialog.tsx,49,FUNCTION
+MTH-C74EE0BD,UsageCards,No description,CODE_JAVASCRIPT,usage-cards.tsx,24,FUNCTION
+MTH-29A1EC32,UsageCard,No description,CODE_JAVASCRIPT,usage-cards.tsx,116,FUNCTION
+MTH-F1F84FC0,UserSeatAddon,No description,CODE_JAVASCRIPT,user-seat-addon.tsx,25,FUNCTION

@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BB3BED84,cachedWebhookData,No description,CODE_JAVASCRIPT,new-lead.ts,27,FUNCTION
+MTH-3289C563,cachedWebhookData,No description,CODE_JAVASCRIPT,new-person.ts,27,FUNCTION
+MTH-33509671,cachedWebhookData,No description,CODE_JAVASCRIPT,new-task.ts,27,FUNCTION
+MTH-B8DDD3C8,cachedWebhookData,No description,CODE_JAVASCRIPT,updated-lead-status.ts,28,FUNCTION
+MTH-C1A83D0F,cachedWebhookData,No description,CODE_JAVASCRIPT,updated-lead.ts,27,FUNCTION
+MTH-7D6C0A95,cachedWebhookData,No description,CODE_JAVASCRIPT,updated-opportunity-stage.ts,27,FUNCTION
+MTH-50526E66,cachedWebhookData,No description,CODE_JAVASCRIPT,updated-opportunity-status.ts,27,FUNCTION
+MTH-93FB905C,cachedWebhookData,No description,CODE_JAVASCRIPT,updated-opportunity.ts,27,FUNCTION
+MTH-6A488712,cachedWebhookData,No description,CODE_JAVASCRIPT,updated-project.ts,27,FUNCTION
+MTH-B4F59AFE,cachedWebhookData,No description,CODE_JAVASCRIPT,updated-task.ts,27,FUNCTION

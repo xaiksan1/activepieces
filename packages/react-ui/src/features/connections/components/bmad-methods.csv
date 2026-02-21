@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F3FD8A69,AssignConnectionToProjectsControl,No description,CODE_JAVASCRIPT,assign-global-connection-to-projects.tsx,11,FUNCTION

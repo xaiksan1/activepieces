@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B79A985D,validateAuth,No description,CODE_JAVASCRIPT,index.ts,68,FUNCTION

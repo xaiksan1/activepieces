@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-396B9D08,generateRandomPassword,No description,CODE_JAVASCRIPT,crypto.ts,6,FUNCTION
+MTH-4BF4F22F,hashSHA256,No description,CODE_JAVASCRIPT,crypto.ts,11,FUNCTION
+MTH-FEACC49C,enrichErrorContext,No description,CODE_JAVASCRIPT,exception-handler.ts,36,FUNCTION
+MTH-E98C746C,getLocalIp,No description,CODE_JAVASCRIPT,network-utils.ts,16,FUNCTION
+MTH-F6EADE33,getPublicIp,No description,CODE_JAVASCRIPT,network-utils.ts,31,FUNCTION
+MTH-020D2693,extractClientRealIp,No description,CODE_JAVASCRIPT,network-utils.ts,59,FUNCTION
+MTH-19ED9EBB,cleanLeadingSlash,No description,CODE_JAVASCRIPT,network-utils.ts,77,FUNCTION
+MTH-52618E06,cleanTrailingSlash,No description,CODE_JAVASCRIPT,network-utils.ts,81,FUNCTION
+MTH-AC787179,rejectedPromiseHandler,No description,CODE_JAVASCRIPT,promise-handler.ts,3,FUNCTION
+MTH-D8C75132,init,No description,CODE_JAVASCRIPT,webhook-secrets-util.ts,18,FUNCTION
+MTH-689CE53B,parseWebhookSecrets,No description,CODE_JAVASCRIPT,webhook-secrets-util.ts,23,FUNCTION
+MTH-5CE033E9,getWebhookSecret,No description,CODE_JAVASCRIPT,webhook-secrets-util.ts,41,FUNCTION

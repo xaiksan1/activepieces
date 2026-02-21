@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7220C8E9,AlertOption,No description,CODE_JAVASCRIPT,alerts.tsx,39,FUNCTION
+MTH-8422404D,AlertsSettings,No description,CODE_JAVASCRIPT,alerts.tsx,76,FUNCTION
+MTH-85BF7A12,onChangeStatus,No description,CODE_JAVASCRIPT,alerts.tsx,109,FUNCTION
+MTH-8C7B1D0F,GeneralSettings,No description,CODE_JAVASCRIPT,general.tsx,35,FUNCTION
+MTH-FDA703B0,ProjectSettingsDialog,No description,CODE_JAVASCRIPT,index.tsx,39,FUNCTION
+MTH-23ECEFDD,renderTabContent,No description,CODE_JAVASCRIPT,index.tsx,85,FUNCTION
+MTH-E7E72BD6,TeamSettings,No description,CODE_JAVASCRIPT,team.tsx,17,FUNCTION

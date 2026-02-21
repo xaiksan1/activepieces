@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8163144B,generateColumnIdTypeMap,No description,CODE_JAVASCRIPT,helper.ts,13,FUNCTION
+MTH-85A21692,convertMondayColumnToActivepiecesProp,creates activepiece prop type for monday column,CODE_JAVASCRIPT,helper.ts,24,FUNCTION
+MTH-907E515D,convertPropValueToMondayColumnValue,No description,CODE_JAVASCRIPT,helper.ts,159,FUNCTION
+MTH-71DE9A54,parseMondayColumnValue,No description,CODE_JAVASCRIPT,helper.ts,270,FUNCTION
+MTH-04DAA1DC,makeClient,No description,CODE_JAVASCRIPT,index.ts,6,FUNCTION

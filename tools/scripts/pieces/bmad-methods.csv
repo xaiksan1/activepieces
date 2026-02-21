@@ -1,0 +1,22 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D8C902A0,bumpPatchVersion,Function to bump patch version,CODE_JAVASCRIPT,bump-translated-pieces.ts,19,FUNCTION
+MTH-9B755C36,updatePackageJson,Function to update package.json,CODE_JAVASCRIPT,bump-translated-pieces.ts,29,FUNCTION
+MTH-D685EE33,hasChangesComparedToMain,Function to check if a piece has changes compared to main,CODE_JAVASCRIPT,bump-translated-pieces.ts,57,FUNCTION
+MTH-A42B9318,hasI18nDirectory,Function to check if a piece has i18n directory,CODE_JAVASCRIPT,bump-translated-pieces.ts,71,FUNCTION
+MTH-5136E427,hasTranslationChanges,Function to check if a piece has translation-related changes,CODE_JAVASCRIPT,bump-translated-pieces.ts,77,FUNCTION
+MTH-8393396C,hasVersionBeenBumped,Function to check if a piece version has already been bumped compared to main,CODE_JAVASCRIPT,bump-translated-pieces.ts,91,FUNCTION
+MTH-4D74C4E2,compareVersions,Helper function to compare semantic versions,CODE_JAVASCRIPT,bump-translated-pieces.ts,121,FUNCTION
+MTH-74152746,getPieceDirectories,Function to get all piece directories,CODE_JAVASCRIPT,bump-translated-pieces.ts,137,FUNCTION
+MTH-6222F24A,main,Main function,CODE_JAVASCRIPT,bump-translated-pieces.ts,146,FUNCTION
+MTH-7719DDC1,publishPiece,No description,CODE_JAVASCRIPT,publish-piece.ts,10,FUNCTION
+MTH-4704B5EA,main,No description,CODE_JAVASCRIPT,publish-piece.ts,39,FUNCTION
+MTH-B7B5FBC9,publishPiece,No description,CODE_JAVASCRIPT,publish-pieces-to-npm.ts,5,FUNCTION
+MTH-DA352CD0,main,No description,CODE_JAVASCRIPT,publish-pieces-to-npm.ts,10,FUNCTION
+MTH-0B24FC3B,cleanAuthors,No description,CODE_JAVASCRIPT,update-authors.ts,409,FUNCTION
+MTH-E6E251F6,loadAuthors,No description,CODE_JAVASCRIPT,update-authors.ts,423,FUNCTION
+MTH-C4E4D09E,loadSrcIndexFiles,No description,CODE_JAVASCRIPT,update-authors.ts,438,FUNCTION
+MTH-B476032E,customSort,No description,CODE_JAVASCRIPT,update-authors.ts,477,FUNCTION
+MTH-8CA0EF6E,insertPieceMetadata,No description,CODE_JAVASCRIPT,update-pieces-metadata.ts,11,FUNCTION
+MTH-AEA080BD,insertMetadataIfNotExist,No description,CODE_JAVASCRIPT,update-pieces-metadata.ts,34,FUNCTION
+MTH-0E614BEE,insertMetadata,No description,CODE_JAVASCRIPT,update-pieces-metadata.ts,52,FUNCTION
+MTH-3247CB8E,main,No description,CODE_JAVASCRIPT,update-pieces-metadata.ts,60,FUNCTION

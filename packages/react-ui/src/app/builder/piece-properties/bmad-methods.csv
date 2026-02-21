@@ -1,0 +1,22 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0E322A58,getDefaultValuesForInputs,No description,CODE_JAVASCRIPT,array-property.tsx,32,FUNCTION
+MTH-34523899,updateFormValue,No description,CODE_JAVASCRIPT,array-property.tsx,86,FUNCTION
+MTH-331BC2C1,append,No description,CODE_JAVASCRIPT,array-property.tsx,94,FUNCTION
+MTH-C8FE24EE,remove,No description,CODE_JAVASCRIPT,array-property.tsx,112,FUNCTION
+MTH-829D97BC,isInputNameLiteral,No description,CODE_JAVASCRIPT,auto-form-field-wrapper.tsx,26,FUNCTION
+MTH-6BF5C8C2,getDefaultValueForDynamicValue,No description,CODE_JAVASCRIPT,auto-form-field-wrapper.tsx,44,FUNCTION
+MTH-E77C09A8,AutoFormFieldWrapper,No description,CODE_JAVASCRIPT,auto-form-field-wrapper.tsx,56,FUNCTION
+MTH-C803AA7A,handleDynamicValueToggleChange,No description,CODE_JAVASCRIPT,auto-form-field-wrapper.tsx,71,FUNCTION
+MTH-3E8CA628,selectFormComponentForProperty,No description,CODE_JAVASCRIPT,auto-properties-form.tsx,104,FUNCTION
+MTH-25373797,BuilderJsonEditorWrapper,No description,CODE_JAVASCRIPT,builder-json-wrapper.tsx,12,FUNCTION
+MTH-1076FC77,parseFunctionString,No description,CODE_JAVASCRIPT,custom-property.tsx,16,FUNCTION
+MTH-1DD64C3D,CustomProperty,No description,CODE_JAVASCRIPT,custom-property.tsx,24,FUNCTION
+MTH-F9B85247,DictionaryProperty,No description,CODE_JAVASCRIPT,dictionary-property.tsx,24,FUNCTION
+MTH-63881BFD,remove,No description,CODE_JAVASCRIPT,dictionary-property.tsx,61,FUNCTION
+MTH-79E6FF07,add,No description,CODE_JAVASCRIPT,dictionary-property.tsx,66,FUNCTION
+MTH-532B43E0,onChangeValue,No description,CODE_JAVASCRIPT,dictionary-property.tsx,76,FUNCTION
+MTH-310B5120,updateValue,No description,CODE_JAVASCRIPT,dictionary-property.tsx,92,FUNCTION
+MTH-E7B3B58F,refresh,No description,CODE_JAVASCRIPT,dynamic-dropdown-piece-property.tsx,74,FUNCTION
+MTH-0B9B1465,DynamicPropertiesErrorBoundary,No description,CODE_JAVASCRIPT,dynamic-piece-properties-error-boundary.tsx,8,FUNCTION
+MTH-27B80D2F,removeOptionsFromDropdownPropertiesSchema,No description,CODE_JAVASCRIPT,dynamic-piece-property.tsx,24,FUNCTION
+MTH-E6FCD313,DynamicPropertiesProvider,No description,CODE_JAVASCRIPT,dynamic-properties-context.tsx,15,FUNCTION

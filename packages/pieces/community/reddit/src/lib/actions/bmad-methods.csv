@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-476B3F00,processComments,No description,CODE_JAVASCRIPT,fetch-post-comments.ts,66,FUNCTION

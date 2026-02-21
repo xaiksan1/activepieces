@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1D14A41B,parseDirectoryURL,No description,CODE_JAVASCRIPT,brilliant-directories-common.ts,7,FUNCTION

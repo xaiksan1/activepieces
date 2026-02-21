@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-61E081BD,EXECUTION_MODE,No description,CODE_JAVASCRIPT,code-sandbox.ts,4,FUNCTION
+MTH-9CDD7070,loadNoOpCodeSandbox,No description,CODE_JAVASCRIPT,code-sandbox.ts,6,FUNCTION
+MTH-8C1F5455,loadV8IsolateSandbox,No description,CODE_JAVASCRIPT,code-sandbox.ts,11,FUNCTION
+MTH-2F7073AB,loadCodeSandbox,No description,CODE_JAVASCRIPT,code-sandbox.ts,16,FUNCTION
+MTH-6532EBF8,initCodeSandbox,No description,CODE_JAVASCRIPT,code-sandbox.ts,29,FUNCTION
+MTH-68E65A8C,getIvm,No description,CODE_JAVASCRIPT,v8-isolate-code-sandbox.ts,9,FUNCTION
+MTH-6F3FBF2E,initIsolateContext,No description,CODE_JAVASCRIPT,v8-isolate-code-sandbox.ts,71,FUNCTION
+MTH-435961B2,executeIsolate,No description,CODE_JAVASCRIPT,v8-isolate-code-sandbox.ts,81,FUNCTION
+MTH-1DB9ACD5,serializeCodeModule,No description,CODE_JAVASCRIPT,v8-isolate-code-sandbox.ts,92,FUNCTION

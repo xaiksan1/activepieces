@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EEDC9404,DataTableInputPopover,No description,CODE_JAVASCRIPT,data-table-input-popover.tsx,17,FUNCTION
+MTH-56DE2ED8,DataTableSelectPopover,No description,CODE_JAVASCRIPT,data-table-select-popover.tsx,32,FUNCTION
+MTH-EEDBB011,DataTableSkeleton,No description,CODE_JAVASCRIPT,data-table-skeleton.tsx,3,FUNCTION
+MTH-9BD03B99,TableRowSkeleton,No description,CODE_JAVASCRIPT,data-table-skeleton.tsx,19,FUNCTION
+MTH-467FB4B2,DataTableToolbar,No description,CODE_JAVASCRIPT,data-table-toolbar.tsx,5,FUNCTION
+MTH-0DD8CB8A,enrichPageData,No description,CODE_JAVASCRIPT,index.tsx,158,FUNCTION
+MTH-D55C3495,resetSelection,No description,CODE_JAVASCRIPT,index.tsx,236,FUNCTION
+MTH-0229231F,clickedCellIndex,Check if the clicked cell is not clickable,CODE_JAVASCRIPT,index.tsx,312,FUNCTION
+MTH-0229231F,clickedCellIndex,"Similar check for auxiliary click (e.g., middle mouse button)",CODE_JAVASCRIPT,index.tsx,325,FUNCTION

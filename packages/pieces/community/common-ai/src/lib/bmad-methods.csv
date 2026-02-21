@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B5577BDB,getMetadataId,No description,CODE_JAVASCRIPT,ai-sdk.ts,25,FUNCTION
+MTH-B2871519,createHeaders,No description,CODE_JAVASCRIPT,ai-sdk.ts,36,FUNCTION
+MTH-DF5B0172,buildUserLocation,No description,CODE_JAVASCRIPT,ai-sdk.ts,101,FUNCTION
+MTH-F043BBD6,createWebSearchTool,No description,CODE_JAVASCRIPT,ai-sdk.ts,116,FUNCTION
+MTH-C2705100,models,No description,CODE_JAVASCRIPT,pieces-props.ts,86,FUNCTION

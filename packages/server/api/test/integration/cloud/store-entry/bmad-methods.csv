@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C6D2E0CD,makePostRequest,No description,CODE_JAVASCRIPT,store-entry-controller.test.ts,130,FUNCTION
+MTH-5FB9BC30,makeGetRequest,No description,CODE_JAVASCRIPT,store-entry-controller.test.ts,144,FUNCTION
+MTH-296A1F78,makeDeleteRequest,No description,CODE_JAVASCRIPT,store-entry-controller.test.ts,154,FUNCTION

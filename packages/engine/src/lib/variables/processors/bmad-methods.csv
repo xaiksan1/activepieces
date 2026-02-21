@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-D52B8EF1,getLongestArrayLengthInObject,No description,CODE_JAVASCRIPT,array-zipper.ts,4,FUNCTION
+MTH-636991A5,constructResultForIndex,No description,CODE_JAVASCRIPT,array-zipper.ts,12,FUNCTION
+MTH-3D44E4EB,handleBase64File,No description,CODE_JAVASCRIPT,file.ts,25,FUNCTION
+MTH-C5830E9E,handleUrlFile,No description,CODE_JAVASCRIPT,file.ts,42,FUNCTION
+MTH-F01969B4,getFileName,No description,CODE_JAVASCRIPT,file.ts,59,FUNCTION

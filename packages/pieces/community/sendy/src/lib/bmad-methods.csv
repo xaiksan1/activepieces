@@ -1,0 +1,15 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EC13A2F4,isSuccess,No description,CODE_JAVASCRIPT,api.ts,10,FUNCTION
+MTH-F2553319,sendyPostAPI,No description,CODE_JAVASCRIPT,api.ts,26,FUNCTION
+MTH-6E46D552,getBrands,No description,CODE_JAVASCRIPT,api.ts,64,FUNCTION
+MTH-F9F9ADBC,getLists,No description,CODE_JAVASCRIPT,api.ts,69,FUNCTION
+MTH-B67B7928,subscribe,No description,CODE_JAVASCRIPT,api.ts,74,FUNCTION
+MTH-01B64EB1,subscribeMultiple,No description,CODE_JAVASCRIPT,api.ts,80,FUNCTION
+MTH-DD950DC2,unsubscribe,No description,CODE_JAVASCRIPT,api.ts,89,FUNCTION
+MTH-C1FAF4BC,deleteSubscriber,delete is a reserved word,CODE_JAVASCRIPT,api.ts,96,FUNCTION
+MTH-F2E9D3E8,status,No description,CODE_JAVASCRIPT,api.ts,104,FUNCTION
+MTH-5E4E8361,count,No description,CODE_JAVASCRIPT,api.ts,109,FUNCTION
+MTH-C5D1B109,createCampaign,No description,CODE_JAVASCRIPT,api.ts,116,FUNCTION
+MTH-567A687A,validateAuth,No description,CODE_JAVASCRIPT,auth.ts,63,FUNCTION
+MTH-97D502AB,buildBrandDropdown,No description,CODE_JAVASCRIPT,props.ts,4,FUNCTION
+MTH-76E8BA8A,buildListDropdown,No description,CODE_JAVASCRIPT,props.ts,21,FUNCTION

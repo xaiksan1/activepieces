@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DA9F4BF0,getCorrectedFormat,No description,CODE_JAVASCRIPT,index.ts,66,FUNCTION
+MTH-E1F5BEAE,parseDate,No description,CODE_JAVASCRIPT,index.ts,69,FUNCTION

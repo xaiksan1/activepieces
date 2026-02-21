@@ -1,0 +1,21 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0798AD0F,checkIfFileExists,No description,CODE_JAVASCRIPT,files.ts,41,FUNCTION
+MTH-2AFA3DC9,writeJsonFile,No description,CODE_JAVASCRIPT,files.ts,55,FUNCTION
+MTH-424A2459,readPackageJson,No description,CODE_JAVASCRIPT,files.ts,60,FUNCTION
+MTH-903DDD64,readProjectJson,No description,CODE_JAVASCRIPT,files.ts,64,FUNCTION
+MTH-682B2F14,readPackageEslint,No description,CODE_JAVASCRIPT,files.ts,68,FUNCTION
+MTH-6AFBC8D6,writePackageEslint,No description,CODE_JAVASCRIPT,files.ts,72,FUNCTION
+MTH-E9A15343,writeProjectJson,No description,CODE_JAVASCRIPT,files.ts,79,FUNCTION
+MTH-96E87729,makeFolderRecursive,No description,CODE_JAVASCRIPT,files.ts,86,FUNCTION
+MTH-36DCFF39,piecesPath,No description,CODE_JAVASCRIPT,piece-utils.ts,11,FUNCTION
+MTH-06E5B819,customPiecePath,No description,CODE_JAVASCRIPT,piece-utils.ts,12,FUNCTION
+MTH-BF501E42,findPieces,No description,CODE_JAVASCRIPT,piece-utils.ts,21,FUNCTION
+MTH-09C15E21,findPiece,No description,CODE_JAVASCRIPT,piece-utils.ts,46,FUNCTION
+MTH-31BA63EF,buildPiece,No description,CODE_JAVASCRIPT,piece-utils.ts,50,FUNCTION
+MTH-3A65E3F3,buildPackage,No description,CODE_JAVASCRIPT,piece-utils.ts,65,FUNCTION
+MTH-73E1EF0B,publishPieceFromFolder,No description,CODE_JAVASCRIPT,piece-utils.ts,72,FUNCTION
+MTH-745AE603,traverseFolder,No description,CODE_JAVASCRIPT,piece-utils.ts,129,FUNCTION
+MTH-2C0429F4,displayNameToKebabCase,No description,CODE_JAVASCRIPT,piece-utils.ts,150,FUNCTION
+MTH-C630DB6E,displayNameToCamelCase,No description,CODE_JAVASCRIPT,piece-utils.ts,154,FUNCTION
+MTH-C2318483,assertPieceExists,No description,CODE_JAVASCRIPT,piece-utils.ts,166,FUNCTION
+MTH-235D799E,removeStartingSlashes,No description,CODE_JAVASCRIPT,piece-utils.ts,174,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-ABF4439D,getFilesRecursively,No description,CODE_JAVASCRIPT,list-files.action.ts,21,FUNCTION

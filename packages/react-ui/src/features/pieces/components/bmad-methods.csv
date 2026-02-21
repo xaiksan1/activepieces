@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-350FAF79,InstallPieceDialog,No description,CODE_JAVASCRIPT,install-piece-dialog.tsx,67,FUNCTION
+MTH-821E1D8A,handleArchiveUpload,No description,CODE_JAVASCRIPT,install-piece-dialog.tsx,87,FUNCTION
+MTH-3697BB04,PieceDisplayName,No description,CODE_JAVASCRIPT,piece-display-name.tsx,8,FUNCTION
+MTH-9C1C2EC2,PieceIconWithPieceName,No description,CODE_JAVASCRIPT,piece-icon-from-name.tsx,13,FUNCTION
+MTH-81A55A08,PieceIconList,No description,CODE_JAVASCRIPT,piece-icon-list.tsx,32,FUNCTION
+MTH-FEDE94BC,PiecesSearchInput,No description,CODE_JAVASCRIPT,piece-selector-search.tsx,18,FUNCTION
+MTH-A8D4CDE5,PieceSelectorTabs,No description,CODE_JAVASCRIPT,piece-selector-tabs.tsx,16,FUNCTION

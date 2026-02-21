@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5DA603B8,federatedAuthnService,No description,CODE_JAVASCRIPT,federated-authn-service.ts,14,FUNCTION
+MTH-41B0D2E7,getClientIdAndSecret,No description,CODE_JAVASCRIPT,federated-authn-service.ts,61,FUNCTION
+MTH-25429FD8,googleAuthnProvider,No description,CODE_JAVASCRIPT,google-authn-provider.ts,17,FUNCTION
+MTH-6C41B92C,exchangeCodeForIdToken,No description,CODE_JAVASCRIPT,google-authn-provider.ts,47,FUNCTION
+MTH-D946F675,verifyIdToken,No description,CODE_JAVASCRIPT,google-authn-provider.ts,72,FUNCTION

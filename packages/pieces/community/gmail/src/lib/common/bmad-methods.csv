@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-25B4273A,decodeBase64,No description,CODE_JAVASCRIPT,data.ts,185,FUNCTION
+MTH-1E4D9BB6,parseStream,No description,CODE_JAVASCRIPT,data.ts,189,FUNCTION
+MTH-4B813FB9,convertAttachment,No description,CODE_JAVASCRIPT,data.ts,201,FUNCTION

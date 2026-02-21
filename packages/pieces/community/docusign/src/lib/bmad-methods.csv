@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-32480197,createApiClient,No description,CODE_JAVASCRIPT,common.ts,4,FUNCTION

@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BDA3E68A,AIProviderCard,No description,CODE_JAVASCRIPT,ai-provider-card.tsx,20,FUNCTION
+MTH-3FBAEDD1,UpsertAIProviderDialog,No description,CODE_JAVASCRIPT,upsert-provider-dialog.tsx,44,FUNCTION

@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F7E73A13,CreateReleaseDialogContent,No description,CODE_JAVASCRIPT,index.tsx,64,FUNCTION
+MTH-91018338,handleSelectAll,No description,CODE_JAVASCRIPT,index.tsx,132,FUNCTION
+MTH-A6C9CB96,CreateReleaseDialog,No description,CODE_JAVASCRIPT,index.tsx,416,FUNCTION
+MTH-044D0240,renderDiffInfo,No description,CODE_JAVASCRIPT,operation-change.tsx,10,FUNCTION

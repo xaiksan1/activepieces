@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CF1B06A8,generateRazorpayAuthHeader,No description,CODE_JAVASCRIPT,utils.ts,6,FUNCTION

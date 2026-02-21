@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-952376C6,createMcpServer,No description,CODE_JAVASCRIPT,mcp-server.ts,35,FUNCTION
+MTH-F2CE3F61,initializeOpenAIModel,No description,CODE_JAVASCRIPT,mcp-server.ts,61,FUNCTION
+MTH-D96FF6D8,addPieceToServer,No description,CODE_JAVASCRIPT,mcp-server.ts,93,FUNCTION
+MTH-C8AAA596,addFlowToServer,No description,CODE_JAVASCRIPT,mcp-server.ts,215,FUNCTION
+MTH-9B04EEB1,isOkSuccess,No description,CODE_JAVASCRIPT,mcp-server.ts,324,FUNCTION
+MTH-28FAB517,trackToolCall,No description,CODE_JAVASCRIPT,mcp-server.ts,328,FUNCTION
+MTH-B02E3FF6,mcpSessionManager,No description,CODE_JAVASCRIPT,mcp-session-manager.ts,17,FUNCTION
+MTH-AA031B2E,constructSessionKey,No description,CODE_JAVASCRIPT,mcp-session-manager.ts,77,FUNCTION
+MTH-06D43328,get,No description,CODE_JAVASCRIPT,mcp-session-manager.ts,81,FUNCTION
+MTH-A1B39AB7,remove,No description,CODE_JAVASCRIPT,mcp-session-manager.ts,85,FUNCTION
+MTH-3F331305,handleStreamableHttpRequest,No description,CODE_JAVASCRIPT,mcp-sse-controller.ts,42,FUNCTION
+MTH-687BCE57,handleSSERequest,No description,CODE_JAVASCRIPT,mcp-sse-controller.ts,84,FUNCTION

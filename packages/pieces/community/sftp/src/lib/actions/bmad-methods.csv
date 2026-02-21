@@ -1,0 +1,15 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-04BE117C,createFileWithSFTP,No description,CODE_JAVASCRIPT,create-file.ts,7,FUNCTION
+MTH-95B23449,createFileWithFTP,No description,CODE_JAVASCRIPT,create-file.ts,18,FUNCTION
+MTH-41CDAF10,deleteFileFromFTP,No description,CODE_JAVASCRIPT,delete-file.ts,6,FUNCTION
+MTH-C7F72C23,deleteFileFromSFTP,No description,CODE_JAVASCRIPT,delete-file.ts,10,FUNCTION
+MTH-E82EB381,deleteFolderFTP,No description,CODE_JAVASCRIPT,delete-folder.ts,6,FUNCTION
+MTH-7E50DA20,deleteFolderSFTP,No description,CODE_JAVASCRIPT,delete-folder.ts,14,FUNCTION
+MTH-41975265,listSFTP,No description,CODE_JAVASCRIPT,list-files.ts,7,FUNCTION
+MTH-2A030EF0,listFTP,No description,CODE_JAVASCRIPT,list-files.ts,13,FUNCTION
+MTH-775CA01B,readFTP,No description,CODE_JAVASCRIPT,read-file.ts,8,FUNCTION
+MTH-1E49BF36,readSFTP,No description,CODE_JAVASCRIPT,read-file.ts,20,FUNCTION
+MTH-776809CB,renameFTP,No description,CODE_JAVASCRIPT,rename-file-or-folder.ts,8,FUNCTION
+MTH-C9E42A85,renameSFTP,No description,CODE_JAVASCRIPT,rename-file-or-folder.ts,12,FUNCTION
+MTH-BCCFB8CB,uploadFileToFTP,No description,CODE_JAVASCRIPT,upload-file.ts,7,FUNCTION
+MTH-092A3FBC,uploadFileToSFTP,No description,CODE_JAVASCRIPT,upload-file.ts,13,FUNCTION

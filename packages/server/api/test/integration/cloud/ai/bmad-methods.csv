@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-637BBD5B,totalCost,assert,CODE_JAVASCRIPT,proxy.test.ts,916,FUNCTION
+MTH-637BBD5B,totalCost,assert,CODE_JAVASCRIPT,proxy.test.ts,968,FUNCTION
+MTH-637BBD5B,totalCost,assert,CODE_JAVASCRIPT,proxy.test.ts,1020,FUNCTION
+MTH-4B8D9855,pollForAIUsage,No description,CODE_JAVASCRIPT,proxy.test.ts,1035,FUNCTION

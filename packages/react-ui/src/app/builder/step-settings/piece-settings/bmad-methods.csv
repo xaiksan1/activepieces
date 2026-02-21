@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9A3DD953,addBrackets,No description,CODE_JAVASCRIPT,connection-select.tsx,38,FUNCTION
+MTH-55820398,removeBrackets,No description,CODE_JAVASCRIPT,connection-select.tsx,39,FUNCTION
+MTH-AEFCEDFC,removeAuthFromProps,No description,CODE_JAVASCRIPT,index.tsx,25,FUNCTION
+MTH-5DEF4F9F,actionName,No description,CODE_JAVASCRIPT,index.tsx,35,FUNCTION
+MTH-827C93A1,triggerName,No description,CODE_JAVASCRIPT,index.tsx,39,FUNCTION

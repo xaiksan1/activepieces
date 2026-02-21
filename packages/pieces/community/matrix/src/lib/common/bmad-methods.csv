@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-93721D06,getRoomId,No description,CODE_JAVASCRIPT,common.ts,9,FUNCTION
+MTH-BF84AD05,sendMessage,No description,CODE_JAVASCRIPT,common.ts,28,FUNCTION

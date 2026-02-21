@@ -1,0 +1,15 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-DCC399CF,migrationRan,No description,CODE_JAVASCRIPT,1692056190942-AddTagsToRunSqlite.ts,84,FUNCTION
+MTH-08FF4D9A,migrationRan,No description,CODE_JAVASCRIPT,1692958076906-AddStepFileSqlite.ts,58,FUNCTION
+MTH-04859D81,migrationRan,No description,CODE_JAVASCRIPT,1693402376520-AddStatusToConnectionsSqlite.ts,54,FUNCTION
+MTH-4F34152E,migrationRan,No description,CODE_JAVASCRIPT,1696029443045-AddChatBotSqlite.ts,40,FUNCTION
+MTH-24CCC78A,migrationRan,No description,CODE_JAVASCRIPT,1698323327318-AddTerminationReason.ts,221,FUNCTION
+MTH-639CE427,migrationRan,No description,CODE_JAVASCRIPT,1698857968495-AddExternalIdSqlite.ts,238,FUNCTION
+MTH-27107D21,migrateProjects,No description,CODE_JAVASCRIPT,1709051625110-CreateDefaultPlaformSqlite.ts,770,FUNCTION
+MTH-22667A11,isNil,No description,CODE_JAVASCRIPT,1748365593414-AddMcpToolEntitySQLITE.ts,77,FUNCTION
+MTH-E26CD515,isMcpTriggerPiece,No description,CODE_JAVASCRIPT,1748365593414-AddMcpToolEntitySQLITE.ts,81,FUNCTION
+MTH-7731B0AE,AddMcpPieceTools,No description,CODE_JAVASCRIPT,1748365593414-AddMcpToolEntitySQLITE.ts,316,FUNCTION
+MTH-BB00CE44,AddMcpFlowTools,No description,CODE_JAVASCRIPT,1748365593414-AddMcpToolEntitySQLITE.ts,363,FUNCTION
+MTH-C67A0D19,insertScheduleFromFlowsMigration,No description,CODE_JAVASCRIPT,1754477404726-AddTriggerSqlite.ts,482,FUNCTION
+MTH-5DE9537F,migrateSingleFlow,No description,CODE_JAVASCRIPT,1754477404726-AddTriggerSqlite.ts,502,FUNCTION
+MTH-22DC6C10,param,"For sqlite, use '?', for postgres, use '$1', '$2', etc.",CODE_JAVASCRIPT,1754477404726-AddTriggerSqlite.ts,508,FUNCTION

@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C941633A,createMockPlatformTemplate,No description,CODE_JAVASCRIPT,flow-templates.test.ts,198,FUNCTION

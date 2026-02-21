@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E2817AB9,makeRequest,No description,CODE_JAVASCRIPT,index.ts,8,FUNCTION
+MTH-EDF1C72C,pipelineDropdown,No description,CODE_JAVASCRIPT,props.ts,10,FUNCTION
+MTH-A361A7B9,statusDropdown,No description,CODE_JAVASCRIPT,props.ts,40,FUNCTION
+MTH-5C94D8B9,userDropdown,No description,CODE_JAVASCRIPT,props.ts,74,FUNCTION
+MTH-D69CDB11,lossReasonDropdown,No description,CODE_JAVASCRIPT,props.ts,102,FUNCTION

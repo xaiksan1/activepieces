@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-F914B3EA,linkCount,No description,CODE_JAVASCRIPT,list-links.ts,106,FUNCTION
+MTH-AC21DA15,hasNextPage,No description,CODE_JAVASCRIPT,list-links.ts,107,FUNCTION

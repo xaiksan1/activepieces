@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5B581A3B,queryKeys,No description,CODE_JAVASCRIPT,table-hooks.ts,12,FUNCTION
+MTH-4C5A2E47,getColumnIcon,No description,CODE_JAVASCRIPT,utils.tsx,10,FUNCTION
+MTH-7B919780,getCsvContent,No description,CODE_JAVASCRIPT,utils.tsx,24,FUNCTION
+MTH-838788CA,exportTables,No description,CODE_JAVASCRIPT,utils.tsx,40,FUNCTION
+MTH-66B77190,exportRecords,No description,CODE_JAVASCRIPT,utils.tsx,62,FUNCTION

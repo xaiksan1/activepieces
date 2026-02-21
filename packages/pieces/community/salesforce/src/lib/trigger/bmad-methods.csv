@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-5C1E648A,getRecords,No description,CODE_JAVASCRIPT,new-record.ts,84,FUNCTION
+MTH-745DD7E4,constructQuery,No description,CODE_JAVASCRIPT,new-record.ts,100,FUNCTION
+MTH-5C9D81B7,getRecords,No description,CODE_JAVASCRIPT,new-updated-record.ts,79,FUNCTION
+MTH-41B4D112,constructQuery,No description,CODE_JAVASCRIPT,new-updated-record.ts,95,FUNCTION

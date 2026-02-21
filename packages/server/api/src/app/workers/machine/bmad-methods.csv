@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-51744DE8,machineService,No description,CODE_JAVASCRIPT,machine-service.ts,23,FUNCTION

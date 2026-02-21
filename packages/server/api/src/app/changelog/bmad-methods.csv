@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B448750D,changelogService,No description,CODE_JAVASCRIPT,changelog.service.ts,19,FUNCTION
+MTH-385D371A,getChangelog,No description,CODE_JAVASCRIPT,changelog.service.ts,37,FUNCTION
+MTH-E3D7BDA2,getChangelogFeaturebaseRequest,No description,CODE_JAVASCRIPT,changelog.service.ts,55,FUNCTION
+MTH-F36B6661,getChangelogActivepiecesRequest,No description,CODE_JAVASCRIPT,changelog.service.ts,109,FUNCTION

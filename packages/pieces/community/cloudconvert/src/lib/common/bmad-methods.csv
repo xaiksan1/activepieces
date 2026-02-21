@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-65533EE3,outputFormatDropdown,No description,CODE_JAVASCRIPT,properties.ts,4,FUNCTION
+MTH-7D7A8FD3,inputFormatDropdown,No description,CODE_JAVASCRIPT,properties.ts,79,FUNCTION
+MTH-2C46ECDB,engineDropdown,No description,CODE_JAVASCRIPT,properties.ts,138,FUNCTION
+MTH-054C5E5C,convertFileProps,No description,CODE_JAVASCRIPT,properties.ts,176,FUNCTION

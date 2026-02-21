@@ -1,0 +1,16 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E25E4F20,commitAndPush,No description,CODE_JAVASCRIPT,git-helper.ts,19,FUNCTION
+MTH-A30AA6A2,createGitRepoAndReturnPaths,No description,CODE_JAVASCRIPT,git-helper.ts,29,FUNCTION
+MTH-C90DBFAF,createOrGetSshKeyPath,No description,CODE_JAVASCRIPT,git-helper.ts,97,FUNCTION
+MTH-405D65BE,initGitRepo,No description,CODE_JAVASCRIPT,git-helper.ts,103,FUNCTION
+MTH-28A65A57,validateConnection,No description,CODE_JAVASCRIPT,git-helper.ts,120,FUNCTION
+MTH-F24921AC,gitSyncHandler,No description,CODE_JAVASCRIPT,git-sync-handler.ts,17,FUNCTION
+MTH-EB164FE2,listAgentsByExternalIds,No description,CODE_JAVASCRIPT,git-sync-handler.ts,150,FUNCTION
+MTH-660605FA,listTablesByExternalIds,No description,CODE_JAVASCRIPT,git-sync-handler.ts,158,FUNCTION
+MTH-6EA5AC8B,listFlowsByExternalIds,No description,CODE_JAVASCRIPT,git-sync-handler.ts,180,FUNCTION
+MTH-2B43C8EF,gitSyncHelper,No description,CODE_JAVASCRIPT,git-sync-helper.ts,12,FUNCTION
+MTH-882E8216,readFlowsFromGit,No description,CODE_JAVASCRIPT,git-sync-helper.ts,108,FUNCTION
+MTH-C34B1300,readConnectionsFromGit,No description,CODE_JAVASCRIPT,git-sync-helper.ts,119,FUNCTION
+MTH-688CB159,readTablesFromGit,No description,CODE_JAVASCRIPT,git-sync-helper.ts,131,FUNCTION
+MTH-0F8E3BE4,readAgentsFromGit,No description,CODE_JAVASCRIPT,git-sync-helper.ts,144,FUNCTION
+MTH-64363B1E,gitRepoService,No description,CODE_JAVASCRIPT,git-sync.service.ts,29,FUNCTION

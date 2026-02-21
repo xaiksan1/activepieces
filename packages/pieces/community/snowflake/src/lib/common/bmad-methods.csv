@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-26B117C9,formatPrivateKey,No description,CODE_JAVASCRIPT,index.ts,12,FUNCTION
+MTH-124059BF,configureConnection,No description,CODE_JAVASCRIPT,index.ts,26,FUNCTION
+MTH-35FC4E0D,connect,No description,CODE_JAVASCRIPT,index.ts,51,FUNCTION
+MTH-B81DEC5E,destroy,No description,CODE_JAVASCRIPT,index.ts,63,FUNCTION
+MTH-AC967DE0,execute,No description,CODE_JAVASCRIPT,index.ts,75,FUNCTION

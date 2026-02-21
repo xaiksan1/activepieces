@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-1EFC6CCD,inboundAssistantDropdown,No description,CODE_JAVASCRIPT,inbound-call.ts,5,FUNCTION
+MTH-3F87F666,assistantDropdownForWebhook,No description,CODE_JAVASCRIPT,phone-call-ended.ts,5,FUNCTION

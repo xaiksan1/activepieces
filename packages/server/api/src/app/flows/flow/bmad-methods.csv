@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-97493DAA,flowSideEffects,No description,CODE_JAVASCRIPT,flow-service-side-effects.ts,12,FUNCTION
+MTH-C84D00B1,cleanOperation,No description,CODE_JAVASCRIPT,flow.controller.ts,167,FUNCTION
+MTH-A70124A7,assertThatFlowIsNotBeingUsed,No description,CODE_JAVASCRIPT,flow.controller.ts,206,FUNCTION
+MTH-423345ED,flowService,No description,CODE_JAVASCRIPT,flow.service.ts,43,FUNCTION
+MTH-31017E27,populatedFlows,No description,CODE_JAVASCRIPT,flow.service.ts,151,FUNCTION
+MTH-29996A5D,lockFlowVersionIfNotLocked,No description,CODE_JAVASCRIPT,flow.service.ts,557,FUNCTION
+MTH-56491EA4,getFolderIdFromRequest,No description,CODE_JAVASCRIPT,flow.service.ts,585,FUNCTION

@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4C7FA34B,emptyValueFilter,No description,CODE_JAVASCRIPT,client.ts,27,FUNCTION
+MTH-C9FF6A84,prepareQuery,No description,CODE_JAVASCRIPT,client.ts,40,FUNCTION
+MTH-1545183F,makeClient,No description,CODE_JAVASCRIPT,index.ts,5,FUNCTION
+MTH-926D60D3,mapItemsToOptions,No description,CODE_JAVASCRIPT,index.ts,11,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E13BF1F9,accessToken,No description,CODE_JAVASCRIPT,props.ts,90,FUNCTION
+MTH-D8B33B41,getChannels,No description,CODE_JAVASCRIPT,props.ts,144,FUNCTION
+MTH-2DECD1EB,requestAction,No description,CODE_JAVASCRIPT,request-action.ts,9,FUNCTION
+MTH-B529E9FE,slackSendMessage,No description,CODE_JAVASCRIPT,utils.ts,4,FUNCTION
+MTH-25C537B6,processMessageTimestamp,No description,CODE_JAVASCRIPT,utils.ts,59,FUNCTION
+MTH-63E80FB1,getFirstFiveOrAll,No description,CODE_JAVASCRIPT,utils.ts,79,FUNCTION
+MTH-47FA9A69,parseCommand,No description,CODE_JAVASCRIPT,utils.ts,90,FUNCTION

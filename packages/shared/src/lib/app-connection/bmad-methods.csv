@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6D8DC225,resolveValueFromProps,No description,CODE_JAVASCRIPT,app-connection.ts,141,FUNCTION

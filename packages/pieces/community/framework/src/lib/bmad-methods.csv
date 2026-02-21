@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-3F8A61BC,translateProperty,No description,CODE_JAVASCRIPT,i18n.ts,79,FUNCTION
+MTH-DF0EB6E3,fileExists,No description,CODE_JAVASCRIPT,i18n.ts,98,FUNCTION
+MTH-B183AA05,readLocaleFile,No description,CODE_JAVASCRIPT,i18n.ts,107,FUNCTION

@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4FAB3F47,getMimeType,No description,CODE_JAVASCRIPT,get-file-content.ts,11,FUNCTION
+MTH-F5B73460,mimeType,No description,CODE_JAVASCRIPT,get-file-content.ts,15,FUNCTION
+MTH-B01BFB16,googledlCall,No description,CODE_JAVASCRIPT,get-file-content.ts,28,FUNCTION
+MTH-CFA51348,downloadFileFromDrive,No description,CODE_JAVASCRIPT,get-file-content.ts,69,FUNCTION

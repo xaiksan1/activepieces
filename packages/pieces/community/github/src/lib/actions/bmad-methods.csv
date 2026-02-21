@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-93C3948D,status,No description,CODE_JAVASCRIPT,find-branch.ts,35,FUNCTION
+MTH-41DEE915,status,No description,CODE_JAVASCRIPT,find-user.ts,34,FUNCTION

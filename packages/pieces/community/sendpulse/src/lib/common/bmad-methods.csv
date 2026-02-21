@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-4CD4FED8,getAccessToken,No description,CODE_JAVASCRIPT,client.ts,17,FUNCTION

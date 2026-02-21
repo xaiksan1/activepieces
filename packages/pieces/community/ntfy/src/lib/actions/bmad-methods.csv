@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C33234B3,encodeToRFC2047,No description,CODE_JAVASCRIPT,send-notification.ts,9,FUNCTION

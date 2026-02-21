@@ -1,0 +1,10 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9B5445E9,getEmailSenderInstance,No description,CODE_JAVASCRIPT,email-sender.ts,12,FUNCTION
+MTH-4AF9AE6A,emailSender,No description,CODE_JAVASCRIPT,email-sender.ts,21,FUNCTION
+MTH-EEBDED7E,logEmailSender,No description,CODE_JAVASCRIPT,log-email-sender.ts,7,FUNCTION
+MTH-4F5E1591,smtpEmailSender,No description,CODE_JAVASCRIPT,smtp-email-sender.ts,19,FUNCTION
+MTH-6D64B23D,isConfigured,No description,CODE_JAVASCRIPT,smtp-email-sender.ts,65,FUNCTION
+MTH-ACF01962,getPlatform,No description,CODE_JAVASCRIPT,smtp-email-sender.ts,77,FUNCTION
+MTH-76573C86,renderEmailBody,No description,CODE_JAVASCRIPT,smtp-email-sender.ts,81,FUNCTION
+MTH-E7102350,initSmtpClient,No description,CODE_JAVASCRIPT,smtp-email-sender.ts,115,FUNCTION
+MTH-531D6873,getEmailSubject,No description,CODE_JAVASCRIPT,smtp-email-sender.ts,128,FUNCTION

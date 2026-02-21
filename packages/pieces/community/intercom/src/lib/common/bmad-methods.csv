@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6269A282,intercomClient,No description,CODE_JAVASCRIPT,index.ts,9,FUNCTION
+MTH-08A1EA0E,conversationIdProp,No description,CODE_JAVASCRIPT,props.ts,11,FUNCTION
+MTH-1779166A,tagIdProp,No description,CODE_JAVASCRIPT,props.ts,47,FUNCTION
+MTH-1109AC93,companyIdProp,No description,CODE_JAVASCRIPT,props.ts,81,FUNCTION
+MTH-43AFBDA7,contactIdProp,No description,CODE_JAVASCRIPT,props.ts,115,FUNCTION
+MTH-3E5637DF,collectionIdProp,No description,CODE_JAVASCRIPT,props.ts,151,FUNCTION
+MTH-8FDF5337,ticketTypeIdProp,No description,CODE_JAVASCRIPT,props.ts,185,FUNCTION
+MTH-E4567397,ticketStateIdProp,No description,CODE_JAVASCRIPT,props.ts,225,FUNCTION
+MTH-67BB9354,ticketIdProp,No description,CODE_JAVASCRIPT,props.ts,269,FUNCTION
+MTH-0480C634,ticketPropertiesProp,No description,CODE_JAVASCRIPT,props.ts,311,FUNCTION

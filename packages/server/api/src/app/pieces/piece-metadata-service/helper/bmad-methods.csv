@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2D7AC0BD,localPieceCache,No description,CODE_JAVASCRIPT,local-piece-cache.ts,19,FUNCTION
+MTH-923FE6D8,requireUpdate,No description,CODE_JAVASCRIPT,local-piece-cache.ts,44,FUNCTION

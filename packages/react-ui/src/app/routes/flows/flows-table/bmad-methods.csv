@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-7AE47358,flowsTableColumns,No description,CODE_JAVASCRIPT,columns.tsx,25,FUNCTION
+MTH-A8C2D2FC,FlowsTable,No description,CODE_JAVASCRIPT,index.tsx,25,FUNCTION
+MTH-24C0504D,handleRefetch,No description,CODE_JAVASCRIPT,index.tsx,71,FUNCTION

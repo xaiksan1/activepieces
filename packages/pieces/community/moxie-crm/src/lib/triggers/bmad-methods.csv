@@ -1,0 +1,2 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-096FE069,moxieCRMRegisterTrigger,No description,CODE_JAVASCRIPT,register-trigger.ts,8,FUNCTION

@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-78C14E23,pieceSyncService,No description,CODE_JAVASCRIPT,piece-sync-service.ts,20,FUNCTION
+MTH-09AB3775,syncPiecesJobHandler,No description,CODE_JAVASCRIPT,piece-sync-service.ts,26,FUNCTION
+MTH-55547E51,syncPiece,No description,CODE_JAVASCRIPT,piece-sync-service.ts,65,FUNCTION
+MTH-BF326F91,existsInDatabase,No description,CODE_JAVASCRIPT,piece-sync-service.ts,86,FUNCTION
+MTH-0386F38F,getVersions,No description,CODE_JAVASCRIPT,piece-sync-service.ts,95,FUNCTION
+MTH-E59D76C1,getOrThrow,No description,CODE_JAVASCRIPT,piece-sync-service.ts,105,FUNCTION
+MTH-0C48A9C7,listPieces,No description,CODE_JAVASCRIPT,piece-sync-service.ts,112,FUNCTION

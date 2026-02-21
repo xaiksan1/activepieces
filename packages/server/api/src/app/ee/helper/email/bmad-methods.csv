@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CA7C6A87,emailService,No description,CODE_JAVASCRIPT,email-service.ts,19,FUNCTION
+MTH-D7770E1F,getEntityNameForInvitation,No description,CODE_JAVASCRIPT,email-service.ts,248,FUNCTION
+MTH-810C249B,capitalizeFirstLetter,No description,CODE_JAVASCRIPT,email-service.ts,273,FUNCTION

@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-0539631F,connectionKeyService,No description,CODE_JAVASCRIPT,connection-key.service.ts,35,FUNCTION
+MTH-FE8EE24A,getConnectioName,No description,CODE_JAVASCRIPT,connection-key.service.ts,190,FUNCTION
+MTH-E0017EDC,decodeTokenOrNull,No description,CODE_JAVASCRIPT,connection-key.service.ts,212,FUNCTION

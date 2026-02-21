@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-BDEAB309,AddFieldPopover,No description,CODE_JAVASCRIPT,add-field-popover.tsx,30,FUNCTION
+MTH-24642408,handleAdd,No description,CODE_JAVASCRIPT,add-field-popover.tsx,38,FUNCTION
+MTH-28A3B14B,FieldTypeIcon,No description,CODE_JAVASCRIPT,field-type-icon.tsx,14,FUNCTION
+MTH-30D207AB,AgentStructuredOutput,No description,CODE_JAVASCRIPT,index.tsx,13,FUNCTION
+MTH-DA576C7C,handleToggleStructuredOutput,No description,CODE_JAVASCRIPT,index.tsx,22,FUNCTION
+MTH-5D6DBBC7,handleAddField,No description,CODE_JAVASCRIPT,index.tsx,31,FUNCTION
+MTH-1CF1358D,handleRemoveField,No description,CODE_JAVASCRIPT,index.tsx,47,FUNCTION

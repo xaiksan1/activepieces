@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-6F7742EC,main,No description,CODE_JAVASCRIPT,format-checkly-report.js,3,FUNCTION
+MTH-9705A89A,readProjectJson,Function to read project.json file and extract name attribute,CODE_JAVASCRIPT,move-pieces.js,9,FUNCTION
+MTH-6D1224A4,listPackagesInFolders,Function to list packages/pieces in each folder,CODE_JAVASCRIPT,move-pieces.js,17,FUNCTION
+MTH-5C078B52,main,No description,CODE_JAVASCRIPT,validate-publishable-packages.ts,4,FUNCTION

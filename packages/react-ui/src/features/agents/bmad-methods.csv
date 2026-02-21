@@ -1,0 +1,11 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-C02B351B,handleDeleteClick,No description,CODE_JAVASCRIPT,agent-card-menu.tsx,26,FUNCTION
+MTH-ABDD0D82,handleSave,No description,CODE_JAVASCRIPT,agent-card.tsx,30,FUNCTION
+MTH-722F0CEE,getAgentProfilePictureUrl,No description,CODE_JAVASCRIPT,agent-image-loading.tsx,3,FUNCTION
+MTH-064EED62,AgentImageLoading,No description,CODE_JAVASCRIPT,agent-image-loading.tsx,13,FUNCTION
+MTH-A3A29920,AgentRunDialog,No description,CODE_JAVASCRIPT,agent-run-dialog.tsx,19,FUNCTION
+MTH-609F5F8B,parseJsonOrReturnOriginal,No description,CODE_JAVASCRIPT,agent-tool-block.tsx,37,FUNCTION
+MTH-A1B3075A,AgentToolBlock,No description,CODE_JAVASCRIPT,agent-tool-block.tsx,47,FUNCTION
+MTH-C034EE7E,CreateAgentButton,No description,CODE_JAVASCRIPT,create-agent-button.tsx,22,FUNCTION
+MTH-D6EE3074,handleCreateAgent,No description,CODE_JAVASCRIPT,create-agent-button.tsx,32,FUNCTION
+MTH-4591EC36,handleConfigureClick,No description,CODE_JAVASCRIPT,create-agent-button.tsx,45,FUNCTION

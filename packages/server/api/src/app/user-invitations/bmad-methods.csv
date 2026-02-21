@@ -1,0 +1,8 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-E06EC5B2,getProjectRoleAndAssertIfFound,No description,CODE_JAVASCRIPT,user-invitation.module.ts,117,FUNCTION
+MTH-EDB8F8E3,getProjectIdAndAssertPermission,No description,CODE_JAVASCRIPT,user-invitation.module.ts,131,FUNCTION
+MTH-00E50FD6,assertPrincipalHasPermissionToProject,No description,CODE_JAVASCRIPT,user-invitation.module.ts,143,FUNCTION
+MTH-0D84B41D,userInvitationsService,No description,CODE_JAVASCRIPT,user-invitation.service.ts,21,FUNCTION
+MTH-87BAC75B,getOrCreateUser,No description,CODE_JAVASCRIPT,user-invitation.service.ts,230,FUNCTION
+MTH-AA58FD60,generateInvitationLink,No description,CODE_JAVASCRIPT,user-invitation.service.ts,244,FUNCTION
+MTH-86C885E6,enrichWithInvitationLink,No description,CODE_JAVASCRIPT,user-invitation.service.ts,258,FUNCTION

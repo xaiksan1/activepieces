@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-61B5555E,items,No description,CODE_JAVASCRIPT,new-video.trigger.ts,228,FUNCTION
+MTH-61B5555E,items,No description,CODE_JAVASCRIPT,new-video.trigger.ts,242,FUNCTION
+MTH-FD1E86CF,getUpdateDate,No description,CODE_JAVASCRIPT,new-video.trigger.ts,283,FUNCTION
+MTH-4FEDCD52,getChannelId,No description,CODE_JAVASCRIPT,new-video.trigger.ts,291,FUNCTION
+MTH-13F6C588,getRssItems,No description,CODE_JAVASCRIPT,new-video.trigger.ts,313,FUNCTION

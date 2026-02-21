@@ -1,0 +1,5 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-CBF1E5A3,getComments,No description,CODE_JAVASCRIPT,new-comment.ts,124,FUNCTION
+MTH-E0A23274,getResponse,No description,CODE_JAVASCRIPT,new-database-item.ts,153,FUNCTION
+MTH-FA4D2EA0,getResponse,No description,CODE_JAVASCRIPT,updated-database-item.ts,154,FUNCTION
+MTH-39F640E0,getUpdatedPages,No description,CODE_JAVASCRIPT,updated-page.ts,129,FUNCTION

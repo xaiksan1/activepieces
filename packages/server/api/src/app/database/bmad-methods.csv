@@ -1,0 +1,17 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9EAC3348,isPostgres,No description,CODE_JAVASCRIPT,database-common.ts,23,FUNCTION
+MTH-F206678F,isNotOneOfTheseEditions,No description,CODE_JAVASCRIPT,database-common.ts,49,FUNCTION
+MTH-E6F741B6,getEntities,No description,CODE_JAVASCRIPT,database-connection.ts,72,FUNCTION
+MTH-A11B99E8,databaseConnection,No description,CODE_JAVASCRIPT,database-connection.ts,156,FUNCTION
+MTH-DEEA7389,getDatabaseType,No description,CODE_JAVASCRIPT,database-connection.ts,165,FUNCTION
+MTH-A5316DCD,initializeDatabase,No description,CODE_JAVASCRIPT,index.ts,4,FUNCTION
+MTH-744644AC,getSslConfig,No description,CODE_JAVASCRIPT,postgres-connection.ts,274,FUNCTION
+MTH-22705CB9,getMigrations,No description,CODE_JAVASCRIPT,postgres-connection.ts,284,FUNCTION
+MTH-724130E4,createPostgresDataSource,No description,CODE_JAVASCRIPT,postgres-connection.ts,577,FUNCTION
+MTH-92FA232B,getSqliteDatabaseFilePath,No description,CODE_JAVASCRIPT,sqlite-connection.ts,153,FUNCTION
+MTH-4AE70A30,getSqliteDatabaseInMemory,No description,CODE_JAVASCRIPT,sqlite-connection.ts,159,FUNCTION
+MTH-D48613E3,getSqliteDatabase,No description,CODE_JAVASCRIPT,sqlite-connection.ts,163,FUNCTION
+MTH-ABF37F8C,getMigrations,No description,CODE_JAVASCRIPT,sqlite-connection.ts,172,FUNCTION
+MTH-F0E6E329,getMigrationConfig,No description,CODE_JAVASCRIPT,sqlite-connection.ts,325,FUNCTION
+MTH-44BCDCA8,getSynchronize,No description,CODE_JAVASCRIPT,sqlite-connection.ts,339,FUNCTION
+MTH-6D51C078,createSqlLiteDataSource,No description,CODE_JAVASCRIPT,sqlite-connection.ts,350,FUNCTION

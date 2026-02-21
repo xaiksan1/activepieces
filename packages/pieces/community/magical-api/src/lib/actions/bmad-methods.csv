@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-8A98FDBA,sleep,No description,CODE_JAVASCRIPT,get-company-data.ts,6,FUNCTION
+MTH-36865A0B,sleep,No description,CODE_JAVASCRIPT,get-profile-data.ts,6,FUNCTION
+MTH-A61C012B,sleep,No description,CODE_JAVASCRIPT,parse-resume.ts,6,FUNCTION
+MTH-9161E3D9,sleep,No description,CODE_JAVASCRIPT,review-resume.ts,6,FUNCTION
+MTH-503C0E90,sleep,No description,CODE_JAVASCRIPT,score-resume.ts,6,FUNCTION

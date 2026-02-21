@@ -1,0 +1,6 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-EC86C13E,calculateTokensFromString,No description,CODE_JAVASCRIPT,index.ts,3,FUNCTION
+MTH-5ECA79AF,calculateMessagesTokenSize,No description,CODE_JAVASCRIPT,index.ts,16,FUNCTION
+MTH-768637EC,reduceContextSize,No description,CODE_JAVASCRIPT,index.ts,33,FUNCTION
+MTH-01C3CBEE,exceedsHistoryLimit,No description,CODE_JAVASCRIPT,index.ts,52,FUNCTION
+MTH-A5249F28,modelTokenLimit,No description,CODE_JAVASCRIPT,index.ts,69,FUNCTION

@@ -1,0 +1,20 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-2EDCCE94,isAction,No description,CODE_JAVASCRIPT,flow-structure-util.ts,15,FUNCTION
+MTH-2CCC5F98,isTrigger,No description,CODE_JAVASCRIPT,flow-structure-util.ts,19,FUNCTION
+MTH-F49CA7A2,getActionOrThrow,No description,CODE_JAVASCRIPT,flow-structure-util.ts,23,FUNCTION
+MTH-AE00706F,getTriggerOrThrow,No description,CODE_JAVASCRIPT,flow-structure-util.ts,36,FUNCTION
+MTH-B7525C59,getStep,No description,CODE_JAVASCRIPT,flow-structure-util.ts,49,FUNCTION
+MTH-B1959EEF,getStepOrThrow,No description,CODE_JAVASCRIPT,flow-structure-util.ts,53,FUNCTION
+MTH-DCA92CE3,getAllSteps,No description,CODE_JAVASCRIPT,flow-structure-util.ts,118,FUNCTION
+MTH-5AC047F5,createBranch,No description,CODE_JAVASCRIPT,flow-structure-util.ts,128,FUNCTION
+MTH-6C31E1D8,findPathToStep,No description,CODE_JAVASCRIPT,flow-structure-util.ts,136,FUNCTION
+MTH-749321C7,getAllChildSteps,No description,CODE_JAVASCRIPT,flow-structure-util.ts,150,FUNCTION
+MTH-DEE523FC,isChildOf,No description,CODE_JAVASCRIPT,flow-structure-util.ts,157,FUNCTION
+MTH-FDCFDA7E,findUnusedNames,No description,CODE_JAVASCRIPT,flow-structure-util.ts,170,FUNCTION
+MTH-D822A8D5,findUnusedName,No description,CODE_JAVASCRIPT,flow-structure-util.ts,181,FUNCTION
+MTH-5A548648,getAllNextActionsWithoutChildren,No description,CODE_JAVASCRIPT,flow-structure-util.ts,193,FUNCTION
+MTH-905A2CF0,extractConnectionIdsFromAuth,No description,CODE_JAVASCRIPT,flow-structure-util.ts,206,FUNCTION
+MTH-4B04E5E3,extractConnectionIds,No description,CODE_JAVASCRIPT,flow-structure-util.ts,214,FUNCTION
+MTH-BEB94CC0,extractAgentIds,No description,CODE_JAVASCRIPT,flow-structure-util.ts,230,FUNCTION
+MTH-368C234A,getExternalAgentId,No description,CODE_JAVASCRIPT,flow-structure-util.ts,234,FUNCTION
+MTH-CBB333FA,isAgentPiece,No description,CODE_JAVASCRIPT,flow-structure-util.ts,241,FUNCTION

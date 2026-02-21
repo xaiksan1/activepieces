@@ -1,0 +1,13 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-B3CEC376,createSpreadsheet,No description,CODE_JAVASCRIPT,create-spreadsheet.ts,104,FUNCTION
+MTH-E81DE49C,moveFile,No description,CODE_JAVASCRIPT,create-spreadsheet.ts,125,FUNCTION
+MTH-1123A1CA,getRows,No description,CODE_JAVASCRIPT,get-rows.ts,20,FUNCTION
+MTH-D76A7262,handleOverwrite,No description,CODE_JAVASCRIPT,insert-multiple-rows.action.ts,293,FUNCTION
+MTH-35B6C0F6,handleDuplicates,No description,CODE_JAVASCRIPT,insert-multiple-rows.action.ts,339,FUNCTION
+MTH-B6493F75,normalInsert,No description,CODE_JAVASCRIPT,insert-multiple-rows.action.ts,373,FUNCTION
+MTH-3999E2C8,formatInputRows,No description,CODE_JAVASCRIPT,insert-multiple-rows.action.ts,392,FUNCTION
+MTH-A5EB4172,convertJsonToRawValues,No description,CODE_JAVASCRIPT,insert-multiple-rows.action.ts,417,FUNCTION
+MTH-673DBBCA,convertCsvToRawValues,No description,CODE_JAVASCRIPT,insert-multiple-rows.action.ts,482,FUNCTION
+MTH-032AB7D8,extractRowNumber,No description,CODE_JAVASCRIPT,insert-row.action.ts,70,FUNCTION
+MTH-509D1CD2,appendGoogleSheetValues,No description,CODE_JAVASCRIPT,insert-row.action.ts,75,FUNCTION
+MTH-49937308,formattedValues,replace empty string with null to skip the cell value,CODE_JAVASCRIPT,update-row.ts,56,FUNCTION

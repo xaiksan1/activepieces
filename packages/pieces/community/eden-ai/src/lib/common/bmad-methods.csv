@@ -1,0 +1,4 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-9809DCAE,logEdenAiError,No description,CODE_JAVASCRIPT,client.ts,8,FUNCTION
+MTH-9F9832B3,parseEdenAiError,No description,CODE_JAVASCRIPT,client.ts,20,FUNCTION
+MTH-B4FA8E40,createStaticDropdown,No description,CODE_JAVASCRIPT,providers.ts,3,FUNCTION

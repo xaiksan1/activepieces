@@ -1,0 +1,3 @@
+method_id,method_name,description,category,file_path,line_number,type
+MTH-52085E8C,campaignsDropdown,No description,CODE_JAVASCRIPT,props.ts,4,FUNCTION
+MTH-E6EE206B,fireHttpRequest,No description,CODE_JAVASCRIPT,requests.ts,8,FUNCTION
